@@ -1,0 +1,3001 @@
+place_id,lat,lng,name,location
+1,36.63150787,-121.9120216,Pacific Ocean,"Seaside, CA"
+2,40.6901729,-74.04549122,Refreshment Park,"New York, NY"
+3,36.64202212,-93.2849121,Mickey Gilley Theatre,"Branson, MO"
+4,36.64202212,-93.2849121,Mickey Gilley Theatre,"Branson, MO"
+5,42.54887938,-82.90276765,Jaword,"Clinton, MI"
+6,42.54887938,-82.90276765,Jaword,"Clinton, MI"
+7,42.4412477,-82.90592193,Lax field,"Grosse Pointe, MI"
+8,42.4412477,-82.90592193,Lax field,"Grosse Pointe, MI"
+9,42.4647653,-82.89740323,Harper Sports,"St. Clair Shores, MI"
+10,42.4647653,-82.89740323,Harper Sports,"St. Clair Shores, MI"
+11,42.46345638,-82.89907693,St Pauls,"St. Clair Shores, MI"
+12,42.46345638,-82.89907693,St Pauls,"St. Clair Shores, MI"
+13,54.40022087,-0.71573685,Goathland,Goathland
+14,54.40022087,-0.71573685,Goathland,Goathland
+15,37.76195168,-84.84749793,Fort Harrod Statr Park,"Harrodsburg, KY"
+16,37.69148468,-85.23304938,McDonald's Springfield,"Springfield, KY"
+17,52.3106915,-114.100868,Wild Rapids Waterslide,Sylvan Lake
+18,52.3106915,-114.100868,Wild Rapids Waterslide,Sylvan Lake
+19,52.31153312,-114.105488,Lakeside Go-Karts & Mini Golf,Sylvan Lake
+20,52.31153312,-114.105488,Lakeside Go-Karts & Mini Golf,Sylvan Lake
+21,52.3123477,-114.0911022,More Moo,Sylvan Lake
+22,52.3123477,-114.0911022,More Moo,Sylvan Lake
+23,52.30880115,-114.0968362,Cobb's Foods,Sylvan Lake
+24,52.30880115,-114.0968362,Cobb's Foods,Sylvan Lake
+25,52.30847138,-114.0940575,Sylvan Lake Municipal Library,Sylvan Lake
+26,52.30847138,-114.0940575,Sylvan Lake Municipal Library,Sylvan Lake
+27,36.82837761,-84.86330152,Wayne Co HS football field,"Monticello, KY"
+28,36.82837761,-84.86330152,Wayne Co HS football field,"Monticello, KY"
+29,37.5734188,-77.54134915,Lora Robins Court,VA
+30,37.5734188,-77.54134915,Lora Robins Court,VA
+31,37.57490243,-77.54223328,Gray Court,VA
+32,37.57490243,-77.54223328,Gray Court,VA
+33,37.57535242,-77.54347203,North Court,VA
+34,37.57535242,-77.54347203,North Court,VA
+35,37.57502,-77.54380215,South Court,VA
+36,37.57502,-77.54380215,South Court,VA
+37,37.57438443,-77.54318847,Keller Hall,VA
+38,37.57438443,-77.54318847,Keller Hall,VA
+39,37.57431563,-77.54264403,The Clinton Webb Arts Tower,VA
+40,37.57431563,-77.54264403,The Clinton Webb Arts Tower,VA
+41,37.57402007,-77.54348247,Crenshaw Field,VA
+42,37.57402007,-77.54348247,Crenshaw Field,VA
+43,37.57522023,-77.54029315,D-Hall,VA
+44,37.57522023,-77.54029315,D-Hall,VA
+45,37.63844548,-84.76318175,The Danville HS. ANCHOR,"Danville, KY"
+46,37.63844548,-84.76318175,The Danville HS. ANCHOR,"Danville, KY"
+47,37.63844548,-84.76318175,The Danville HS. ANCHOR,"Danville, KY"
+48,37.63844548,-84.76318175,The Danville HS. ANCHOR,"Danville, KY"
+49,37.57652683,-77.53763198,Gumenick Quadrangle,"Richmond, VA"
+50,37.57652683,-77.53763198,Gumenick Quadrangle,"Richmond, VA"
+51,37.57652197,-77.53740133,Maryland Hall,"Richmond, VA"
+52,37.57652197,-77.53740133,Maryland Hall,"Richmond, VA"
+53,37.57628313,-77.53741093,Puryear Hall,"Richmond, VA"
+54,37.57628313,-77.53741093,Puryear Hall,"Richmond, VA"
+55,37.57491832,-77.53896608,E. Carlton Wilton Center,VA
+56,37.57491832,-77.53896608,E. Carlton Wilton Center,VA
+57,37.57458968,-77.53979262,Gottwald Center for the Sciences,VA
+58,37.57986092,-77.53774457,Admissions,"Richmond, VA"
+59,37.57957448,-77.5378608,Robins Hall,"Richmond, VA"
+60,37.579134,-77.53840665,Dennis Hall,"Richmond, VA"
+61,37.57887843,-77.53931727,Moore Hall,"Richmond, VA"
+62,37.5768891,-77.53761043,Virginia Baptist Historical Society ,"Richmond, VA"
+63,37.57736812,-77.5374924,Ryland Hall,"Richmond, VA"
+64,37.57849432,-77.53593635,School of Law,"Richmond, VA"
+65,37.57769965,-77.53793438,Weinstein Hall,"Richmond, VA"
+66,37.57774268,-77.53803905,The Garden of Five Lions,"Richmond, VA"
+67,37.57815798,-77.5386827,Whitehurst,"Richmond, VA"
+68,37.57838165,-77.53888202,Freeman Hall,"Richmond, VA"
+69,37.57875622,-77.53835715,Jeter Hall,"Richmond, VA"
+70,37.57826488,-77.53916668,Wood Hall,"Richmond, VA"
+71,37.57801753,-77.53942063,Thomas Hall,"Richmond, VA"
+72,37.57828713,-77.53993335,Lakeview Hall,"Richmond, VA"
+73,37.5785127,-77.53976277,Marsh Hall,"Richmond, VA"
+74,37.5782448,-77.5422082,The Gazebo,VA
+75,40.7095397,-89.59914017,Party Show,"Peoria, IL"
+76,37.57669998,-77.53792703,Boatwright Tower,"Richmond, VA"
+77,46.90446177,-123.0485791,Mima Mounds - Viewing Platform,"Olympia, WA"
+78,39.68922383,-75.52019119,Delaware Memorial Bridge,"New Castle, DE"
+79,37.77672242,-84.85455985,Mercer Schools Sports Complex,null
+80,38.05576177,-85.5336816,Mike Egan football field Bullitt East HS,"Mount Washington, KY"
+81,38.05576177,-85.5336816,Mike Egan football field Bullitt East HS,"Mount Washington, KY"
+82,48.22664678,-121.462805,Mt. Pugh View,"Darrington, WA"
+83,52.34957737,-114.1394218,Sylvan Lake,Lacombe
+84,33.2764758,-84.2905547,Best Western,null
+85,52.93840385,-9.391619833,Joseph McHugh,Liscannor
+86,37.10667358,-113.5801429,College Inn Dixie College of Utah,"St. George, UT"
+87,38.29860246,-111.4194959,Affordable Inn,"Torrey, UT"
+88,38.99312237,-110.1417958,Tamarisk,null
+89,30.6048643,-96.32035162,Ralphies,"College Station, TX"
+90,37.98173792,-112.7387314,Rest Stop,null
+91,37.98173792,-112.7387314,Rest Stop,null
+92,37.98173792,-112.7387314,Rest Stop,null
+93,47.61185938,-122.342475,Zig Zag Cafe,"Seattle, WA"
+94,37.98032235,-84.41136707,E J Hayes Middle School,"Lexington, KY"
+95,38.36034348,-85.37538242,East Oldham Middle School,"Ballardsville, KY"
+96,38.36034348,-85.37538242,East Oldham Middle School,"Ballardsville, KY"
+97,38.36034348,-85.37538242,East Oldham Middle School,"Ballardsville, KY"
+98,38.19904815,-84.5575734,Georgetown Middle School,"Georgetown, KY"
+99,42.46492337,-83.88288692,declanon home,null
+100,37.9288458,-84.466067,Family Worship Center,null
+101,33.9761609,-118.3598212,7 Eleven,"Inglewood, CA"
+102,51.06487362,0.579475164,The Parish Church of St George,Benenden
+103,51.06614455,0.580301285,Benenden Village Green,Benenden
+104,51.06563772,0.579561517,Benenden Church of England Primary School,Benenden
+105,42.01644913,-74.07405195,Zena School,"St. Remy, NY"
+106,51.0382971,0.497503167,Wealden Advertiser,Hawkhurst
+107,50.89307678,0.541578717,Bannatyne's Health Club,null
+108,51.05001429,0.509721637,Kristel Fireplaces,Hawkhurst
+109,51.15529423,0.552615517,Roberts Country Vehicles LTD (RCV),Staplehurst
+110,51.15524672,0.552642833,Total Petrol Station,Staplehurst
+111,51.01323698,0.615186017,Newenden Bridge,Sandhurst
+112,42.05557963,-71.8623216,The Lic's Restaurant,"Webster, MA"
+113,51.02743467,0.561552883,The New Swan,Sandhurst
+114,51.02571892,0.56676075,Independent\\u00a0General\\u00a0Store,Sandhurst
+115,51.02712773,0.56277515,Sandhurst Tea Rooms,Sandhurst
+116,51.0082599,0.613761683,The Station House,Northiam
+117,51.02563698,0.5671863,Jet Petrol Station,Sandhurst
+118,51.04249262,0.5079965,The Kent Cricketer,Hawkhurst
+119,51.03991292,0.503988783,Spar,Hawkhurst
+120,42.45276275,-83.07935193,Red Lobster,"Warren, MI"
+121,40.79479434,-74.12854911,Jim Dandy,null
+122,50.89505698,0.538397983,Beauport Park Golf Course,null
+123,51.0152168,0.613922967,The White Hart,Newenden
+124,51.04107537,0.698687517,Chapel Down,null
+125,51.04107832,0.69825555,Richard Philips Chapel Down,null
+126,51.04107678,0.698341133,Chapel Down Shop,null
+127,51.06600357,0.666069,C B Motors (Kent) LTD,St. Michaels
+128,51.06602062,0.666154017,Esso,St. Michaels
+129,10.71751725,122.5597658,sawasdee,Iloilo City
+130,51.61230058,-2.199808359,Jack Hare's Bar,Westonbirt
+131,45.7461428,-87.0824838,Hiawatha Motel,"Escanaba, MI"
+132,-33.72381753,150.4540877,Selwood's Science & Puzzles,"Hazelbrook, New South Wales"
+133,35.18555745,-84.87424167,Living Word Church,"Cleveland, TN"
+134,46.46371132,-84.37604135,Arby's,"Sault Ste. Marie, MI"
+135,51.17086222,0.546961517,Aaron Services,Staplehurst
+136,51.17025485,0.548480767,United Balloon and Gas,Staplehurst
+137,51.1625465,0.552843117,Staplehurst Village Centre,Staplehurst
+138,51.10921247,0.547140983,Shell Petrol Station,Cranbrook
+139,41.93509992,-87.66225923,Al\\u00fa Salon,"Chicago, IL"
+140,51.13453347,0.504744517,Blantyre House Prison,Goudhurst
+141,51.09794297,0.53602335,Cranbrook Clinic,Cranbrook
+142,51.08534442,0.512562867,Heartlydyke Farm Shop,Cranbrook
+143,51.08506988,0.5124022,More Ideas Design,Cranbrook
+144,51.0849815,0.512285717,Iroko Design,Cranbrook
+145,51.08492615,0.512175533,Wealden Pools & Spas,Cranbrook
+146,51.08499727,0.51257435,Car Smart,Cranbrook
+147,51.06781105,0.578011783,The Village Shop,Benenden
+148,51.06730595,0.5793188,King William IV,Benenden
+149,35.48031895,-80.87780623,Cornelius Post Office,"Cornelius, NC"
+150,11.60651068,122.7296983,Baybay Roxas City,Roxas City
+151,38.44177673,-105.2382853,The Owl Cigar Store,"Canon City, CO"
+152,51.05350112,0.517255962,Hawkhurst Trade Centre,Hawkhurst
+153,51.05368321,0.517465174,Hawkhurst Salvage,Hawkhurst
+154,53.21592963,6.500078567,Square Drankenstore,Groningen
+155,53.3086486,-6.369808217,Home,Lucan
+156,47.45093118,8.562726975,ZRH Zurich Airport,Kloten
+157,51.11829675,0.55536747,Cranbrook Car Sales,Cranbrook
+158,51.1184769,0.555372834,Cranbrook Service Station,Cranbrook
+159,51.11850047,0.555488169,Murco,Cranbrook
+160,51.11852909,0.555386245,Cranbrook Cycle Centre,Cranbrook
+161,51.11858297,0.55539161,Cranbrook Exhaust and Tyre Centre,Cranbrook
+162,51.11863685,0.554975867,In Touch Installations,Cranbrook
+163,51.11847185,0.554924905,BGH Geartech,Cranbrook
+164,51.11846007,0.554922223,Cranbrook Kitcars,Cranbrook
+165,51.1184045,0.554900765,Wood By Design,Cranbrook
+166,51.11878333,0.555024147,Splash 'n' Dash,Cranbrook
+167,51.11888603,0.555067062,Country Cars (Kent) LTD,Cranbrook
+168,51.06190517,0.506744385,Station Garage Village Shop,Hawkhurst
+169,50.98626202,0.60591265,Badgers Oak Vetinary Clinic,Northiam
+170,11.6066651,122.729578,Yuki's Restaurant,Roxas City
+171,50.73967027,-3.31910065,"St Michael's Church, West Hill",null
+172,18.97524918,-99.26369845,Jard\\u00edn Del Jaguar,"Cuernavaca, Morelos"
+173,42.71242445,-78.97241552,Graycliff Estate,"Derby, NY"
+174,32.19056568,-100.0111112,Horse Hollow Wind Farm,"Ovalo, TX"
+175,50.64256938,-3.396736433,House With The Orange Umbrella,null
+176,51.04691805,0.514492017,Ariva Bus Station,Hawkhurst
+177,51.04199165,0.507564183,Maison Du Vin,Hawkhurst
+178,51.0404208,0.505859256,Dragons,Hawkhurst
+179,51.04023487,0.505550967,The Vicarage,Hawkhurst
+180,51.03959272,0.5046013,Village Beakon,Hawkhurst
+181,51.03933637,0.50434649,Hawkhurst Village Sign,Hawkhurst
+182,51.04034908,0.503779267,The Dairy,Hawkhurst
+183,51.0405576,0.50401945,Hillcrest,Hawkhurst
+184,51.04908521,0.506266952,The Hexagon,Hawkhurst
+185,51.04967353,0.50690495,Swlwyn House,Hawkhurst
+186,51.0491857,0.50647305,Tylers,Hawkhurst
+187,51.04869739,0.506473482,The Catholic Church of St. Barnabas,Hawkhurst
+188,51.04852371,0.506822169,1 Oakfield Cottages,Hawkhurst
+189,51.04848156,0.506886542,2 Oakfield Cottages,Hawkhurst
+190,51.04820697,0.507745483,Crane House,Hawkhurst
+191,51.04822023,0.508579133,The Mews Cottage,Hawkhurst
+192,51.04814143,0.508823367,1 Northgrove Cottages,Hawkhurst
+193,30.53181547,-90.54348943,Mrs. Heather's Pumpkin Patch,"Hammond, LA"
+194,51.04799075,0.509603783,Hawkhurst Asylum,Hawkhurst
+195,51.04808092,0.51071405,The Old Bazaar,Hawkhurst
+196,51.04876653,0.51132828,The Old Public Toilets ,Hawkhurst
+197,38.2537852,-85.6702609,The Patron,"Louisville, KY"
+198,38.36239285,-96.51444845,1874 Stonehouse,KS
+199,50.64716852,-3.416539317,The Saddlers Arms,Lympstone
+200,52.50819612,-106.4170718,Saskatchewan River Valley Museum,Hague
+201,35.48279943,-80.87345028,Napa Auto Parts,"Cornelius, NC"
+202,41.89405785,-72.46052228,Hometown Pizza,"Ellington, CT"
+203,43.03619692,-78.7501835,Dunkin' Donuts,null
+204,35.4825832,-80.85973843,Food Lion,"Cornelius, NC"
+205,35.48259992,-80.85971653,NY Restaurant,"Cornelius, NC"
+206,35.48335365,-80.85939328,Bellacino's,"Cornelius, NC"
+207,19.48428333,-99.20246601,Deportivo Salvador Benavides,null
+208,36.5627002,-87.31126503,Casa Blanca ,"Clarksville, TN"
+209,43.20476523,-77.47787628,It's A Guy Thing! A Mens Salon.,"Webster, NY"
+210,43.20476523,-77.47787628,It's A Guy Thing! A Mens Salon.,"Webster, NY"
+211,37.53414665,-120.882394,Alex,"Turlock, CA"
+212,35.72987526,-81.34442144,"Alex Lee, Inc.","Hickory, NC"
+213,35.72987526,-81.34442144,"Alex Lee, Inc.","Hickory, NC"
+214,43.99870082,-88.53932033,Hughes' Home Maid Chocolates,"Oshkosh, WI"
+215,43.99870082,-88.53932033,Hughes' Home Maid Chocolates,"Oshkosh, WI"
+216,38.04208693,-83.94074005,McNabb Middle School,"Mount Sterling, KY"
+217,38.04208693,-83.94074005,McNabb Middle School,"Mount Sterling, KY"
+218,35.07361268,-106.6867048,Holy Family Franciscan Friary,"Albuquerque, NM"
+219,35.07361268,-106.6867048,Holy Family Franciscan Friary,"Albuquerque, NM"
+220,39.8072445,-75.74795972,Hilltop Crab House,"Avondale, PA"
+221,39.8072445,-75.74795972,Hilltop Crab House,"Avondale, PA"
+222,41.97226982,-87.71194696,Anderson Hall,"Chicago, IL"
+223,41.97226982,-87.71194696,Anderson Hall,"Chicago, IL"
+224,43.11158091,-77.54919112,Pare,"Rochester, NY"
+225,43.11158091,-77.54919112,Pare,"Rochester, NY"
+226,-38.16890735,144.3731507,Lost For Words Stand,"Geelong, Victoria"
+227,40.70759486,-73.69280515,Martino's Pizza & Restaurant,"Elmont, NY"
+228,47.62370728,-122.3258069,Lorelei Apartments,"Seattle, WA"
+229,41.96876262,-87.7170844,Jimmy's Fast Food,"Chicago, IL"
+230,41.96876262,-87.7170844,Jimmy's Fast Food,"Chicago, IL"
+231,41.96849045,-87.71723075,Seo Hae Restaurant,"Chicago, IL"
+232,41.96849045,-87.71723075,Seo Hae Restaurant,"Chicago, IL"
+233,41.9702436,-87.7160283,Bethany Presbyterian Church,"Chicago, IL"
+234,41.9702436,-87.7160283,Bethany Presbyterian Church,"Chicago, IL"
+235,41.9701768,-87.71378037,Albany Park Community Center,"Chicago, IL"
+236,41.97111587,-87.71354608,Alliance Holiness Church,"Chicago, IL"
+237,41.97111587,-87.71354608,Alliance Holiness Church,"Chicago, IL"
+238,41.97317035,-87.71728055,The First Temple Of Univeral Law,"Chicago, IL"
+239,41.97317035,-87.71728055,The First Temple Of Univeral Law,"Chicago, IL"
+240,41.97175667,-87.72454752,Volta Elementary School,"Chicago, IL"
+241,41.9683766,-87.72447122,Mayan Sol,"Chicago, IL"
+242,33.39312312,-84.7607685,Tokyo Japanese Steak House,"Raymond, GA"
+243,41.97484113,-87.71082477,Hanson Hall,"Chicago, IL"
+244,51.1304798,0.487671197,The Wagon Lodge,Goudhurst
+245,41.97318337,-87.71056544,Java Haus ,"Chicago, IL"
+246,25.03021045,121.5285669,Vinyl,Taipei City
+247,27.3608127,-82.52464305,North Sarasota Library,"Sarasota, FL"
+248,41.96864813,-87.7165552,Markellos Bakery,"Chicago, IL"
+249,41.9682716,-87.71686337,Q. Stop,"Chicago, IL"
+250,38.55482572,-109.5338361,Rim Tours HQ,"Castle Valley, UT"
+251,51.89743635,-8.474965096,Pizza D'Italia,Cork
+252,41.93755438,-87.66826451,Paris Nails,"Chicago, IL"
+253,41.93546335,-87.66395688,Athenaeum,"Chicago, IL"
+254,41.62695957,-86.2384057,Blockbuster,"South Bend, IN"
+255,53.17731272,-6.526190733,Blessington ,Blessington
+256,38.20557352,-94.8117441,Shalom Retreat Center,"Kansas, IL"
+257,41.96516967,-87.68854993,A&A Floral Arts ,"Chicago, IL"
+258,35.78365903,-86.91453159,Moe Better BBQ,TN
+259,55.39404775,13.15642834,Hemma,Trelleborg
+260,51.77767567,-0.740361617,High Moors,Halton
+261,40.82193953,-73.9925185,Blockbuster Video,"Fairview, NJ"
+262,53.33458598,6.51625915,C1000,Winsum
+263,51.91695352,-8.4730334,Costa,Cork
+264,51.77778072,-0.72903215,"St George's Church, RAF Halton",null
+265,51.77397698,-0.72850045,Cherry Tree Day Nursery,Halton
+266,51.76938572,-0.726688733,Princess Mary Gate,null
+267,35.87147555,-78.87839815,Durham County Wildlife Club,"Durham, NC"
+268,19.42456687,-99.12931681,Hospital Juarez,null
+269,51.77911803,-0.74476485,"Grand Union Canal, Wendover Arm",null
+270,51.17022701,0.552618206,Mama Mia's,Staplehurst
+271,51.16988393,0.552706718,KM Messenger's Newsagents,Staplehurst
+272,32.89360623,-79.92481855,Atlantic Intermodal,"Wando, SC"
+273,32.89359225,-79.924886,Atlantic Intermodal,"Wando, SC"
+274,39.52985385,-87.09830243,The Freeze,"Brazil, IN"
+275,50.74754438,7.177713086,Haralds Home,Bonn
+276,52.27724336,-0.877844095,Northampton Science Park,Moulton Park
+277,34.72844942,-82.3896597,Wendy's,"Piedmont, SC"
+278,34.4541317,-82.40533805,Honea Path EMS,"Honea Path, SC"
+279,35.76676941,-81.30384064,Goodman And Brooks Family Medicine,"Hickory, NC"
+280,19.26490402,-99.1717361,Hotel K20,Tlalpan
+281,34.75692252,-82.21089083,Mumsie's,"Simpsonville, SC"
+282,49.90914629,8.849433661,China Imbiss Hopsing,Dieburg
+283,42.69617305,-71.12607837,Stevens Memorial Library,"North Andover, MA"
+284,53.61856857,9.9509115,Jas Steakhouse,Hamburg
+285,35.7916373,-78.6610794,Supercuts,"Raleigh, NC"
+286,53.62272437,9.951595567,Ristorante Il Porcino,Hamburg
+287,53.62185165,9.952351033,Haspa,Hamburg
+288,53.62118082,9.952096167,Edeka,Hamburg
+289,41.82489332,-71.44896663,Mexico Restaurant,"Providence, RI"
+290,19.03181687,-98.22379585,Superama,"Puebla, Puebla"
+291,40.55997403,-74.16663051,Mo's,"New York, NY"
+292,51.57563673,-0.795699283,The Royal Oak - Bovington Green,null
+293,51.7159658,-1.967563517,Costa Coffee,Cirencester
+294,21.3066171,-157.7976537,Wa'ahila Ridge and State Park,"Honolulu, HI"
+295,35.48095292,-80.85808468,Cashion's,"Cornelius, NC"
+296,-38.18454943,144.53766,Leura Park Winery,"Curlewis, Victoria"
+297,41.48358237,-74.27123878,Thomas Bull Memorial Park,"Montgomery, NY"
+298,42.28771032,-88.05354778,The Chapel Mundelein Campus,IL
+299,43.11729823,-77.62193799,Pontillo's Pizzeria,"Rochester, NY"
+300,40.56288386,-105.0478095,Larimer County Veterans Memorial,"Fort Collins, CO"
+301,35.89829342,-78.89789585,Regency Cleaners,"Durham, NC"
+302,29.81053807,-95.72155612,Home,"Katy, TX"
+303,50.8016224,-0.042014122,Lido Fitness Centre,Saltdean
+304,50.80170377,-0.041901469,The White Room,Saltdean
+305,50.80178853,-0.041880012,Saltdean Library and Community Centre,Saltdean
+306,50.8013749,-0.042116046,Saltdean Lido,Saltdean
+307,50.89689907,0.069868863,The Green Man,Ringmer
+308,59.33954204,18.02934766,Karlberg,Stockholm
+309,35.38455946,-80.78566125,Kids Super Salon,"Charlotte, NC"
+310,38.04481735,-83.94256827,Montgomery Co HS New Gym,"Mount Sterling, KY"
+311,39.04275902,-77.45590977,Weller Elementary School,"Ashburn, VA"
+312,18.46064707,-66.26602147,Banco Popular,Dorado
+313,18.45998934,-66.26217127,Anfiteatro \\u00c1ngel Hern\\u00e1ndez,Dorado
+314,-37.92104495,145.1365651,Nando's,"Melbourne, Victoria"
+315,41.58447,-93.634912,Lava Row Camp: What's Next?,"Des Moines, IA"
+316,53.61832777,9.950515233,Hypovereinsbank,Hamburg
+317,53.61832777,9.950515233,Davini,Hamburg
+318,29.79932368,-95.4686522,Hanley Bros,"Houston, TX"
+319,35.34843877,-99.17021033,BF Hardware,"Burns Flat, OK"
+320,36.84409097,-76.13605082,Smokey Joes,"Virginia Beach, VA"
+321,37.76168849,-122.4349236,Gelateria Naia,"San Francisco, CA"
+322,35.62165821,139.6093306,Tenjinmori Bridge Bus Stop,null
+323,41.034935,-73.6924086,Pepsi-Cola,NY
+324,35.46702873,-80.87151597,Al's Auto Repair,"Cornelius, NC"
+325,35.41437672,-80.85667038,Auto Zone,"Huntersville, NC"
+326,35.41814658,-80.85694988,Seed Planters Supply,"Huntersville, NC"
+327,53.61741682,9.950425033,Konditorei Cafe Meyer,Hamburg
+328,31.44746947,-91.71709003,Taunton's,LA
+329,31.46029868,-91.65373707,Pud's,LA
+330,30.60388005,-90.99680543,Indian Mound Grocery,LA
+331,35.23449093,-97.48483966,Target Supercenter,"Norman, OK"
+332,41.66287018,-87.65321755,Wingz It Iz,IL
+333,36.77019198,-76.22415568,Passion the Restaurant,"Chesapeake, VA"
+334,51.89724875,-8.4811377,KINO,Cork
+335,19.33084122,-99.2591219,Iglesia San Fco De Asis,null
+336,33.09479883,-116.6458516,Jeremy's On The Hill,"Julian, CA"
+337,39.0447595,-77.48130107,Mills Playground,"Ashburn, VA"
+338,42.27636505,-83.77782993,Taco Bell,"Ann Arbor, MI"
+339,29.67697945,-95.59708068,Popeyes,"Houston, TX"
+340,45.69361319,-122.6395547,Gaiser Middle School,"Vancouver, WA"
+341,45.69570399,-122.6487279,Sarah J. Anderson Elementary School,"Vancouver, WA"
+342,45.71922944,-122.6540494,Salmon Creek Park & Ride,"Vancouver, WA"
+343,45.71890735,-122.6591831,Clark County Fire District 6,"Vancouver, WA"
+344,33.02709208,-96.64394438,Cottonwood Park,"Plano, TX"
+345,33.0326013,-96.64953,Northeast Bible Church,"Plano, TX"
+346,45.68476203,-122.6258942,Cliff's Tavern,"Vancouver, WA"
+347,54.68705208,-5.883382559,CIES (CETL Institutional E-learning Services),null
+348,45.73244131,-122.6372802,Student Services Center,"Vancouver, WA"
+349,35.74319628,-78.7511257,greenway,"Cary, NC"
+350,45.73240387,-122.6368484,The Bookie,"Vancouver, WA"
+351,45.73094633,-122.636847,Firstenburg Family Fountain,"Vancouver, WA"
+352,45.73146775,-122.6369852,Classroom Building,"Vancouver, WA"
+353,45.73085365,-122.6378703,Administration Building,"Vancouver, WA"
+354,45.73056158,-122.6380312,McClaskey Building,"Vancouver, WA"
+355,45.73068141,-122.6366419,Multimedia Classroom Building,"Vancouver, WA"
+356,45.73038184,-122.6358533,Undergraduate Classroom Building,"Vancouver, WA"
+357,45.73104088,-122.6364434,Library Building,"Vancouver, WA"
+358,45.73272214,-122.6360384,Engineering & Life Sciences Building,"Vancouver, WA"
+359,45.73337928,-122.6355502,Clark College at WSU Vancouver,"Vancouver, WA"
+360,45.69922126,-122.6527995,Lyle's Village Pantry,"Vancouver, WA"
+361,38.52952238,-84.80928577,Owen Co High School,"Owenton, KY"
+362,39.16994675,-84.40815898,Fifth Third MOC,"Cincinnati, OH"
+363,-43.53395535,172.6430078,LeftClick,Christchurch
+364,-43.53395535,172.6430078,Supreme Coffee,Christchurch
+365,37.1622171,-94.53831767,Missouri Fit Club,"Carl Junction, MO"
+366,39.66345502,-84.12911037,Cardinal Fitness,"Dayton, OH"
+367,35.30181013,-98.98791043,Rio's Restaurante,"New Cordell, OK"
+368,45.69000095,-122.62079,Grace Baptist Church,"Vancouver, WA"
+369,36.3568434,-119.6512831,Figaro's,"Hanford, CA"
+370,-33.04196328,-71.6263623,La Pastis,Valparaiso
+371,36.13165768,-86.79567773,Taboulis,"Nashville, TN"
+372,42.22850367,-83.6436687,Speedway,"Ypsilanti, MI"
+373,21.29133369,-157.8607678,John Dominis,"Honolulu, HI"
+374,59.3386682,17.98354113,Hallebergsv\\u00e4gen 27,Stockholm
+375,39.75503702,-74.22150285,Elizabeth V. Edwards School,"Barnegat, NJ"
+376,29.93666118,-90.10431757,Dr. Brobson Lutz,"New Orleans, LA"
+377,18.21140902,-67.14142203,Banco Popular,null
+378,40.19263515,-105.0544215,Cattle Pins,"Longmont, CO"
+379,40.82939,-74.20546,CRUSH IT! with @GaryVee,"Montclair, NJ"
+380,51.06861889,0.689099729,Shelly's Tea Rooms,St. Michaels
+381,51.06838124,0.687941015,Caf\\u00e9 Rouge,St. Michaels
+382,51.0682582,0.687141717,Waterstone's,St. Michaels
+383,51.06839135,0.687890053,The Lemon Tree,St. Michaels
+384,51.06875541,0.688241422,Laura Ashley,St. Michaels
+385,40.3645903,-105.5412644,Scot's Sporting Goods,"Estes Park, CO"
+386,37.08997618,-94.53040573,Casey's,"Joplin, MO"
+387,40.59177775,-74.10093787,Four Corners Vet,"New York, NY"
+388,44.4273478,-72.01771777,Holiday Motel,"St. Johnsbury, VT"
+389,35.21913495,-97.40819762,Lebanese Hafla,"Norman, OK"
+390,51.19452585,4.419747733,Hairtalk,Antwerp
+391,59.31776209,18.03234075,D\\u00e4rmedpasta,Stockholm
+392,30.30286162,-89.77248792,"Negril, Jamaica","Slidell, LA"
+393,30.30286162,-89.77248792,Pizza Hut,"Slidell, LA"
+394,45.58151623,-73.32875353,Quilles Saint-Julie,Ste.-Julie
+395,51.13184824,9.269435406,Grauer Turm,Fritzlar
+396,27.49733516,-82.57367665,Om Gaia,"Bradenton, FL"
+397,32.4176822,-90.02113581,Fanning Landing,"Brandon, MS"
+398,19.22764223,-99.25089705,Caba\\u00f1a Chayito ,Mexico City
+399,42.9320368,-77.31612325,Route 332 Self Storage,"Canandaigua, NY"
+400,42.96444295,-77.34768212,Hess,NY
+401,40.93990183,-72.99224873,On The Couch,"Miller Place, NY"
+402,45.69192701,-122.656914,Super Taco Express,"Vancouver, WA"
+403,45.69203193,-122.6568764,El Compadre Market,"Vancouver, WA"
+404,45.69324598,-122.6651242,Luciano's,"Vancouver, WA"
+405,41.79999925,-72.71407485,Lincoln Theater,"Hartford, CT"
+406,41.79900748,-72.71132827,Public Safety,"Hartford, CT"
+407,19.26221109,-99.17425454,Hotel Xol-ha,Tlalpan
+408,60.20612617,25.14545202,Cirrus,Helsinki
+409,60.20894079,25.14347792,Vuotalo,Helsinki
+410,35.82744162,-78.6330569,Bufano & Bufano,"Raleigh, NC"
+411,45.73170272,-122.6363173,Golden Section,"Vancouver, WA"
+412,51.6655015,-3.142830417,Newbridge Train Station,Newbridge
+413,37.09028897,-94.52715325,City Of Joplin Public Works Center,"Joplin, MO"
+414,38.25751362,-85.51101187,Jeffersontown High School gym,"Middletown, KY"
+415,59.33654084,18.02574897,Alstr\\u00f6mergatan 51,Stockholm
+416,36.90923816,-121.7558588,2nd Street Cafe,"Pajaro, CA"
+417,40.82732947,-73.20175615,Chase,NY
+418,40.01739957,-105.2874965,Home,"Boulder, CO"
+419,33.61425915,-91.80784442,Monticello High School Track,"Monticello, AR"
+420,57.70439946,11.96472287,Kungsportplatsen,Gothenburg
+421,59.31621733,18.03378399,Dragon Palace,Stockholm
+422,51.02193717,7.0854608,"Hotel-Restaurant \Haus Pohle\""""",Bergisch Gladbach
+423,29.86662379,-95.53819299,Rudy's Bbq,"Jersey Village, TX"
+424,53.58431262,9.982615033,Feen Apotheke,Hamburg
+425,50.81364482,7.156771767,Orthop\\u00e4die K\\u00fchnreich,Troisdorf
+426,51.23582477,-0.204663277,Richer Sounds,null
+427,50.97764904,6.893556118,Bildungszentrum Butzweilerhof,Cologne
+428,45.7178137,-122.6580459,Cafe At 134th Street Espresso,"Vancouver, WA"
+429,45.67828016,-122.6696196,Higher Grounds Coffee,"Vancouver, WA"
+430,45.69268018,-122.6588774,Blockbuster,"Vancouver, WA"
+431,48.75507458,-122.4758483,Sunshine Liqidators,"Bellingham, WA"
+432,39.72746162,-75.11623448,Monster Beverage,"Glassboro, NJ"
+433,-33.94074387,151.2310245,#53 Maroubra,"Sydney, New South Wales"
+434,22.29991247,114.172314,Sneaker,Tsim Sha Tsui
+435,34.11536383,-118.1563469,Danger Headquarters,"South Pasadena, CA"
+436,50.0379276,8.960463817,Check In Bistro,Seligenstadt
+437,50.76629543,3.25835935,RC Curtrycke,Kortrijk
+438,43.07345602,-77.66376467,Darkwind Media,"Rochester, NY"
+439,33.64730538,-91.80233181,Ralph McQueen & Co  ,"Monticello, AR"
+440,33.8010333,-118.3511689,Salon Yiorgo,"Torrance, CA"
+441,45.72916672,-122.6386401,Cougar Statue,"Vancouver, WA"
+442,38.28640985,-76.48391088,Chef's American Bistro,"California, MD"
+443,22.28254519,114.1549662,\\u6625\\u56de\\u5bae,Hong Kong
+444,48.54673417,9.184224483,Skatbrunnen,Reutlingen
+445,51.05771598,0.506283045,Babies Castle,Hawkhurst
+446,35.240284,-89.8390072,"LDS Church - Memphis, TN Temple","Memphis, TN"
+447,29.6776875,-95.59913235,Burger King,"Houston, TX"
+448,33.63963299,-91.8017149,Mazzio's,"Monticello, AR"
+449,50.00370413,8.1741475,Hundeplatz SV OG MZ Finthen,Mayence
+450,48.54371803,9.187719567,Linde,Reutlingen
+451,42.65733752,-71.24822997,River Rd Monastary,"Andover, MA"
+452,42.33962279,-71.13226847,Fairbanks Street,"Brookline, MA"
+453,35.7812494,-78.37064005,El Cerro,"Eagle Rock, NC"
+454,41.33119218,-75.78260112,Convienient Mart,"Pittston, PA"
+455,54.59846765,-5.886814633,The Cleo,null
+456,52.46683472,16.9270134,Collegium Mathematicum,Poznan
+457,48.39327548,7.904318667,Steuerberater Reifenschweiler,Friesenheim
+458,50.2759732,9.11214929,Colorchemie,B\\u00fcdingen
+459,18.1871159,-65.8849861,Alcaldia,null
+460,48.59069061,7.868301392,Some Place,Kiel
+461,42.16644427,-83.78102388,Mac's,"Saline, MI"
+462,38.11009026,-85.75150541,Fairdale HS gym,"Fairdale, KY"
+463,50.05051792,10.22821805,G33K @ Sw,Schweinfurt
+464,34.70423532,-82.2647578,Martin Farms,"Simpsonville, SC"
+465,25.98663838,-80.1256261,Angel Nails,"Hallandale, FL"
+466,-34.21279268,151.0016081,Otford School,"Wollongong, New South Wales"
+467,52.4648738,16.91676736,Dworzec Jana III Sobieskiego,Poznan
+468,52.38369395,16.88403368,MaxROY.com,Poznan
+469,53.220061,8.59050649,Marktkauf Schwanewede,Schwanewede
+470,51.1834724,14.42266703,Nicolaiturm,Bautzen
+471,42.6845124,-83.1336052,Paul's Family Restaurant,"Rochester, MI"
+472,60.20878621,25.14182568,Vuosaaren Urheilutalo,Helsinki
+473,48.53231508,9.180707932,Sparkasse,Reutlingen
+474,60.17743842,24.95033741,Himshikhar,Helsinki
+475,47.16306368,8.295523967,Coiffeur,Hochdorf
+476,49.33667062,7.189393875,Tanzschule Denne,Neunkirchen
+477,29.90491348,-96.87896238,Prause Meat Market,"La Grange, TX"
+478,43.6748592,-70.29516513,Pat's Meat Mart,"Portland, ME"
+479,39.10374198,-95.85205317,Silver Lake Elementary School,"Silver Lake, KS"
+480,38.31765588,-84.03779702,Nicholas County HS gym,"Carlisle, KY"
+481,52.37629345,16.89438701,MySquash.pl,Poznan
+482,40.72211012,-73.51543557,China Wok,NY
+483,48.70765686,9.645988464,radiofips,Goppingen
+484,51.89828376,-8.474493027,The Vineyard,null
+485,49.4091476,11.00169403,Aldi Stein,Stein
+486,48.51657592,9.20017004,RTA,Reutlingen
+487,48.51276652,9.196243286,Friedhof R\\u00f6merschanze,Reutlingen
+488,33.29081927,-111.7537133,Mountainside Fitness,"Gilbert, AZ"
+489,48.16058372,12.18598597,Videokiste Haag,Fraunberg
+490,52.02353498,4.872052917,VVV Tourist Information,Oudewater
+491,52.0236663,4.871800767,Post Office,Oudewater
+492,48.52069415,9.120052457,Stern Kebap,Kusterdingen
+493,55.59127589,13.00868345,Widen/Heden,Malmo
+494,42.19699728,-79.25057458,Heritage Village,"Sinclairville, NY"
+495,41.70149157,-81.27428355,Sunoco,"Painesville, OH"
+496,41.69799123,-81.27943422,Golden Crown,"Painesville, OH"
+497,38.57402372,-92.26617542,Grandma & Grandpa's House,"Jefferson City, MO"
+498,35.98863372,-106.07775,La Cocina,"Espanola, NM"
+499,28.3762145,-81.5071603,Benihana,"Orlando, FL"
+500,48.03162382,11.35335455,M\\u00fchltal,Starnberg
+501,51.09155584,0.516239405,Mounts Hill Woodcraft & Design,Cranbrook
+502,52.45929126,16.90539479,RTV Towers,Poznan
+503,52.40985426,16.91927791,Collegium Maius,Poznan
+504,33.37932238,-84.63063893,Casa De Penner,"Sharpsburg, GA"
+505,41.25628995,-72.89787292,Sandcastles Condominiums,CT
+506,51.93257059,13.89129996,Videoland,Lubin
+507,58.91471618,17.9406473,Yvonnes Crib,Nynashamn
+508,50.04861472,10.23540343,ESSO,Schweinfurt
+509,37.69552295,-121.928765,Stoneridge Mall,"Pleasanton, CA"
+510,52.46604709,8.376350999,Volksbank,Lemf\\u00f6rde
+511,32.04330687,118.7861615,Chuan Wei Guan Restaurant,Nanjing
+512,40.75949137,-73.83411057,Temple Snacks,"New York, NY"
+513,42.5883522,-83.31382562,Starbucks,"Bloomfield Hills, MI"
+514,34.91776833,-85.29869222,Tree Farm,GA
+515,40.76025452,-73.8339334,Chinese-Korean Noodles & Dumpling,"New York, NY"
+516,48.0664366,9.784537554,Familie J\\u00e4ckle,Biberach
+517,34.92003157,-85.07345387,Kittle Christmas Tree Farm,"Ringgold, GA"
+518,40.64246312,22.91849442,Mylos,"Thessaloniki, Kentriki Makedonia"
+519,40.75704507,-73.82914127,Xian Small Delights,"New York, NY"
+520,47.16822075,8.288465117,Snack Oase,Hochdorf
+521,33.62699607,-91.80146482,Cowboy's,"Monticello, AR"
+522,53.59420961,7.2280296,Bagebur,Norden
+523,37.7756904,-122.4973069,Superior Palace,"San Francisco, CA"
+524,37.36202989,-77.48820545,flee & dwayne ,"Chester, VA"
+525,20.59380422,-100.3665988,La Calle Del 10,"Queretaro, Queretaro de Arteaga"
+526,36.6495212,-87.43854225,Hut Liquor Store,"Oak Grove, KY"
+527,51.57462915,6.909799576,Zuhause von,Bottrop
+528,51.57361873,6.904490264,CAP Markt,Bottrop
+529,31.8772661,118.5905457,Huang Pu Hotel,Dongshan
+530,48.0978674,9.790379017,Hospital zum Heiligen Geist,Biberach
+531,48.52228948,9.12108779,Rathaus Kusterdingen,Kusterdingen
+532,48.0918204,9.7945725,Ran Tankstelle,Biberach
+533,51.49796365,14.622902,Kaufland,Wei\\u00dfwasser
+534,49.24129405,6.978065819,Ludwigstra\\u00dfe,Sarrebruck
+535,49.70719973,7.98011465,Vorholz,Offenheim
+536,48.09978915,9.789132233,Havana Lounge Bar,Biberach
+537,55.40897203,12.9320914,Basmala,H\\u00f6llviksn\\u00e4s
+538,48.09451208,9.793293117,pro Video,Biberach
+539,43.64513599,-72.41526341,Vermont Institute Of Natural Science,"White River Junction, VT"
+540,47.87343653,13.1168726,Eugendorf Bahnhof,Eugendorf
+541,36.84247737,-76.13508224,Melt,"Virginia Beach, VA"
+542,33.53801915,-94.28852503,Hickville,"Hooks, TX"
+543,40.04557382,-75.3889787,John Andrews Salon,"Wayne, PA"
+544,36.86550195,-87.49061108,Hopkinsville Christian Co. Public Library,"Hopkinsville, KY"
+545,38.05387833,-95.91203928,Raaf Farmstead,"Gridley, KS"
+546,36.87014593,-87.4980319,Sonic-7th St.,"Hopkinsville, KY"
+547,44.0806206,-103.2267263,Celtic Connection Of The Black Hills,"Rapid City, SD"
+548,36.8641664,-87.50761325,Hopkinsville Christian Co. Recreation Dept.,"Hopkinsville, KY"
+549,38.22550495,-95.77709198,John Redmond Reservoir,"Burlington, KS"
+550,47.8708287,-121.9222623,House From The Ring,"Monroe, WA"
+551,32.40299568,-99.79827753,My Old Apartment,"Abilene, TX"
+552,43.68470168,-70.2937244,State of Maine Armory,"Portland, ME"
+553,33.64883799,-91.78457022,The Glass House,"Monticello, AR"
+554,51.52021431,6.32553058,Hotel am See,Geldern
+555,53.94927967,15.00622988,Pa\\u0142ac Stuchowo,\\u015awierzno
+556,53.94931124,15.01060724,Kosci\\u00f3\\u0142 (\\u015aw. Faustyny Kowalskiej),\\u015awierzno
+557,56.8793538,10.0156172,Midgaard,Sk\\u00f8rpinge
+558,50.91286623,8.01113528,Pizza Pino,Siegen
+559,48.52285085,9.119918346,Evangelische Kirche,Kusterdingen
+560,48.53273065,9.181087,Fris\\u00f6r Kurz,Reutlingen
+561,48.53254775,9.181880057,Volksbank Reutlingen,Reutlingen
+562,48.5332067,9.18454349,Spielplatz Eichh\\u00f6rnchenweg,Reutlingen
+563,48.53385142,9.181067348,Getr\\u00e4nkemarkt,Reutlingen
+564,48.53402193,9.180072248,Metzgerei Gusinde,Reutlingen
+565,48.53473058,9.180032015,Friedhof,Reutlingen
+566,48.53591698,9.177242518,Sportheim,Reutlingen
+567,48.53282305,9.181673527,Feuerwehrhaus,Reutlingen
+568,48.09754029,9.790851474,Kom\\u00f6dienhaus,Biberach
+569,48.09753671,9.790084362,Poco Loco,Biberach
+570,53.99289243,-1.544673443,Farrah's of Harrogate,null
+571,53.04841982,8.62922425,Weihnachtsmarkt Delmenhorst,Delmenhorst
+572,36.84210985,-76.13378288,Brooks Brothers,"Virginia Beach, VA"
+573,36.8420343,-76.13373235,Johnston & Murphy,"Virginia Beach, VA"
+574,36.84188962,-76.13375272,Origins,"Virginia Beach, VA"
+575,37.04698263,-87.48227477,Crofton Christian Church,"Crofton, KY"
+576,37.04738112,-87.48548553,Crofton Diner,"Crofton, KY"
+577,50.04149648,8.980382933,Bierhaus Anker,Seligenstadt
+578,37.05858479,-87.48777866,Gordon Park,"Crofton, KY"
+579,37.03589307,-87.48423335,Crofton Elementary School,"Crofton, KY"
+580,49.34326022,7.21733504,Parthenon,Neunkirchen
+581,52.43802668,16.9215095,KFC Plaza,Poznan
+582,37.38956107,-121.8840837,Costco,"San Jose, CA"
+583,48.26041282,-121.6018403,Nelson Bruseth Memorial Garden,"Darrington, WA"
+584,-12.09251022,-77.0544089,Nakachi,Lima
+585,48.39201832,-122.491411,La Conner Thai Restaurant,"La Conner, WA"
+586,48.06139602,9.603096843,Kapelle Bad Buchau,Bad Buchau
+587,48.0655332,9.60722208,Federseeklinik,Bad Buchau
+588,48.07704828,9.5590119,Disco Go In,Kanzach
+589,48.15264497,9.500770569,Gartenland Schlegel,Riedlingen
+590,48.15003562,9.48144685,Schefold,Riedlingen
+591,48.14621693,9.479216337,Tennishalle,Riedlingen
+592,48.15147467,9.477370977,Donau Apotheke,Riedlingen
+593,48.15448089,9.476995468,Zellemeesturm,Riedlingen
+594,48.15422323,9.476142526,Rathaus,Riedlingen
+595,48.15448089,9.475992322,Pfarrkirche Sankt Georg,Riedlingen
+596,48.44229795,9.229352474,Sch\\u00f6nbergturm,Pfullingen
+597,50.82434898,8.90207338,Alfred-Wegner-School Kirchhain,Kirchhain
+598,28.53002583,77.24280303,Olympia Gym,New Delhi
+599,36.89152108,-87.4897007,North Drive Middle Schol,"Hopkinsville, KY"
+600,41.62068944,-85.90070314,Malibu Tanning,"Goshen, IN"
+601,55.66318851,12.61482572,Chawalla,Copenhagen
+602,37.13930333,-94.49254447,Bruffett Chiropractic,"Webb City, MO"
+603,37.13916443,-94.49259325,Natural Health Center,"Webb City, MO"
+604,37.04752427,-87.48683018,Saul's Market,"Crofton, KY"
+605,49.93848567,6.641382267,REWE,Speicher
+606,38.01114755,-121.3016428,San Joaquin Delta College,"Stockton, CA"
+607,48.45527456,9.228901863,St\\u00e4dtisches Freibad,Pfullingen
+608,52.65715988,10.05609708,Classic Tankstelle,Celle
+609,52.80098177,9.96754225,Aldi Markt Bergen,Bergen
+610,52.80099932,9.967574283,Packstation,Bergen
+611,48.29731287,9.276612997,Augstbergturm,Trochtelfingen
+612,48.30554177,9.282642603,Aussichtspunkt,Trochtelfingen
+613,48.30753991,9.279590249,Brunnen,Trochtelfingen
+614,48.3093343,9.2793209,Ksk Steinhilben,Trochtelfingen
+615,48.30932391,9.277728796,Feuerwehr,Trochtelfingen
+616,48.30917762,9.278045297,Grundschule,Trochtelfingen
+617,48.30945235,9.277433753,Turnhalle,Trochtelfingen
+618,48.31055126,9.279702902,Friedhof,Trochtelfingen
+619,48.31585279,9.279005528,Sportheim,Trochtelfingen
+620,48.31321993,9.277739525,Kapelle,Trochtelfingen
+621,48.3094916,9.275931417,Familie Eschment,Trochtelfingen
+622,49.81193015,10.98705769,Tennis,Hirschaid
+623,53.5841908,9.978461266,Leo33,Hamburg
+624,37.04002223,-87.48538895,Dollar Store,"Crofton, KY"
+625,42.70560292,-72.71136672,High Pocket Bed & Breakfast,"Colrain, MA"
+626,63.82728406,20.327003,Istidsgatan 41,Umea
+627,48.30988407,9.279799461,Mariastatue,Trochtelfingen
+628,40.9433424,-72.97822188,Body Shop,"Miller Place, NY"
+629,36.8656822,-87.48926267,Founder's Square,"Hopkinsville, KY"
+630,32.12676239,-110.9613571,Flight Safety Tucson,"Tucson, AZ"
+631,36.5628184,-87.3129259,Floral Expressions,"Clarksville, TN"
+632,32.7951146,-79.9549983,Home,"Charleston, SC"
+633,48.42160038,9.254087806,Autohaus Lichtenstein,Lichtenstein
+634,48.41675491,9.256512523,Martin Baur,Lichtenstein
+635,48.33247075,9.3311892,Elektroger\\u00e4te Riedinger,Hohenstein
+636,48.33244237,9.331008196,Zahnarzt Gottwik,Hohenstein
+637,48.32966532,9.332128033,VR-Bank Alb eG,Hohenstein
+638,48.33008892,9.3298485,Friseur Worch,Hohenstein
+639,48.3300459,9.32946265,Heilig Kreuz Kirche,Hohenstein
+640,48.32998127,9.329609783,Friedhof,Hohenstein
+641,48.30795558,9.279604167,B\\u00e4ckerei M\\u00fcller,Trochtelfingen
+642,48.30803833,9.27388795,Dr. Harle,Trochtelfingen
+643,33.61550207,-111.9117953,Cigar King,"Scottsdale, AZ"
+644,48.90660122,7.658909583,Le Cygne,Gundershoffen
+645,40.8275737,-73.02291443,Kmart,"Farmingville, NY"
+646,48.84911173,8.203972783,Shell,Rastatt
+647,-38.14821625,144.3575668,West Carr & Harvey,"Geelong, Victoria"
+648,42.28675341,-83.74977546,Kosmo Deli,"Ann Arbor, MI"
+649,35.76604192,-81.30497128,Lowes Foods Grocery Store,"Hickory, NC"
+650,26.18164848,-81.80031538,BP Gas Station,"Naples, FL"
+651,32.41246528,-99.79744434,Bassetti Elementary,"Abilene, TX"
+652,45.18659113,-93.1850473,Home,"Minneapolis, MN"
+653,36.84438923,-76.12959775,Chipo ,"Virginia Beach, VA"
+654,33.69128582,-84.08980178,Bank Of America,"Lithonia, GA"
+655,-28.99051287,153.2823004,Campbell Hospital Coraki,"Coraki, New South Wales"
+656,37.55077247,127.0900362,Telephone Shop,Seoul
+657,53.04665422,8.63460874,Autoservice Wiesner,Delmenhorst
+658,53.04793578,8.61647671,OLB,Delmenhorst
+659,48.30833272,-122.6656199,Home,"Oak Harbor, WA"
+660,49.34971767,7.22470259,M\\u00f6bel Martin,Neunkirchen
+661,50.28901732,9.105346083,JOH B\\u00fcdingen,B\\u00fcdingen
+662,48.51726528,9.19916153,Parkhaus,Reutlingen
+663,48.51592209,9.199215174,Philharmonie Reutlingen,Reutlingen
+664,48.51553832,9.201006889,Getr\\u00e4nke Beck,Reutlingen
+665,48.53080888,9.189698696,Friedrich-Silcher-Schule,Reutlingen
+666,51.89824404,-8.477196693,Speedy's,Cork
+667,49.02328425,11.56650127,Wirt T\\u00f6ging,Dietfurt
+668,47.97181233,11.7686015,Dalmec GmbH,Aying
+669,33.97920153,-118.0369109,Moore Livingston Music,"Whittier, CA"
+670,45.55043622,-122.903076,West Coast Bank,"Hillsboro, OR"
+671,33.61553387,-111.9118518,Cigar King,"Scottsdale, AZ"
+672,43.88314555,-79.46885835,Scotiabank,Vaughan
+673,42.979427,-78.7988934,Bill Grays,"Buffalo, NY"
+674,45.72445764,-122.6345176,WSU Vancouver Entrance,"Vancouver, WA"
+675,48.57912775,7.718787964,L'Hacie ,Strasbourg
+676,54.29293352,9.647139,Diakoniewerk,Rendsburg
+677,35.60138848,-80.8960776,Wine Loft,"Mooresville, NC"
+678,41.89933991,-87.65306752,Restaurant Depot,"Chicago, IL"
+679,51.33689393,-2.957357733,Home,null
+680,40.89058893,-73.84697186,China King,"New York, NY"
+681,-38.14688005,144.359854,NAV ,"Geelong, Victoria"
+682,36.76441747,-76.20196307,Hometown Heroes Sports Pub,"Chesapeake, VA"
+683,40.72460067,-73.57860356,SF docs,NY
+684,36.14892535,-119.0610655,Charles,"Strathmore, CA"
+685,42.20012223,-73.96132723,Jerm,"Catskill, NY"
+686,50.86569499,4.27798926,De Montil,Dilbeek
+687,14.57075713,121.0253808,Makati Palace Of Lurve,Makati City
+688,50.12641513,8.7081789,Back-Factory,Frankfurt
+689,38.76499438,-84.6115015,Crittenden Mt. Zion,"Dry Ridge, KY"
+690,42.25204153,-83.73356433,Dusty's Collision,"Ann Arbor, MI"
+691,35.57962758,-80.87259655,Primary Care Associate,"Mooresville, NC"
+692,40.76954373,-73.98183141,Landmarc,"New York, NY"
+693,33.97893927,-118.0374566,Sushi,"Whittier, CA"
+694,33.97847002,-118.0373879,Sierra Verde Restaurant,"Whittier, CA"
+695,33.97806452,-118.0373866,Vergie's Cafe,"Whittier, CA"
+696,33.97806452,-118.0373866,Cafe Delight,"Whittier, CA"
+697,33.97527582,-118.0374808,Uptown Liquor,"Whittier, CA"
+698,33.97896354,-118.0378926,The Kutting Edge,"Whittier, CA"
+699,35.74531495,-78.750633,Speight Branch Greenway,"Cary, NC"
+700,34.91486245,-120.4527155,"Trinidad, Ca","Santa Maria, CA"
+701,46.14608852,-122.9284975,Quiver's,"Longview, WA"
+702,51.25215715,0.527394712,The Swan,Maidstone
+703,48.15365778,9.47532177,Marktplatz,Riedlingen
+704,48.15381882,9.47568655,Marktbrunnen,Riedlingen
+705,48.15398345,9.476528764,Zahnarzt Kieferle,Riedlingen
+706,48.15368999,9.4777143,Zahnarzt Reck,Riedlingen
+707,48.15268076,9.476040602,Donau,Riedlingen
+708,48.07883876,9.782112837,Entenweiher,Biberach
+709,33.63075923,-91.79221856,"The Vision Center, Ricky Ferguson","Monticello, AR"
+710,48.7488,-122.4490902,Weir's Beach,"Bellingham, WA"
+711,31.5542522,-110.2788551,McDonald's,"Sierra Vista, AZ"
+712,31.55419205,-110.300374,Sierra Vista Harley Davidson,"Sierra Vista, AZ"
+713,31.55379892,-110.2513003,First Christian Church,"Sierra Vista, AZ"
+714,38.99343061,-94.58805614,Dollar General,"Kansas City, MO"
+715,48.7040978,9.6550471,Easy Sports G\\u00f6ppingen,Goppingen
+716,53.18302915,8.755736033,Rewe Ritterhude,Ritterhude
+717,54.71115869,-5.83771324,Indian Ocean,null
+718,48.48435403,8.943600655,Familie Blickle,Rottenburg
+719,48.48009061,8.939496875,Feuerwehr,Rottenburg
+720,48.47871799,8.936063647,Martinshof,Rottenburg
+721,48.47879622,8.934813738,Di\\u00f6zese Rottenburg,Rottenburg
+722,53.08178663,8.59255808,Zum Gr\\u00fcnen Hof,Ganderkesee
+723,48.47792498,8.934803009,Polizeirevier,Rottenburg
+724,48.47749824,8.934009075,Erckenbrecht'sches Haus,Rottenburg
+725,60.16294902,24.9295342,Hakaniemen Kauppahalli,Helsinki
+726,48.47708217,8.933992982,Marktbrunnen,Rottenburg
+727,48.47705372,8.933590651,Rathaus,Rottenburg
+728,48.47553521,8.935747147,Stadtm\\u00fchle,Rottenburg
+729,48.47423359,8.934684992,Evangelische Kirche,Rottenburg
+730,48.47390285,8.932834268,Nonnenhaus,Rottenburg
+731,48.47272567,8.931900859,Pulverturm,Rottenburg
+732,48.47369658,8.931332231,Kapuzinertor,Rottenburg
+733,33.97806192,-118.0373463,La Pescadora,"Whittier, CA"
+734,31.62335458,-110.5484115,Sonoita Vineyards,"Elgin, AZ"
+735,48.47590862,8.93470645,Di\\u00f6zesanbibliothek,Rottenburg
+736,33.979223,-118.0382702,Spitfire Interiors,"Whittier, CA"
+737,35.7301438,-91.19932318,T Rick's,"Tuckerman, AR"
+738,48.47777206,8.934416771,Waldhorn,Rottenburg
+739,33.97773909,-118.3637768,Subway,"Inglewood, CA"
+740,45.73076753,-122.6358479,Fitness Center,"Vancouver, WA"
+741,45.7311607,-122.6355422,Opening the Secret,"Vancouver, WA"
+742,45.731127,-122.6349038,Pillars of Fullfillment,"Vancouver, WA"
+743,45.72884655,-122.6352096,The Wailing Bell,"Vancouver, WA"
+744,45.73228404,-122.6346946,Facilities Operations Building,"Vancouver, WA"
+745,40.75947678,29.92266756,Sevdicegin Mekani,null
+746,41.65730756,-81.37507468,Thai Orchid,"Mentor, OH"
+747,51.05624815,9.181304217,Feuerwehr Bad Zwesten,Bad Zwesten
+748,51.04826572,0.510225892,Chris Knott Insurance,Hawkhurst
+749,38.7234837,-90.69792835,Wendy's,null
+750,45.7308031,-122.6375967,Tower Room,"Vancouver, WA"
+751,45.72740859,-122.6398444,Sports Field,"Vancouver, WA"
+752,51.5815067,6.888996783,VfL Grafenwald,Bottrop
+753,40.35613823,-79.89909397,Bettis Atomic Power Laboratory,"West Mifflin, PA"
+754,41.17476654,-85.14816284,Parkview YMCA,"Fort Wayne, IN"
+755,45.73240199,-122.6364353,Recreation Office,"Vancouver, WA"
+756,36.8804059,-89.60186195,Cheers,"Sikeston, MO"
+757,40.72170773,-73.51564247,Tai Show West,NY
+758,33.79759755,-111.9786944,Gallagher's,"Cave Creek, AZ"
+759,47.2708502,-122.2285535,Studio Cuts,"Auburn, WA"
+760,30.02991658,-81.32498067,Beach House,"Ponte Vedra Beach, FL"
+761,29.6270138,-95.4649386,Ink Creations Tattoos,"Houston, TX"
+762,55.83629304,37.55291354,Starbucks,Moscow
+763,14.65726045,121.0561395,Seafood Island (Technohub),Quezon City
+764,48.45412885,8.921533917,Weiler Burg,Rottenburg
+765,18.46124458,73.8625707,Home,"Pune, Maharashtra"
+766,48.52524788,9.14536755,Tankstelle,Kirchentellinsfurt
+767,40.09401483,-82.99509048,Vertical Adventures,"Columbus, OH"
+768,48.15267718,9.471057057,Weilerkapelle,Riedlingen
+769,33.98612793,-118.0584057,Super Burrito,"Whittier, CA"
+770,48.15351105,9.474474192,Sch\\u00f6ne Stiege,Riedlingen
+771,51.06841503,0.687606133,Nationwide,St. Michaels
+772,35.81805306,-90.7049666,Light's Chiropractic,"Jonesboro, AR"
+773,47.1666824,8.289495707,Jialu,Hochdorf
+774,42.11235307,-72.54363592,Western New England College,"Springfield, MA"
+775,33.97459833,-118.0371858,Sophia's California Bistro,"Whittier, CA"
+776,30.63642802,-89.0594579,Poplar Head Methodist Church,"Saucier, MS"
+777,44.07159148,-79.26305013,Drysedale's Christmas Tree Farm,Uxbridge
+778,51.96777888,11.13656095,Schwanebeck,Schwanebeck
+779,36.87003752,-119.7633397,Frame Maker,"Fresno, CA"
+780,33.96779731,-118.0438149,Subway,"Whittier, CA"
+781,42.95414058,-81.61993387,Car Wash In Strathroy,Strathroy-Caradoc
+782,42.94682375,-81.6119621,Canadian Tire Gas Station,Strathroy-Caradoc
+783,48.0408741,-122.408014,Mike's Family Restaurant,"Langley, WA"
+784,47.16610616,8.292993307,Flora Pub,Hochdorf
+785,37.73136501,-122.4515648,Big Joe's Broiler #2,"San Francisco, CA"
+786,52.1319493,7.40717536,Heimat / Eltern,Steinfurt
+787,41.1184073,-7.94846749,Quinta do Ervedal,Resende
+788,41.69917964,-85.89428234,El Maguey,"Elkhart, IN"
+789,29.5596432,-98.56258567,ProCare Collision Centers,"San Antonio, TX"
+790,20.59061038,-100.3710683,Are\\u00f3pago Juan Pablo II,"Queretaro, Queretaro de Arteaga"
+791,28.66273212,-81.31187533,RHINOTRONICS.com,"Casselberry, FL"
+792,33.96840485,-118.0373496,Lee Owens Park,"Whittier, CA"
+793,32.76655542,-79.99319527,Yo Burrito,"Charleston, SC"
+794,37.447391,126.9327683,\\ub9c8\\ub2f9\\ubc14\\uc704 \\uc0bc\\uc131\\uc0b0,Seoul
+795,42.6134703,-71.2545974,Anderson Station,"Tewksbury, MA"
+796,34.21652713,-118.4483726,Fluff & Fold,"Los Angeles, CA"
+797,50.94881425,5.230000583,De Zoetekauw,Hasselt
+798,53.0630973,8.6181758,B\\u00e4ckerei Kr\\u00fctzkamp,Delmenhorst
+799,49.37497802,9.079424983,Sportverein FC Binau,Binau
+800,48.120224,11.52958679,Stolz's Bude,Munich
+801,46.50517878,6.676568267,Tamoil Petrol Station,Lutry
+802,49.23079025,9.15973325,Milj\\u00f6h Bistro,Bad Wimpfen
+803,49.23586807,9.1710192,Lidl,Offenau
+804,51.1529638,0.559181571,Staplehurst Mannor Nursing Home,Staplehurst
+805,51.16574825,0.627331138,MTC Cars,Headcorn
+806,51.16667666,0.627518892,Pyman's,Headcorn
+807,51.16701977,0.627459884,Total Petrol,Headcorn
+808,51.16719132,0.622336865,Factory Shop,Headcorn
+809,51.16772952,0.618758798,Headcorn Church,Headcorn
+810,51.16778334,0.619466901,Headcorn Church Graveyard,Headcorn
+811,51.1666363,0.619445443,Headcorn Village Hall,Headcorn
+812,51.16740324,0.620545149,Methodist Church,Headcorn
+813,51.16797339,0.620714128,The Kings Arms,Headcorn
+814,51.16894885,0.620046258,The White Horse,Headcorn
+815,51.16861922,0.620282292,The White Horse's Childrens Play Area,Headcorn
+816,51.17627258,0.581020117,The Hawkenbury,Staplehurst
+817,29.56248722,-98.50826573,Mama Lee's,"San Antonio, TX"
+818,51.85332553,5.942411883,Tweede thuis,Ooi
+819,41.45567029,-70.60016214,Che's Lounge,"Vineyard Haven, MA"
+820,48.09656579,9.789558649,Second-Hand Shop,Biberach
+821,19.64610105,-99.22352212,Arte,Mexico
+822,35.77578268,-78.65281493,Broadreach Inc,"Raleigh, NC"
+823,37.34144265,-120.5788116,Home,"Atwater, CA"
+824,50.43916058,-104.6327125,La Bodega ,Regina
+825,33.9754986,-118.0337276,City Hall,"Whittier, CA"
+826,38.84889315,-77.45669638,Preet,"Centreville, VA"
+827,40.54466768,-80.24081468,Kemptation,"Coraopolis, PA"
+828,48.16231505,9.446523417,\\u00d6sterberg,Riedlingen
+829,49.57466417,9.70097065,LAUDA DR. R. Wobser,Lauda-K\\u00f6nigshofen
+830,49.56741425,9.705197811,Maria Mohr | Fris\\u00f6r,Lauda-K\\u00f6nigshofen
+831,52.67677725,10.14257555,Hornshof - Das Blitzerdorf,Celle
+832,50.80129692,7.130974531,Praxis Dr. Weber,Troisdorf
+833,48.51181423,9.204501683,Aral Tankstelle,Reutlingen
+834,38.96286257,-95.28332949,Home Base,"Lawrence, KS"
+835,40.74051028,-74.00165319,VYNL,"New York, NY"
+836,37.86233453,-84.6617756,Reasoner Hall,"Wilmore, KY"
+837,40.74881774,-86.10365384,Wendy's,"Peru, IN"
+838,54.69487474,25.2815428,Vcup,Vilnius
+839,30.41074015,-97.6993078,Renaissance Women's Group,"Austin, TX"
+840,37.8845481,-84.37234553,The Chase Bar,"Richmond, KY"
+841,39.74335793,-104.9668851,The Grasshopper Alternative Medicine,"Denver, CO"
+842,40.71290111,-111.8765713,Columbus Center Library,"South Salt Lake, UT"
+843,42.98307561,-78.79594564,Panera,"Buffalo, NY"
+844,34.12836951,-84.57465291,North Ga Spinal,"Woodstock, GA"
+845,40.78687485,-73.12980115,Red Apple Restaurant,NY
+846,53.46491645,9.780808448,Lakierzentrum Neu Wulmstorf,Neu Wulmstorf
+847,37.54916912,-77.45317317,A Taste of the Far East,"Richmond, VA"
+848,39.78900462,-75.09156263,Millstream Appartments,"Woodbury, NJ"
+849,36.77466732,-76.34296833,Deep Creek Commons,"Chesapeake, VA"
+850,48.09318712,11.40058994,S-Bahnhof Stockdof,Gauting
+851,52.02543562,8.89950752,BCE-Elektronik,Lemgo
+852,41.92979543,-88.7542631,Chesapeake Bagel Bakery,"De Kalb, IL"
+853,35.23170948,-114.0148246,Motel 6,"Kingman, AZ"
+854,60.16969019,24.94323492,Pap\\u00e0 Giovanni,Helsinki
+855,35.44037569,-80.86510469,Lakeside Family Physicians,"Huntersville, NC"
+856,51.0734304,0.513305633,Tubslake Farm,Hawkhurst
+857,51.0624588,0.519608967,Merrymead Farm,Hawkhurst
+858,51.06007468,0.521111967,Paul's Farm,Hawkhurst
+859,39.19365595,-84.59907833,Terri\\u2019s Little Caf\\u00e9,"Cincinnati, OH"
+860,39.6235733,-86.11937522,Subway,"Greenwood, IN"
+861,42.4656996,-83.85410403,Relish- The Grill,"Brighton, MI"
+862,39.63551024,-79.95224087,Dadisman,"Morgantown, WV"
+863,42.30400437,-83.70900895,GNC,"Ann Arbor, MI"
+864,29.40206727,-95.26734352,Pearson Park,"Alvin, TX"
+865,38.52791287,-84.83145282,H O P Shops,"Owenton, KY"
+866,38.52791287,-84.83145282,H O P Shops,"Owenton, KY"
+867,18.16494923,-65.85415852,JC Penny,Humacao
+868,18.16494923,-65.85415852,Jose A Nassar & Asoc.,Humacao
+869,18.16494923,-65.85415852,Walmart,Humacao
+870,18.16494923,-65.85415852,ATT ,Humacao
+871,37.65555865,-121.0304506,Scottys Sub,"Modesto, CA"
+872,14.637003,121.0278073,Manila Bulletin,Quezon City
+873,14.65348273,121.0332743,Tempura (Trinoma),Quezon City
+874,48.70377565,9.651211788,\\u00c4rztehaus,Goppingen
+875,52.4450761,11.48530954,Allgemeinarzt Franzke,Letzlingen
+876,52.44053363,11.47987603,Legoland,Letzlingen
+877,53.08567395,8.578885383,Markant Schierbrok,Ganderkesee
+878,18.18188911,-65.86761546,Bell Oulet,Las Piedras
+879,29.30802243,47.85102808,School of Law,null
+880,19.32954992,-99.14407969,Hospital HMG,Coyoacan
+881,55.73988026,37.63193547,Aquamarine Hotel (bar And Restaurant),Moscow
+882,51.44984688,-0.921884917,Bulmershe Student Union,null
+883,43.47390067,-70.7125197,York County Courthouse,"Alfred, ME"
+884,56.41294735,10.87574315,Cafe Dagmar,Grenaa
+885,29.27838797,-81.08379294,Pizzano's Pizzeria,"Ormond Beach, FL"
+886,41.96958467,-87.70828805,Sahar II,"Chicago, IL"
+887,29.28056843,-81.06820693,Arby's ,"Ormond Beach, FL"
+888,35.0931285,-92.48604825,Piano Lessons - Mae,"Conway, AR"
+889,32.32122928,-90.10743856,"Valley Services, Inc.","Flowood, MS"
+890,38.34511588,-76.42504282,K.B. DERR AND SON Marina,"Lusby, MD"
+891,37.05773743,-94.57267943,JR Home,"Joplin, MO"
+892,45.72348395,-122.6885104,Alki MS,"Vancouver, WA"
+893,42.24583613,-83.62157842,Double Eagle Coney Island,"Ypsilanti, MI"
+894,33.63744905,-91.80183828,Popeye's Chicken,"Monticello, AR"
+895,40.52400223,-111.9505411,Des Home,"Riverton, UT"
+896,53.5066703,10.4824009,Opel Grundmann,Schwarzenbek
+897,40.25941208,29.06349421,TOFA?? Otomobil Fab.,null
+898,40.39941568,-74.03525591,Red Barn Store,"Atlantic Highlands, NJ"
+899,47.16624475,8.291115761,Seetalcenter Migros,Hochdorf
+900,34.16736671,-118.3230822,Dr. Benest,"Burbank, CA"
+901,42.52782175,-82.88218855,My House,"St. Clair Shores, MI"
+902,38.43311,-85.50960706,East Oldham Middle School,"Goshen, KY"
+903,31.55762052,-110.352071,FMWR Arts & Craft,"Fort Huachuca, AZ"
+904,20.68370658,-103.3870106,JW Marriott,"Guadalajara, Jalisco"
+905,47.56446628,7.565342188,Felix Platter-Spital,Basel-City
+906,54.0963653,10.02873558,Hof Voigt,Tasdorf
+907,46.70362854,8.85076141,Sala Restaurant Glacera,null
+908,49.2413548,9.258743917,Parkplatz,Oedheim
+909,37.27567463,-77.53159048,Archer's Garage & Towing,"Ettrick, VA"
+910,46.17933858,7.385206367,Boulangerie,null
+911,54.44450648,9.589156867,Autorastplatz,Lottorf
+912,47.47509233,9.484059367,"Industriestr. 35, Rorschach",Rorschach
+913,41.88931157,-88.31269205,Heartland Blood Center ,"Geneva, IL"
+914,42.47814969,-82.94906628,Pro Clean Laundromat,MI
+915,47.9062729,11.42629573,UPS Wolfratshausen,Wolfratshausen
+916,51.12671256,-0.009258986,Dominos Pizza,null
+917,51.37029934,1.128337983,Kavanagh Cinema,null
+918,41.92422169,-84.63331109,Hillsdale College Dow Center,"Hillsdale, MI"
+919,40.88243091,-72.93568229,Brick Shithouse,"Middle Island, NY"
+920,56.85422646,16.21535789,RESIDENCE,null
+921,41.92667549,-84.64193344,SabreTech Consulting LLC,"Hillsdale, MI"
+922,52.40530411,-1.823012392,Seaspray ,null
+923,41.36856842,-72.92567444,Hamden Ice Rink,"Hamden, CT"
+924,34.01756239,-118.3462661,Zeitgeist Community Learning Center,"Los Angeles, CA"
+925,41.37859463,-72.922396,Shepard Glen Elementary School,"Hamden, CT"
+926,35.59129238,-80.88585048,O'Charleys,"Mooresville, NC"
+927,36.05685561,-80.32755392,Brixx,"Winston-Salem, NC"
+928,-34.59083975,-58.43569888,EasyBroker.com Offices,Lan\\u00fas
+929,26.18716698,-81.80572164,lululemon athletica,"Naples, FL"
+930,40.85864258,-73.18562317,The Garden Grill,"Smithtown, NY"
+931,38.4988566,-122.9885433,Applewood Inn,"Guerneville, CA"
+932,37.52343384,127.025135,\\ubbf8\\uc18c\\ub77c\\uc778 \\ud55c\\uc758\\uc6cc\\u3134,Seoul
+933,38.94535003,-77.44432211,IAD: C Concourse,"Chantilly, VA"
+934,-31.84383392,115.8374735,Aog,"Perth, Western Australia"
+935,42.38960093,-83.91724562,Dexter Dental,"Dexter, MI"
+936,52.62292233,10.08130561,Laura M.,Celle
+937,42.98859887,-88.24925285,Valvoline Instant Oil Change,"Waukesha, WI"
+938,48.65744068,-123.6397795,Shawnigan Lake School,null
+939,38.35904,-85.6099978,Jo Seay's House,"Prospect, KY"
+940,40.72823334,-96.66509247,Cost Cutters,"Lincoln, NE"
+941,42.00091817,-88.12481957,Ihop,"Schaumburg, IL"
+942,34.254577,-84.48208275,Shane's Rib Shack,"Canton, GA"
+943,40.20267379,28.98298502,Nil\\u00fcfer Belediyesi Olimpik Y\\u00fczme Havuzu,Bursa
+944,44.33508287,-103.8411086,Terry Peak,"Lead, SD"
+945,39.53275802,-79.35792585,Wisp Vacation House,"Mchenry, MD"
+946,38.42170917,-122.8546293,Pelligrini Family Vineyards,"Sebastopol, CA"
+947,30.22382618,-97.80207233,Englewood Estates,"Austin, TX"
+948,35.4438077,-80.8789715,Wolf Camera,"Huntersville, NC"
+949,36.54538117,-119.3863158,Del Bosque Upholstery,"Dinuba, CA"
+950,35.44279882,-80.88559418,Learning Express,"Huntersville, NC"
+951,42.46409385,-83.83475972,Powers Flowers,"Brighton, MI"
+952,42.53874207,-82.95601654,St John Lutheran Church,"Fraser, MI"
+953,-34.39376816,150.900296,Home,"Wollongong, New South Wales"
+954,34.72583025,-77.45200562,La Mirage,"Jacksonville, NC"
+955,-37.85583008,145.0040997,Junior's,"Melbourne, Victoria"
+956,-36.84650202,174.7334719,Gables Pub,Auckland
+957,51.36381555,1.031546267,Waterfront,Swalecliffe
+958,51.3627731,1.030276217,Whitstable Health Centre,null
+959,49.46630047,8.9835749,Eberbach,Eberbach
+960,60.18572359,24.96085167,Hattuateljee Miia Lindquist,Helsinki
+961,29.64251048,-81.67635408,Popeyes,"Palatka, FL"
+962,29.65774348,-81.66978485,Sleep Inn & Suites,"Palatka, FL"
+963,48.14318159,9.450109005,Familie Sautter,Altheim
+964,56.06763678,12.95055299,Sv\\u00e4rfar,Bjuv
+965,47.42203377,9.3686305,Mobility Car Sharing,St. Gallen
+966,41.91751918,-91.7840445,Riley's,"Cedar Rapids, IA"
+967,59.27305004,18.06826383,Mikaelas ,Stockholm
+968,33.97172122,-118.0372462,Up Scale Collectibles,"Whittier, CA"
+969,41.84920643,-87.95133099,Barnes & Noble,"Oak Brook, IL"
+970,17.3525201,78.49926847,Raheem Plaza Function Hall,"Hyderabad, Andhra Pradesh"
+971,31.71189617,-110.0658091,Tombstone Reptile Exhibit,"Tombstone, AZ"
+972,39.69238847,-89.76114967,Leisure Lakes,"Chatham, IL"
+973,37.67152535,126.7585098,Olleh,Goyang-Si
+974,41.74055135,-74.07255882,Lefevre Dorms,"New Paltz, NY"
+975,38.89781327,-77.00639248,Union Station Metro Station,Washington
+976,41.40487825,-72.89739257,Midas,"Hamden, CT"
+977,41.40487825,-72.89739257,Getty,"Hamden, CT"
+978,-25.80563831,28.23516654,POPCRU HQ,Pretoria
+979,47.4094629,9.360577317,Solit\\u00fcde,St. Gallen
+980,51.133965,0.897771667,Boys Hall Garden,null
+981,51.17931833,0.780056667,The Swan Inn,Little Chart
+982,51.17055833,0.743655,The Blacksmiths Arms,Pluckley
+983,42.24112965,-83.60526279,Enterprise,"Ypsilanti, MI"
+984,53.64809873,9.9274212,IKEA Schnellsen,Hamburg
+985,40.8830428,-73.25351378,Andersen's Deli,"Kings Park, NY"
+986,36.72893293,-119.734513,Ichi Ban,"Fresno, CA"
+987,42.19379495,-88.2061042,Car-X Auto Service,"Fox River Grove, IL"
+988,41.36240398,-72.91688686,Pacific Buffet,"Hamden, CT"
+989,42.5880488,-83.0499608,Superb Products,"Sterling-Heights, MI"
+990,50.80365585,3.753273667,Sporthal Derijdt,Brakel
+991,38.04013358,-85.34074763,McDonald's,"Taylorsville, KY"
+992,41.39242503,-72.91819096,Elite Fitness,"Hamden, CT"
+993,40.5176649,-87.37789905,Farmer's Table,"Boswell, IN"
+994,37.98788488,-122.5898266,Seeds Of Peace,"Fairfax, CA"
+995,48.39211875,-122.4922489,Pioneer Market,"La Conner, WA"
+996,22.56609255,88.34698647,Eden Gardens,"Kolkata, West Bengal"
+997,47.47497338,9.483842783,IFSA - Institut f\\u00fcr Soziale Arbeit,Rorschach
+998,53.18666392,8.484953633,Neukauf Berne,Berne
+999,49.48659734,9.821434021,Techkon Gummitechnik GmbH,Igersheim
+1000,35.53694428,-80.84368887,Gamble Plumbing,"Mooresville, NC"
+1001,49.48560235,9.817431167,Camping & Reitsport Homp ,Igersheim
+1002,48.56019885,7.69262225,La Diligence,Lingolsheim
+1003,50.82130343,5.187983567,KSTVV Jeugd,Saint-Trond
+1004,50.89710423,4.612045333,Lucas Creativ,Herent
+1005,39.09584636,-84.63945508,College of Mount St. Joseph - Conlan Center,"Cincinnati, OH"
+1006,40.842453,-73.29280218,Aboffs Commack,NY
+1007,41.36257481,-72.91692686,Little Richards,"Hamden, CT"
+1008,47.4253676,9.371606683,FHS St.Gallen - Rektorat,St. Gallen
+1009,45.56888718,-73.44886873,R\\u00eaves De Beaut\\u00e9 Unique,De la Broquerie
+1010,42.646818,-84.5226801,Little Caesars,"Holt, MI"
+1011,37.96839265,-87.49506623,Cork'N Cleaver,"Evansville, IN"
+1012,42.23626742,-71.41393333,Green Hills,"Sherborn, MA"
+1013,47.42184665,9.374095633,Mobility Car Sharing,St. Gallen
+1014,38.293149,-85.5589203,River City Sports Arena,"Louisville, KY"
+1015,51.05006333,0.50955,House Of The Baptist Church,Hawkhurst
+1016,53.0330718,8.623993617,Inkoop,Delmenhorst
+1017,40.41079621,-74.03891981,Mikes,"Atlantic Highlands, NJ"
+1018,53.39359325,-1.44912451,Work,Norton
+1019,42.12403103,-72.49731139,Worldsex,"Springfield, MA"
+1020,42.09793184,-88.52995634,Rose Garden Restaurant,"Hampshire, IL"
+1021,46.81317512,-71.22805432,Blank,Quebec
+1022,39.01115548,-94.57446832,BP,"Kansas City, MO"
+1023,53.58424175,9.979485869,Tresor,Hamburg
+1024,42.02739443,-91.61803685,The UPS Store,"Marion, IA"
+1025,42.36674886,-83.45200896,Michigan Theological Seminary,"Plymouth, MI"
+1026,38.0987153,-96.75949734,Chick-fil-A @ WSU,"Cedar, KS"
+1027,38.0987153,-96.75949734,Taco Bell Express,"Cedar, KS"
+1028,38.0987153,-96.75949734,Ablah Library ,"Cedar, KS"
+1029,34.01674065,-118.1404095,Lolita's Tamales,"East Los Angeles, CA"
+1030,42.07026133,-73.943648,Lynch's Marina,"Saugerties, NY"
+1031,35.05561513,-78.972169,Cross Creek Mall,"Fayetteville, NC"
+1032,40.01533947,-105.2602565,Rocky Mountain Kids,"Boulder, CO"
+1033,58.36186027,11.94411527,Studio Malvav\\u00e4gen,Uddevalla
+1034,57.37422487,-2.509256283,Rayne North School,null
+1035,-34.39549033,150.896507,Fairy Meadow Train Station,"Wollongong, New South Wales"
+1036,25.66504842,-100.3029051,Multimedios,"Monterrey, Nuevo Leon"
+1037,57.44900548,-2.7849326,The Gordon Schools,Huntly
+1038,41.25185707,-73.04175991,YMCA Milford-Orange,"Milford, CT"
+1039,40.71822447,-73.95758897,Walels & Dinges,"New York, NY"
+1040,34.2416224,-119.0222773,Toshi's Hair Salon,"Camarillo, CA"
+1041,40.63876125,-112.0085083,Taco Time,"Kearns, UT"
+1042,53.19176833,7.98106425,Edeka Aktiv Markt,Bad Zwischenahn
+1043,53.82351272,-1.579729317,Cartridge World,null
+1044,52.11309704,11.59879988,Teampoint Magdeburg,Magdeburg
+1045,47.12855545,7.55396475,Landi,Utzenstorf
+1046,18.18746286,-65.95881134,Good Luck Star,San Lorenzo
+1047,33.66773593,-83.98187106,Lexicon Technologies,"Conyers, GA"
+1048,42.28120829,-71.2366549,ButterflyPublisher,MA
+1049,42.28084505,-71.23606902,Crosby Jewelers,MA
+1050,-34.60460015,-58.37957545,qFalafel,Buenos Aires
+1051,47.49893473,8.41418555,Spar,Oberweningen
+1052,43.61639629,-116.2161308,Orthopedic Surgery Center Of Idaho,"Boise, ID"
+1053,41.36257481,-72.91692686,Blues Pizza,"Hamden, CT"
+1054,41.37198626,-72.92216092,Dole's Class,"Hamden, CT"
+1055,41.3674691,-72.91965008,CVS,"Hamden, CT"
+1056,48.65202712,-123.610587,Shawnigan Alliance Church,null
+1057,36.72967125,-119.735405,Izi Sandwich Shop,"Fresno, CA"
+1058,38.01136397,-121.3221997,Starbucks,"Stockton, CA"
+1059,42.51951359,-83.02874833,Comerica Building,"Warren, MI"
+1060,48.54779397,9.185771333,Gemeindehaus,Reutlingen
+1061,30.11778993,-81.73453908,YMCA,"Orange Park, FL"
+1062,43.24713304,-73.8333714,Rocco's Pizzeria,"Corinth, NY"
+1063,25.63582157,-100.2830818,Chili's,"Monterrey, Nuevo Leon"
+1064,-22.95986735,-43.20217216,Espa\\u00e7o Cultural Sergio Porto,"Rio de Janeiro, Rio de Janeiro"
+1065,42.9244879,-72.2896908,Sunoco,"Keene, NH"
+1066,42.92831507,-72.27913422,Keene State Dormitories,"Keene, NH"
+1067,41.36270838,-72.87360209,Joyce Leslie,"Hamden, CT"
+1068,41.36270838,-72.87360209,Coldstone,"Hamden, CT"
+1069,30.360716,-88.699412,Home,"Ocean Springs, MS"
+1070,30.2681962,-97.74493557,Headliner's Club,"Austin, TX"
+1071,41.36440908,-93.56850755,Sigma Alpha Epsilon Simpson College ,"Indianola, IA"
+1072,37.96929026,-122.5674865,Labyrinth - Spiral In The Grass,"San Anselmo, CA"
+1073,25.44697445,-100.956466,TXM,"Saltillo, Coahuila de Zaragoza"
+1074,50.60260391,6.28646188,Berufskolleg Simmerath,Simmerath
+1075,48.66080977,7.823084733,Le Relais de la Poste,null
+1076,47.41272512,9.363990783,Schnittstell,St. Gallen
+1077,30.48377488,-91.08888848,Mt. Olive Cemetary,"Baton Rouge, LA"
+1078,38.85029852,-94.37501062,LaMar's donuts,"Lees Summit, MO"
+1079,53.53616299,-2.57745266,Summat To Ate,null
+1080,56.41891312,10.8736146,Vinoteket,Grenaa
+1081,51.90038235,-2.077317238,Bluelinemedia,null
+1082,-34.08326512,18.82668618,"Simply Asia, Somerset Mall",Cape Town
+1083,40.40597224,-74.01285809,CVS,"Atlantic Highlands, NJ"
+1084,32.42265457,-99.78309,Abilene Insurance Exams,"Abilene, TX"
+1085,37.9841452,-122.5662553,Elders Garden,"San Anselmo, CA"
+1086,37.99002418,-122.5585198,Sorich Ranch,"San Anselmo, CA"
+1087,40.87371135,-72.98185227,Bensons Gun Shop,NY
+1088,40.86940165,-72.99594918,Aqua Hut,NY
+1089,40.86920646,-72.99615126,Ming Kong,NY
+1090,41.96190649,-91.70984333,Walgreens,"Cedar Rapids, IA"
+1091,42.44587634,-75.06443095,Discount Liquor And Wine,"Oneonta, NY"
+1092,33.79046092,-117.7627158,Wells Fargo Bank,"Orange, CA"
+1093,29.26399278,-81.0765494,Bank Of America,"Ormond Beach, FL"
+1094,42.98208377,-78.88476393,The Flying Turtles Bar & Grill,"Buffalo, NY"
+1095,48.77246094,-122.4723053,BSC,"Bellingham, WA"
+1096,32.90374402,-117.2285068,Chempetitive Group,"San Diego, CA"
+1097,25.46284192,-100.9792525,MM Cinemas Galerias,"Saltillo, Coahuila de Zaragoza"
+1098,33.29850415,-112.0602137,Pink Cacti Creative Services,"Phoenix, AZ"
+1099,40.71949768,-111.9231491,Landmark Education,"Salt Lake City, UT"
+1100,-38.14794578,144.3627422,Borders,"Geelong, Victoria"
+1101,-38.1514325,144.3082169,Buckley Falls,"Geelong, Victoria"
+1102,41.98090648,-91.66285232,Downtown Live,"Cedar Rapids, IA"
+1103,37.99884796,23.76839446,\\u039c\\u03b1\\u03b9\\u03b5\\u03c5\\u03c4\\u03ae\\u03c1\\u03b9\\u03bf \\u039b\\u03b7\\u03c4\\u03c9\\u00b4,"Athens, Attiki"
+1104,53.95131753,10.20881822,Post,Wahlstedt
+1105,47.13048015,7.554447983,Bistrobar Theatro,Utzenstorf
+1106,47.12984315,7.557443817,B\\u00e4ckerei Flury,Utzenstorf
+1107,47.12915003,7.55749615,Blueme-Lade,Utzenstorf
+1108,47.12821117,7.55419305,K\\u00e4serei Utzenstorf,Utzenstorf
+1109,40.54396426,22.01161777,Seli,"Veroia, Kentriki Makedonia"
+1110,30.27648005,-81.55845028,Briarcliff,"Jacksonville, FL"
+1111,43.65784281,-70.25424079,Corduroy,"Portland, ME"
+1112,39.12374591,-84.60198432,Hobby Lobby,"Cincinnati, OH"
+1113,33.99641357,-117.0513736,Calimesa Adventist Church,CA
+1114,9.0496384,-79.63380367,Radisson,Panama City
+1115,38.01280422,-122.6627344,Roy's Pools,"Fairfax, CA"
+1116,38.84357337,-90.0329084,Bing Field,"Edwardsville, IL"
+1117,64.81745188,-147.8664895,Fairbanks Int'l Gym,"Fairbanks, AK"
+1118,41.15381408,-104.7546548,Dry Creek Disc Golf Hole #1,"Cheyenne, WY"
+1119,59.30532785,18.263014,Casa Alberts,Stockholm
+1120,41.15433917,-104.7561273,Dry Creek Disc Golf Hole #4,"Cheyenne, WY"
+1121,41.15330919,-104.7531152,Dry Creek Disc Golf Hole #6,"Cheyenne, WY"
+1122,34.23929482,-117.5945271,Mt Baldy Saddle 7000 Ft,"Rancho Cucamonga, CA"
+1123,41.15288912,-104.7519565,Dry Creek Disc Golf Hole #17,"Cheyenne, WY"
+1124,42.02749146,-91.62288666,Tobacco Outlet,"Cedar Rapids, IA"
+1125,49.89360192,10.8859953,M-Lounge,Bamberg
+1126,53.58434206,9.979735315,V\\u00fcmpf,Hamburg
+1127,32.88605167,-97.17666487,Home,"Hurst, TX"
+1128,40.75002047,-96.63683653,Wilderness Perk,"Lincoln, NE"
+1129,33.93941692,-117.9600441,Jack In The Box,"La Habra, CA"
+1130,33.93896297,-117.9606879,Taco Bell,"La Habra, CA"
+1131,34.7452877,-77.3786907,8Ball,"Jacksonville, NC"
+1132,32.41489692,-93.73611667,Tinys ,"Shreveport, LA"
+1133,-37.83572583,144.9812141,77 Park St,"Melbourne, Victoria"
+1134,9.0094155,-79.5366429,Niko's\\u00a0Cafe,Panama City
+1135,64.84467089,-147.6618441,Moose Lodge,"Fairbanks, AK"
+1136,59.3674536,13.14302748,Burger King,Grums
+1137,17.42542499,78.41056925,MOVENPICK,"Hyderabad, Andhra Pradesh"
+1138,52.65800774,10.08690077,Fitness Future,Celle
+1139,53.47629383,9.69991225,Amad ,Buxtehude
+1140,51.94664267,8.818145033,Waldhof Postteich,Detmold
+1141,41.97309035,-87.70774,Baladna ,"Chicago, IL"
+1142,35.68833238,-106.0093274,Aldea Plaza,"Santa Fe, NM"
+1143,41.97757053,-87.71904295,Jewel Osco,"Chicago, IL"
+1144,40.0720103,-83.13721373,Best Buy,"Dublin, OH"
+1145,43.08951747,-77.64420833,Summit Federal Credit Union,"Rochester, NY"
+1146,-27.45437533,153.0459494,Westera Partners,"Brisbane, Queensland"
+1147,43.11775205,-77.65793432,Mobil,"Rochester, NY"
+1148,-34.54641848,-58.44566567,Club Hipico,Buenos Aires
+1149,39.12502396,-84.6027587,Thai Taste,"Cincinnati, OH"
+1150,41.35138299,-72.92048391,Nanas,"Hamden, CT"
+1151,-32.59201707,-69.34807968,Parillada El Rancho,Mendoza
+1152,30.21062452,-91.99259192,Lousiana Technical College,"Lafayette, LA"
+1153,-32.59400916,-69.35293072,Los Condores,Las Heras
+1154,42.73225952,-73.19556985,The Feds,"Williamstown, MA"
+1155,49.37610724,10.19368172,Fischers Backhafen,Rothenburg ob der Tauber
+1156,43.301165,-73.66548657,Dunkin' Donuts,"West Glens Falls, NY"
+1157,52.13466828,11.63841242,Punkt Apotheke Magdeburg,Magdeburg
+1158,51.36327892,1.030558667,Harbour Garage,Swalecliffe
+1159,50.17934773,8.9182972,REWE,Bruchk\\u00f6bel
+1160,54.32821655,10.12973785,enteraktiv,Kiel
+1161,8.98139675,-79.52131995,Oficina DeCameron,Panama City
+1162,40.648055,22.951579,Home Salonica,"Thessaloniki, Kentriki Makedonia"
+1163,43.30913645,-73.64294529,Burger King,"Glens Falls, NY"
+1164,27.48891858,-82.70724807,Starfish Beach,FL
+1165,46.81250437,-71.21395993,La pointe des Am\\u00e9riques,St-Jean
+1166,8.711042667,-79.8751673,Cerro Campana,null
+1167,52.64112992,-2.758791447,Grove Farm House,Condover
+1168,48.33005048,9.966377883,Unterweiler Rathaus,Ulm
+1169,42.11024379,-72.62226819,Rein's Deli,"West Springfield, MA"
+1170,-36.85558944,174.7393674,Tully & Gardener,Auckland
+1171,-36.85369864,174.7583628,Soung Yueen Asian Supermarket,Auckland
+1172,-36.85326081,174.7578585,Smart Cars,Auckland
+1173,-36.85060802,174.7628313,Glengarry,Auckland
+1174,36.1381985,-85.50252997,BP,"Cookeville, TN"
+1175,41.31520752,-96.02700357,PetSmart,"Omaha, NE"
+1176,59.3404774,18.04466789,Eriks st\\u00e4lle,Stockholm
+1177,52.64131307,-2.758727067,Grove Farm Garden,Condover
+1178,52.64131307,-2.758727067,Grove Farm,Condover
+1179,46.58943905,-112.0059251,Lewis & Clark County Health Department,"Helena, MT"
+1180,53.12238109,-6.51055008,The Lake House,null
+1181,46.23868552,-119.2342275,Sundown Sport and Marine,"Richland, WA"
+1182,33.30550128,-112.0525549,Chevron,"Phoenix, AZ"
+1183,-34.5816735,-58.44262421,To Restaurante,Buenos Aires
+1184,-31.54161057,-68.51093287,Hotel America,San Juan
+1185,8.3648384,-80.12622525,DeCameron,null
+1186,29.64661832,-95.22163428,Walgreens,"Houston, TX"
+1187,-36.87806725,174.7645265,Mt Eden lookout,Auckland
+1188,46.76221803,8.290042733,Fruttpark,null
+1189,48.70864179,9.653242182,ejgp,Goppingen
+1190,-26.13074493,27.97645771,The Bread Basket,Johannesburg
+1191,-26.13119471,27.97642743,Founders Grill,Johannesburg
+1192,48.01588067,11.58978878,Kindergarten Villa Regenbogen,Oberhaching
+1193,53.91687661,15.1988554,Fryzjer M\\u0119ski,Gryfice
+1194,50.2903418,8.976111083,einsA,Altenstadt
+1195,53.17462408,-6.52894639,West Wicklow House,Blessington
+1196,50.29102935,9.108931767,Parf\\u00fcmerie & Kosmetik Philippi,B\\u00fcdingen
+1197,53.99577794,-1.541765928,The Lawrance,null
+1198,7.824122933,98.29889183,Be My Guest,Ban Karon
+1199,37.62370967,-84.57767137,ST. William Catholic Church,"Lancaster, KY"
+1200,37.62519798,-84.57982622,Family Dollar,"Lancaster, KY"
+1201,51.13136012,8.226115108,Lenne fewo Stockhausen,Schmallenberg
+1202,37.62916128,-84.58064653,NAPA auto parts store,"Lancaster, KY"
+1203,37.6292029,-84.5806643,NAPA auto parts store,"Lancaster, KY"
+1204,41.37102748,-81.98690808,Creekside Tavern,OH
+1205,-34.58624859,-58.42434883,Don Julio,Buenos Aires
+1206,50.95884233,3.635044992,Dokter Kris,Nazareth
+1207,37.95378123,-84.52734548,S and S Tires,"Nicholasville, KY"
+1208,37.95798368,-84.50493968,Veterans Park Baseball Complex,"Lexington, KY"
+1209,52.61762495,10.0459955,Axel Bruns Schule BBS2,Celle
+1210,50.92975415,3.640286028,Apotheek Asper,Gavere
+1211,41.63130855,-87.64089988,Riverdale Auto,"Chicago, IL"
+1212,45.7822741,-108.5060701,The Soup Place,"Billings, MT"
+1213,51.02785903,5.53069755,Gregory's,Opglabbeek
+1214,38.79218348,-121.3132975,Web Events Global,"Roseville, CA"
+1215,48.6747834,15.189103,My Parents Home,null
+1216,25.64541578,-100.2862957,El Barco Regiomontano,"Monterrey, Nuevo Leon"
+1217,38.92519697,-77.52017303,Fractured Prune,"Chantilly, VA"
+1218,52.3113976,12.74183929,Chalet Mamma,Lehnin
+1219,42.02580985,-91.65043831,Harding Middle School,"Cedar Rapids, IA"
+1220,41.15787464,-85.47294869,YMCA,"Columbia City, IN"
+1221,34.76696177,-77.38421978,Aji Ichiban,"Jacksonville, NC"
+1222,39.78668417,-89.64420865,Sushi & Fry,"Springfield, IL"
+1223,40.48170208,-111.8265802,Optimal Wellness Center,"Draper, UT"
+1224,-45.2556411,169.3924609,Courthouse Caf\\u00e9 & Bar,Alexandra
+1225,39.12289955,-120.9127996,Zorichak Cabin,"Colfax, CA"
+1226,10.75220233,122.5547888,Gran Plains Subdivision,Iloilo City
+1227,51.36656242,6.74116426,EKZ,Duisburg
+1228,50.29185488,9.116684567,B\\u00fcdinger Confiserie,B\\u00fcdingen
+1229,50.82020121,5.18466621,De Bink,Saint-Trond
+1230,43.24644532,-73.83341432,Stewart's,"Corinth, NY"
+1231,17.36679655,78.48931753,NEEDS Bakery,"Hyderabad, Andhra Pradesh"
+1232,59.35180617,24.61139202,Bao Jian Restaurant,Laagri
+1233,42.71323442,-83.02978635,Comerica,"Washington, MI"
+1234,55.39837928,12.83981233,Mormor & Morfar,Falsterbo
+1235,40.76814931,-73.98128557,Landmarc,"New York, NY"
+1236,55.661572,8.344555,Min onde stedfars hytte,null
+1237,38.67602978,-94.80620858,Home,"Paola, KS"
+1238,8.364450783,-80.12896238,Fiesta Casino En DeCameron,null
+1239,29.23023832,-81.05092662,Gina's 6th St. Deli,"Holly Hill, FL"
+1240,42.73363252,-82.9611218,Davis Cemetery,"Ray, MI"
+1241,38.87885229,-77.39784479,Manhattan Bagel,"Fairfax, VA"
+1242,26.00880037,-80.39479257,Latin Cafe Bakery,"Hollywood, FL"
+1243,51.36161463,1.026772767,The New Inn,null
+1244,51.36134512,1.026497833,The Fountain,null
+1245,38.89633695,-77.42418765,Chepita's House,"Chantilly, VA"
+1246,38.89639707,-77.4242571,A1 Dollar,"Chantilly, VA"
+1247,38.8964293,-77.42424367,Family And Cosmetic Dentistry,"Chantilly, VA"
+1248,51.3596503,1.02376295,Shobab,null
+1249,51.3597035,1.02424475,Royal Naval Reserve,null
+1250,38.89657808,-77.42448685,Flower Gallery Of Chantilly,"Chantilly, VA"
+1251,38.89660965,-77.4245907,Dan's Golf Shop,"Chantilly, VA"
+1252,38.89670838,-77.42478048,Game Parlor,"Chantilly, VA"
+1253,38.89678295,-77.42497788,Fujian Japanese Restaurant,"Chantilly, VA"
+1254,38.89678123,-77.42513743,Factory Card Outlet,"Chantilly, VA"
+1255,51.04445153,-114.0781868,Flatlands Cafe,Calgary
+1256,38.91065531,-94.3821941,Potters Haven,"Lees Summit, MO"
+1257,44.85649842,13.83463662,Puljanka,Pluj
+1258,37.76964496,-122.4155027,Rainbow Grocery CoOp,"San Francisco, CA"
+1259,37.78543921,-122.3966798,Mehfil,"San Francisco, CA"
+1260,39.58155197,-84.3195076,Gross Lumber Co.,"Carlisle, OH"
+1261,40.02506122,-93.53098233,Dead Heart Of BFE,"Laredo, MO"
+1262,39.58148175,-84.31945068,T-n-T's Burger Shack,"Carlisle, OH"
+1263,48.04020658,-122.4092227,Good Cheer Thrift Store,"Langley, WA"
+1264,59.41271628,17.80559417,Nearby Spot,null
+1265,41.70923288,-71.45065316,Domino's,"Warwick, RI"
+1266,48.00987572,-122.5286293,Payless Foods,"Freeland, WA"
+1267,48.0106461,-122.5298027,Ace Hardware ,"Freeland, WA"
+1268,42.2889241,-83.8119328,Ann Arbor Acura,"Ann Arbor, MI"
+1269,38.89556711,-76.99514866,Kenny's BBQ,Washington
+1270,51.04316389,3.73463129,My Crib,Ghent
+1271,18.91440152,-99.23705577,Pasteleria Helen,"Cuernavaca, Morelos"
+1272,42.45556063,-83.79984952,CVS Pharmacy,"Brighton, MI"
+1273,46.14076012,-64.87158596,A&W,Moncton
+1274,20.59164922,-100.3944258,La Fuente Michuacana,"Queretaro, Queretaro de Arteaga"
+1275,42.6228994,-73.11269507,PNA,"Adams, MA"
+1276,33.97084443,-118.1051093,Tacos miranda ,"Pico Rivera, CA"
+1277,30.1795968,-95.49060623,Clover Park,"Spring, TX"
+1278,9.03124842,-79.53335225,Banco General,El Pe\\u00f1\\u00f3n
+1279,40.72482812,-74.41345351,In-Laws' House (of Ill-repute),"Chatham, NJ"
+1280,32.17811505,-110.8697925,Jonathan's Cork,"Tucson, AZ"
+1281,34.27433862,-118.7518816,Lopez Residence,"Simi Valley, CA"
+1282,50.28984538,8.984694567,Metzgerei Stroh,Altenstadt
+1283,52.1569965,8.845731117,MyTribe's Cave,Vlotho
+1284,51.59217493,6.914600817,Sch\\u00e4fer,Bottrop
+1285,53.0421613,8.5937222,G\\u00fclcan Abali,Delmenhorst
+1286,52.16001423,8.846586783,Restaurant Helena,Vlotho
+1287,52.1601192,8.846668,Marktkauf,Vlotho
+1288,57.80020022,15.71519523,ICA Wohlfarts,Vimmerby
+1289,45.74502862,16.00049257,Amis,Zagreb
+1290,50.81285452,5.19168078,Bistro Botrali,Saint-Trond
+1291,50.96223521,5.49812185,Le Delice,Genck
+1292,43.2459139,-73.83412242,Cumberland Farms,"Corinth, NY"
+1293,51.50689941,14.64244723,Evangelische Kirche,Wei\\u00dfwasser
+1294,40.20517587,-93.12837838,Saint Marys Catholic Church,"Milan, MO"
+1295,59.41006242,24.69284618,Tammsaare 98,Tallinn
+1296,40.20689552,-93.11695568,Richardsons Supermarket,"Milan, MO"
+1297,38.20276465,-92.83885757,US Bank,MO
+1298,40.20235303,-93.12421932,Flor De Mexico,"Milan, MO"
+1299,64.69109046,21.21093761,Tina Och Nisses Hem,Skelleftea
+1300,8.97976684,-79.52864265,Riba Smith,Panama City
+1301,37.06015632,-93.2955401,Cloud Nine,"Nixa, MO"
+1302,55.40881075,12.86267035,The Veal Recidence,Skanor med Falsterbo
+1303,48.42420478,9.43032935,Familie\\u00a0Schmid,M\\u00fcnsingen
+1304,42.48880832,-72.18592644,Petersham Country Store,"Petersham, MA"
+1305,42.40256007,-72.17331472,Misty Brook Farm,"Barre, MA"
+1306,36.0384838,-79.19249962,Chestnut Ridge Camp and Retreat center,"Efland, NC"
+1307,32.31426605,-110.9756544,Quail Canyon Golf Course,"Tucson, AZ"
+1308,46.22623222,-63.21960573,Greco Pizza / Capt. Sub,Cornwall
+1309,31.5407838,-97.14310343,Accucast Waterworks & Castings,"Waco, TX"
+1310,48.48968945,14.9602115,Santa Claus' Iglo,Arbesbach
+1311,51.66820672,-0.70229495,The Mandarin Duck,Holmer Green
+1312,38.83451807,-77.06010096,The Aspen,"Alexandria, VA"
+1313,48.59670162,15.22830932,Zissy's Home,null
+1314,40.72400398,-73.52105118,St. Bernards,NY
+1315,41.46300195,-82.17331743,Scorchers,"Lorain, OH"
+1316,40.20168023,-93.13292503,Sullivan County Memorial Hospital,"Milan, MO"
+1317,40.2014298,-93.1255023,The Milan Standard,"Milan, MO"
+1318,39.5846804,-84.31752618,Carlisle Baseball Fields,"Carlisle, OH"
+1319,41.4662068,-82.1798838,First Congregational Church,"Lorain, OH"
+1320,30.03345503,-89.93238043,The In-Laws,"New Orleans, LA"
+1321,42.79889047,-71.55994117,Lilac Blossom,"Hollis, NH"
+1322,27.95390478,-82.25290558,Holy Innocence Episcopal Church,"Valrico, FL"
+1323,43.24451498,-73.83149385,Stewart's,"Corinth, NY"
+1324,32.98461525,-97.1266201,Mom and Dad's House,TX
+1325,53.84386187,-3.0026617,The Edge,Poulton le Fylde
+1326,40.20182367,-93.12373597,Caseys,"Milan, MO"
+1327,52.04151332,5.66721677,Cafe Premier,Ede
+1328,39.10389858,-84.62151277,Bailey Place,"Cincinnati, OH"
+1329,40.32074367,-79.39484412,Latrobe Hospital,"Latrobe, PA"
+1330,32.82687836,-79.82090997,The Old Home,"Mount Pleasant, SC"
+1331,35.89866936,-77.54433602,"First Presbiterian Church, Tarboro","Tarboro, NC"
+1332,41.20053142,-73.96739257,Saint Peters Church,"Haverstraw, NY"
+1333,46.21849761,-119.247424,Geluso Residence,"Richland, WA"
+1334,46.77730852,9.65924125,Alpenhof,Arosa Bahnhof
+1335,46.77730852,9.65924125,Maissen Ferienwohnungen,Arosa Bahnhof
+1336,11.60274407,99.68267813,Jack's Restaurant,Ban Huai Yang
+1337,50.96567545,5.500132283,Pizzeria Da Sandra,Genck
+1338,14.5364449,120.9792048,Pier 1 MOA,Pasay City
+1339,59.48281639,18.29711788,Hos Mamma,Akersberga
+1340,22.40618125,113.9693599,Fung,Tuen Mun
+1341,42.01699149,-73.33994907,Geer,"North Canaan, CT"
+1342,33.97700992,-118.0378164,Print Masters,"Whittier, CA"
+1343,54.87561618,-7.588542,My House,null
+1344,37.5423243,-122.0423709,IHOP,"Newark, CA"
+1345,37.53277081,126.9027008,My Home,Seoul
+1346,37.55104965,126.9217248,\\ud638\\ubc14\\u3131,Seoul
+1347,36.87248909,-4.17615222,Verdugo,Vi\\u00f1uela
+1348,41.96720233,-87.70846172,George Pita Kabob,"Chicago, IL"
+1349,34.61626102,-98.16843642,The Hansons Sledin Hill,"Comanche, OK"
+1350,43.31749469,6.46788233,Galerie Aalders,La Garde-Freinet
+1351,44.7333417,-85.60282,China Fair,"Traverse City, MI"
+1352,41.00782776,-73.68388653,Rye Ridge Condominiums,"Port Chester, NY"
+1353,33.8703254,-118.0829133,Ambala Dhaba,"Artesia, CA"
+1354,52.14941912,8.857576517,Hans Schwarze Schule,Vlotho
+1355,52.14089392,8.857803117,Waldfreibad Valdorf,Vlotho
+1356,50.99705922,9.366391897,Metallbau Freund,Homberg
+1357,49.42062759,9.17234712,Gr\\u00fcner Baum,Fahrenbach
+1358,51.81792468,-0.667160367,White Lion,Marsworth
+1359,51.81810618,-0.66725235,Bluebells,Marsworth
+1360,58.9224273,23.62042082,Uuem\\u00f5isa Tall,Haapsalu
+1361,51.7247874,5.8243676,Beers,Beers
+1362,35.44218667,-80.8612754,Great Clips,"Huntersville, NC"
+1363,35.44209447,-80.86131832,Dragon Express,"Huntersville, NC"
+1364,35.4423174,-80.86112235,VH Nails And Spa,"Huntersville, NC"
+1365,43.24908675,5.389523506,McDonald's Bonneveine,Marseille
+1366,35.44531967,-80.88072379,Bath & Body Works,"Huntersville, NC"
+1367,-31.41531926,-64.18278491,El Quijote,Cordoba
+1368,35.50232613,-80.84978802,Caribbean Breeze Tanning,"Davidson, NC"
+1369,40.23063067,-75.13277643,Wegmans,"Warrington, PA"
+1370,59.49695972,18.06791524,Morbror Jaans Kodu,Taby
+1371,38.88051852,-77.39947021,Carpet One,"Fairfax, VA"
+1372,38.88033478,-77.39958286,Hollywood Tans,"Fairfax, VA"
+1373,44.31340338,-69.79762105,Bagel Mainea,"Augusta, ME"
+1374,58.94069522,23.58208487,Uuem\\u00f5isa Konsum,Haapsalu
+1375,38.7592435,-77.58122367,Anderson Crib,"Bristow, VA"
+1376,35.97936607,-77.80687183,Hibachi And Sushi Chinese Buffett,"Rocky Mount, NC"
+1377,31.84440517,-81.60619735,Hibbit Sports,"Hinesville, GA"
+1378,48.00971422,-122.5274599,US Post Office ,"Freeland, WA"
+1379,40.20198068,-93.12540425,UMB bank,"Milan, MO"
+1380,33.97350517,-118.0371898,Masonic Lodge,"Whittier, CA"
+1381,40.19872878,-93.12600553,Milan C-II,"Milan, MO"
+1382,40.20118095,-93.12526618,Post Office,"Milan, MO"
+1383,52.5791648,13.8755151,Vilantis,Strausberg
+1384,40.19875493,-93.13136095,Milan Pool,"Milan, MO"
+1385,40.2023281,-93.12530977,Sullivan County Courthouse,"Milan, MO"
+1386,40.2023281,-93.12530977,Poole Hardware,"Milan, MO"
+1387,50.78927457,7.325246167,Wohnpark Felder,Hennef
+1388,40.20449965,-93.1170561,Levee Laundry,"Milan, MO"
+1389,40.2045444,-93.11707657,Heads Car Wash,"Milan, MO"
+1390,47.6419512,-117.1958955,Spokane Valley Adventist Church,WA
+1391,40.2074054,-93.11671705,Dollar General,"Milan, MO"
+1392,40.20784603,-93.11688273,Great Western Bank,"Milan, MO"
+1393,40.20642455,-93.12538278,Forest Grove Park,"Milan, MO"
+1394,48.0102052,-122.5261028,Webbs Department Store ,"Freeland, WA"
+1395,43.10690484,-73.73735905,Benson's Pet Center,"Saratoga Springs, NY"
+1396,31.79417812,-85.97856742,Waffle House,"Troy, AL"
+1397,48.00721813,-122.4617565,Bayview Farm & Garden ,"Langley, WA"
+1398,48.00746292,-122.4613908,Open Door Gallery,"Bay View, WA"
+1399,42.69368914,-83.13512206,George's Coney Island,"Rochester, MI"
+1400,37.67515492,-97.39685525,Day By Day Calendar Co  ,"Wichita, KS"
+1401,31.85149067,-81.58397563,China Super Buffet,"Hinesville, GA"
+1402,42.24762438,-84.40825938,Bead Culture,"Jackson, MI"
+1403,42.1440906,-72.56647527,Heavenly Grooming,"Springfield, MA"
+1404,41.95280237,-91.72570635,Subway,"Cedar Rapids, IA"
+1405,38.65877547,-87.50642443,KFC/Taco Bell,"Vincennes, IN"
+1406,42.5518386,-83.0689354,Raphaels Salon & Spa,"Sterling-Heights, MI"
+1407,33.74346923,-117.6594973,Silverado Fire Station,"Silverado, CA"
+1408,40.18305508,-93.1348725,Junction Cafe,"Milan, MO"
+1409,44.77297211,-85.4846344,Aerie,"Williamsburg, MI"
+1410,34.62288582,-98.16986907,The Hanson Farm,"Lawton, OK"
+1411,39.80360713,-89.72905747,House Of Do's,"Springfield, IL"
+1412,33.97641456,-118.0375493,Destiny Church,"Whittier, CA"
+1413,33.97690835,-118.0371898,Wells Fargo Bank,"Whittier, CA"
+1414,13.5649444,144.8455934,John B's Mart,Dededo
+1415,39.79168208,-89.70324143,Robert S Burris DMD,"Springfield, IL"
+1416,26.40021688,-98.15954238,Sanpiper Resort,"Edinburg, TX"
+1417,-41.28894043,174.007076,Seabreeze,Picton
+1418,38.25787113,-85.62314987,St. Matthews Little League,"Louisville, KY"
+1419,42.42854635,-82.90994252,Da Edaordor,"Grosse Pointe Woods, MI"
+1420,42.42854635,-82.90994252,Da Edoardo,"Grosse Pointe Woods, MI"
+1421,29.99023139,-90.09955298,Ms. Gretchen's,"New Orleans, LA"
+1422,47.82682669,-122.2761804,Jamba Juice,"Lynnwood, WA"
+1423,-37.7731184,144.9610768,Tandoori Nights,"Melbourne, Victoria"
+1424,49.28174489,7.23599839,Alexis,Kirkel
+1425,49.29505124,7.24740386,Achilles Grill,Kirkel
+1426,-22.96145262,-43.20709023,Olympe Restaurant,"Lagoa, Rio de Janeiro"
+1427,53.81881972,14.96712327,Cmentarz,null
+1428,53.05033548,8.625069167,Deutsche Bank,Delmenhorst
+1429,48.53948262,9.189394133,Pietzis Biotop,Reutlingen
+1430,27.69699684,-82.73597449,Bonnie's Bubbles Coin Laundry,"St. Pete Beach, FL"
+1431,55.90799993,37.54921245,Macho Restaurant,Moscow
+1432,47.39147308,9.464179783,Breitenebnet City,Trogen
+1433,36.84955777,-76.20875285,Soap N Suds,"Norfolk, VA"
+1434,39.95223726,-93.16653013,Purdin,"Purdin, MO"
+1435,39.57881738,-84.31168503,Dairy Queen,"Carlisle, OH"
+1436,39.57881738,-84.31168503,Dairy Queen,"Carlisle, OH"
+1437,39.57881738,-84.31168503,Dollar General,"Carlisle, OH"
+1438,39.5788977,-84.3118013,Dollar General,"Carlisle, OH"
+1439,39.5788977,-84.3118013,Cassano's Pizza & Subs,"Carlisle, OH"
+1440,39.57891708,-84.31177445,Simply Brown Tanning Salon,"Carlisle, OH"
+1441,41.40542958,-72.89906495,Nails 3000,"Hamden, CT"
+1442,42.20973378,-71.42701454,Subway,"Holliston, MA"
+1443,45.16563948,6.428045083,Comptoir Cyrill',Valloire
+1444,41.52811448,-72.87286367,Sweden,"Cheshire, CT"
+1445,39.00097353,-93.74047427,Subway,"Higginsville, MO"
+1446,42.52817163,-82.88289243,Friend Joes House,"St. Clair Shores, MI"
+1447,18.40069729,-65.96941566,Loma Alta Village,Carolina
+1448,47.15914368,8.30930656,test,Hochdorf
+1449,41.9198334,-73.98498845,At Home Antiques,"Kingston, NY"
+1450,-34.47222125,-57.85198765,Hotel Rivera,"Colonia del Sacramento, Colonia"
+1451,34.85853379,-111.7659706,Starbucks,"Sedona, AZ"
+1452,41.96957369,-91.73109233,Pet Playhouse,"Cedar Rapids, IA"
+1453,48.02800447,-122.5390841,Beachfire Grill,"Freeland, WA"
+1454,43.30505326,-73.65530491,Talk of the Town,"Glens Falls, NY"
+1455,48.43865272,-123.506047,Rogers Video,Langford
+1456,36.15154628,-115.126808,Home Sweet ZOO,"Las Vegas, NV"
+1457,33.85224775,-84.32693068,Casa Cortez,"Atlanta, GA"
+1458,29.26340922,-81.0778048,7 Eleven,"Ormond Beach, FL"
+1459,-34.46948613,-57.85220773,Patrimonio,"Colonia del Sacramento, Colonia"
+1460,34.05983674,-118.0893619,La Vie,"Rosemead, CA"
+1461,40.48010365,-105.043495,Budweiser Events Center,"Fort Collins, CO"
+1462,46.77267261,7.636249065,My Home,Steffisburg
+1463,49.39054828,9.05409049,Zwingenberg,Neckargerach
+1464,52.02813216,8.903893232,B\\u00e4ckerei Dr\\u00f6ge,Lemgo
+1465,48.40883637,2.694549556,The Ragonnet Home,Fontainebleau
+1466,40.40286808,-74.02730095,Valley Cleaners,"Atlantic Highlands, NJ"
+1467,51.35935363,1.024181083,Tea & Times,null
+1468,40.41170636,-74.03878734,Racestar,"Atlantic Highlands, NJ"
+1469,53.29004484,-6.24785125,Nando's,Dun Laoghaire
+1470,29.79029187,-95.81947768,Katy church of Christ,"Katy, TX"
+1471,45.11929416,6.41933405,Caprices Des Neiges,Bonnenuit
+1472,40.88492423,-73.24400002,Kings Park Post Office,"Kings Park, NY"
+1473,63.29209679,12.46135169,??nn station,null
+1474,63.32281168,12.5382564,Nissev??gen,null
+1475,38.5677699,-90.34298688,Big Idea Clinic,"Webster Groves, MO"
+1476,51.16035298,0.5523115,Lloyds Pharmacy,Staplehurst
+1477,51.16009333,0.552598683,Headquarters,Staplehurst
+1478,51.1599038,0.55247505,Post Office,Staplehurst
+1479,51.15985382,0.55244755,JMH Flooring,Staplehurst
+1480,51.15984123,0.55244755,Flower Boo,Staplehurst
+1481,51.15951482,0.552389667,EMD Law LLP Solicitors,Staplehurst
+1482,51.15893623,0.5524686,Crutch Bros. Removals & Storage,Staplehurst
+1483,51.15880528,0.552510667,Big Ben,Staplehurst
+1484,51.1580893,0.552533483,All Saints Church,Staplehurst
+1485,51.1580893,0.552533483,All Saints Church Graveyard,Staplehurst
+1486,51.15835937,0.552549417,Peter Jones Opticians,Staplehurst
+1487,51.1587518,0.55256235,W.J.Crouch Family Butcher,Staplehurst
+1488,51.1590905,0.552567133,Radfords Estate Agents,Staplehurst
+1489,51.15984055,0.552548583,The United Reformed Church,Staplehurst
+1490,40.34538432,-84.97617703,Bluff Point Friends Church,"Portland, IN"
+1491,51.16002492,0.552518067,Doves Funerals,Staplehurst
+1492,51.16002492,0.552518067,Forge House Dental Practice,Staplehurst
+1493,51.1602057,0.552557183,Happy Valley,Staplehurst
+1494,51.16028775,0.552486483,Beautique,Staplehurst
+1495,51.16030078,0.552499917,Kingford Solicitors,Staplehurst
+1496,51.16030078,0.552499917,The Cottage Bakery,Staplehurst
+1497,51.16040462,0.552503933,Pearson Stewart and Partners,Staplehurst
+1498,51.16040448,0.552525333,Ward & Partners Estate Agents,Staplehurst
+1499,51.16045297,0.55249425,Spuds\\u00a0&\\u00a0Buds,Staplehurst
+1500,51.16045297,0.55249425,Heart Of Kent Hospice,Staplehurst
+1501,41.80337584,-72.71431672,Wendy's,"Hartford, CT"
+1502,51.1605431,0.552485867,Physiotherapy & Sports Injury Clinic,Staplehurst
+1503,51.1605431,0.552485867,Nicky's Beauty Salon,Staplehurst
+1504,51.16056848,0.552490033,Michael Hair Stylist,Staplehurst
+1505,51.16094608,0.552382171,Staplehurst Village Sign,Staplehurst
+1506,51.16083018,0.55218355,Wine Rack,Staplehurst
+1507,51.16036647,0.55220405,Martins,Staplehurst
+1508,51.16039939,0.551896691,Spar,Staplehurst
+1509,42.10374289,-88.10513967,The Kayler Farm,"Barrington, IL"
+1510,46.41871869,7.271146774,Cheeserii ,Saanen
+1511,46.30935578,16.33985065,Zlatne Ruke,Varasd
+1512,38.94094092,-121.0934979,BevMo!,"North Auburn, CA"
+1513,42.27387987,-83.7758207,O'Reilly Auto Parts,"Ann Arbor, MI"
+1514,41.92405933,-84.63219988,Goldstar,"Hillsdale, MI"
+1515,42.31872115,-83.67926896,Integrated Health Associates (Central Office),"Ann Arbor, MI"
+1516,46.79617993,-71.17634812,St-Hubert,Levis
+1517,39.98208572,-105.2473551,Arapahoe Vision Center,"Boulder, CO"
+1518,9.00410413,-79.53341829,Farmacia Arrocha,Panama City
+1519,31.33340912,-92.39778425,Sonic ,"Pineville, LA"
+1520,25.96802588,-80.13249898,Ballys,"Miami, FL"
+1521,42.55734372,-71.2351039,Billerica Elks,"Billerica, MA"
+1522,43.24795751,-73.83436918,Subway,"Corinth, NY"
+1523,33.78858621,-84.6212504,Kroger,"Lithia Springs, GA"
+1524,38.78507709,-121.2680373,Winco,"Roseville, CA"
+1525,61.68849362,16.1862037,Viks By i J??rvs??,null
+1526,19.20783379,72.87264705,Reebok Showroom,"Mumbai, Maharashtra"
+1527,19.20650386,72.87169384,Thakur College,"Mumbai, Maharashtra"
+1528,52.02819055,8.9035846,dm,Lemgo
+1529,28.36063003,-16.416027,Fred Olsen Express,Arato
+1530,46.97687067,8.665961517,Sporthaus Suter,null
+1531,37.25271168,127.075516,\\uc601\\ud1b5 \\uc720\\ubc29\\u3154,Suwon-Si
+1532,14.65754555,121.0558791,Razon's Of Guagua,Quezon City
+1533,58.2751176,11.56550665,Ling\\u00e4ll,Uddevalla
+1534,51.22691901,4.402153852,Xerius,Antwerp
+1535,58.65674753,14.405058,Unden\\u00e4s \\u00c5tervinningscentral,Unden\\u00e4s
+1536,58.65501425,14.3993544,Unden\\u00e4s Bibliotek,Unden\\u00e4s
+1537,40.87488232,-73.32374123,Aboffs East Northport,"East Northport, NY"
+1538,59.38827613,24.67175742,N\\u00f5mme Suusah\\u00fcppem\\u00e4gi,Tallinn
+1539,59.39078555,24.68513503,Vanakas,Tallinn
+1540,18.5155354,-69.84719038,UAPA Santo Domingo,Santo Domingo
+1541,41.76377092,-85.9749653,A Halo's Touch Family Salon,"Edwardsburg, MI"
+1542,47.37384893,-68.31613122,Press Caf\\u00e9,Edmundston
+1543,-8.031542533,-34.90501428,Cidade Jardim Delicatessen,"Recife, Pernambuco"
+1544,46.30838433,16.33784418,Drugstore,Varasd
+1545,43.24610146,-73.83630037,White's True Value Hardware,"Corinth, NY"
+1546,29.28975362,-81.04094702,Link Chiropractic Clinic,"Ormond Beach, FL"
+1547,38.85390738,-77.44999552,Tuesday Morning,"Centreville, VA"
+1548,39.26342945,-121.0194313,New Moon,"Nevada City, CA"
+1549,40.77683535,-73.78195581,La Casa de Familia,"New York, NY"
+1550,26.18286522,-98.20703734,Tico's Mexican Food,"Mcallen, TX"
+1551,33.42165032,-84.19076972,Kohl's,"Mcdonough, GA"
+1552,35.38923728,-120.858026,Holland Inn,"Morro Bay, CA"
+1553,53.05196678,-3.36437219,Graiglelo Villa,Derwen
+1554,39.5600723,-76.33193218,The Lodge,"Bel Air, MD"
+1555,55.69673403,-121.6356151,New Bluesky Restaruant,Chetwynd
+1556,41.63460956,-70.92222117,Cat Walk,"New Bedford, MA"
+1557,33.60070818,-112.3883304,Borgen Home,"Surprise, AZ"
+1558,50.81401777,5.1886595,Bel Company,Saint-Trond
+1559,58.65347527,14.39871117,Troll Ting,Unden\\u00e4s
+1560,51.51258683,10.26298435,Hessesches Haus,Duderstadt
+1561,50.83783829,4.349397816,Espace Jacqmotte,Bruxelles
+1562,35.94224252,-88.76597688,Milan Elementary,"Milan, TN"
+1563,39.97644608,-83.0117917,National City Bank,"Columbus, OH"
+1564,51.13434767,0.556491315,Bumbles Plant Centre,Frittenden
+1565,51.13460855,0.556526184,Simon's Pools,Frittenden
+1566,41.48419853,-71.56073122,"Kingston, Rhode Island ","West Kingston, RI"
+1567,51.06395327,0.507779717,High Bank Nursaries,Hawkhurst
+1568,51.06375774,0.507608056,Passion 4 Pets,Hawkhurst
+1569,51.06371054,0.507881641,KGS Mower Services,Hawkhurst
+1570,51.06343746,0.507683158,Coffee Shop,Hawkhurst
+1571,51.06377796,0.506733656,Nigel Collison Fuels LTD,Hawkhurst
+1572,51.06300593,0.506057739,Howdens Joinery Co.,Hawkhurst
+1573,51.06363974,0.506020188,Northtrade Seafood Specialists,Hawkhurst
+1574,51.0635386,0.506588817,Wealden Fine Furniture,Hawkhurst
+1575,43.9223842,-69.96435848,Barn Door Caf\\u00e8,"Topsham, ME"
+1576,51.04988446,0.509560704,Wealden Framing Services,Hawkhurst
+1577,51.04997045,0.509501696,Designer Glass,Hawkhurst
+1578,51.05016773,0.50966531,Martins of Hawkhurst,Hawkhurst
+1579,51.05176785,0.507951379,Cinque Ports Veterinary Associates,Hawkhurst
+1580,51.05157496,0.507420301,Raven Roofing Supplies,Hawkhurst
+1581,51.0668626,0.50581634,Yew Tree Farm,Hawkhurst
+1582,26.01045827,-80.30182872,KT Nails And Spa,"Hollywood, FL"
+1583,54.84706622,-1.85708892,Derwent Manor Hotel,null
+1584,48.53459578,11.80462443,Mama Mai,Nandlstadt
+1585,26.01057737,-80.30378122,Heritage,"Hollywood, FL"
+1586,35.2958477,-98.9880165,Cordell Car Wash,"Cordell, OK"
+1587,26.01076673,-80.30299182,Mrs. Fields,"Hollywood, FL"
+1588,30.18003992,-82.63672027,Dept Of Veterans Affairs VA Hospital,"Lake City, FL"
+1589,26.01070718,-80.30247388,Kids Foot Locker,"Hollywood, FL"
+1590,45.60080577,-122.7318907,Columbia Steel Engineering And Advertising,"Portland, OR"
+1591,8.977050517,-79.51734453,El Hombre De La Mancha,Panama City
+1592,45.16351979,6.44260144,Bar Pub Le Centre,Valloire
+1593,40.64232149,-73.78233433,Gate 22,"New York, NY"
+1594,35.111079,-92.4789228,The MG Apartment,"Conway, AR"
+1595,46.78061688,-88.50867608,Ojibwa Casino,"Bear Town, MI"
+1596,42.51805233,-71.09624248,Dowd Pediatric Group,"Reading, MA"
+1597,46.27826046,-119.2819011,Tumbleweeds,"Richland, WA"
+1598,-37.8603144,145.0109963,Tram Stop 38,"Melbourne, Victoria"
+1599,39.22372764,-120.2060706,Kings Beach Boat Launch,"Alpine Meadows, CA"
+1600,-8.059047517,-34.88930297,Shopping Boa Vista,"Recife, Pernambuco"
+1601,51.22156352,0.570889133,Chart Sutton Village Hall,Chart Sutton
+1602,34.74008411,-77.33462142,Majestic Motorsports,"Jacksonville, NC"
+1603,-44.69076432,169.1408842,Hammer & Nail Bakery And Caf\\u00e9,Wanaka
+1604,35.59234898,-84.23357527,Pizzeria Venti,"Vonore, TN"
+1605,41.46602253,-81.5368597,Los Habaneros,OH
+1606,42.07600658,-72.03489437,Dynasty Chinese,"Southbridge, MA"
+1607,33.30632182,-87.60256648,Winn-Dixie,"Northport, AL"
+1608,51.36360184,1.030869484,AMF Bowling,Swalecliffe
+1609,51.35625833,1.040226667,The Monument,null
+1610,29.88541488,-90.05515845,Cherryberry,"Harvey, LA"
+1611,29.87168117,-90.0472414,Jefferson Parish Library - Westbank Regional,"Harvey, LA"
+1612,28.01431062,-99.52920788,The Ranch,"Encinal, TX"
+1613,42.0243382,-88.11868885,Borics ,"Schaumburg, IL"
+1614,42.27870178,-85.5893631,University Roadhouse,"Kalamazoo, MI"
+1615,57.28634693,-2.381421467,Inverurie Dental Care,Inverurie
+1616,57.28465825,-2.39246273,The Kilted Frog,Inverurie
+1617,51.81386518,-0.68488595,P. E. Mead & Sons,null
+1618,51.81205488,-0.67774525,Wilstone Cemetary,null
+1619,28.00762663,-99.18409552,Tillman Ranch,TX
+1620,46.3842534,7.267473233,Pfarrhaus & Kirche Gsteig,Gsteig bei Gstaad
+1621,42.41161044,-71.06303904,Sunrise Kitchen,MA
+1622,58.66048233,14.40365385,Olles Bensinstation,Unden\\u00e4s
+1623,42.41124299,-71.06288552,Union Barbershop and Tattoo,MA
+1624,53.25608962,-1.911712917,Discount Shopping Centre,Ladmanlow
+1625,34.74375593,-82.2315645,Hillcrest Animal Hospital,"Simpsonville, SC"
+1626,47.1452302,-122.1178223,Boppa's & Grandma's House,"Buckley, WA"
+1627,43.99259006,18.17992496,Internet Cafe Educomp,Visoko
+1628,-34.91940547,-56.15430753,Don Gato,"Montevideo, Montevideo"
+1629,39.92978888,-105.1236248,Dazbog Coffee,"Broomfield, CO"
+1630,8.988444183,-79.5305484,Mirador Del Cangrejo,Panama City
+1631,8.989909167,-79.52839403,Casa De La Carne,Panama City
+1632,47.27855175,-122.3329203,Sharis,"Federal Way, WA"
+1633,47.27855175,-122.3329203,Sharis,"Federal Way, WA"
+1634,35.87189889,-86.38945162,Carmen's Taqueria,"Murfreesboro, TN"
+1635,20.5130726,-100.8148009,Zimbron HD,"Celaya, Guanajuato"
+1636,42.680293,-84.532901,Sammy's lounge,"Lansing, MI"
+1637,55.66198133,37.55760865,Egorych Lodge,Moscow
+1638,40.59103973,-122.3571488,Far East Cafe,"Redding, CA"
+1639,43.24815288,-73.83410633,Corinth Free Library,"Corinth, NY"
+1640,43.24579667,-73.81975651,Dollar General,"Corinth, NY"
+1641,37.67281752,-92.66815066,Barber. Shop,"Lebanon, MO"
+1642,43.24700019,-73.83417606,Grand Union,"Corinth, NY"
+1643,50.90913433,3.11484625,T Vosken,Roeselave
+1644,30.28306604,-81.57345414,Creekside Apartmets,"Jacksonville, FL"
+1645,35.60475148,-91.2536196,Kroger,"Newport, AR"
+1646,35.60476538,-91.25365663,Newport Diagnostic Medical Clinic,"Newport, AR"
+1647,9.006585067,-79.53382032,Farmacias Metro,Panama City
+1648,8.999887533,-79.53288825,S\\u00faper 99,Panama City
+1649,42.52241814,-71.16164016,Royal Dynasty,MA
+1650,9.011437517,-79.53315242,Momi,Panama City
+1651,48.22850037,16.34381104,Party,Vienna
+1652,39.0155708,-95.76200105,Devlin's Wine & Spirits,"Topeka, KS"
+1653,29.20887744,-81.07342601,Kangaroo Store,"Daytona Beach, FL"
+1654,40.42377352,-104.9982609,Charley's Grilled Subs,"Loveland, CO"
+1655,34.2061169,-118.4495371,Blue Lagoon,"Los Angeles, CA"
+1656,42.28898412,-83.49796612,Dad's  ,"Canton, MI"
+1657,34.16936132,-84.41550728,Mitzu,"Canton, GA"
+1658,51.98148095,4.33298718,Nieuwenhout,Delft
+1659,37.97229067,-122.5611699,Lucky Gas,"San Anselmo, CA"
+1660,51.30329378,4.39951505,JOS Hoevenen,Stabroeck
+1661,41.51460421,-82.9083721,Big Sky Saloon,"Port Clinton, OH"
+1662,42.4655449,-83.88475353,Larry Kinneys Ice Pond,"Pinckney, MI"
+1663,32.19865975,-96.02860937,Stanley Lake House,"Malakoff, TX"
+1664,11.93686008,79.82940673,Cool Cat Coffee Bar,Pondicherry
+1665,46.98252069,8.67110806,NSKZ,null
+1666,-34.91719562,-56.15076632,Ermitage Hotel,"Montevideo, Montevideo"
+1667,47.23937094,7.76724106,Wornis Mountaincottage,Aarwangen
+1668,52.98100083,9.584895633,Rodelh\\u00fcgel Vissel,Visselh\\u00f6vede
+1669,45.16351979,6.44260144,Le Chant Du Pain,Valloire
+1670,40.06170821,-82.98573375,Comic Town,"Westerville, OH"
+1671,43.2223534,-77.37552947,Union Hill Country Grill,"Webster, NY"
+1672,50.71759188,-2.64710175,"Chalkpit Lane, Litton Cheney",Litton Cheney
+1673,39.76113781,-105.6830263,Silver Mountain Antiques,"Empire, CO"
+1674,58.65533185,14.3994698,R\\u00e4ddningstj\\u00e4nsten \\u00d6stra Skaraborg,Unden\\u00e4s
+1675,50.68357074,-3.357181549,Woodbury Common,Woodbury
+1676,18.2349739,-65.9119594,www.saulpadua.com,null
+1677,37.72637939,-97.46253204,Radio Shack,"Wichita, KS"
+1678,47.86094367,-121.9335683,Casa de Rowland,"Monroe, WA"
+1679,41.47292707,-82.17090011,Casa de In-Laws,"Lorain, OH"
+1680,48.64274727,11.7789902,Kreiskrankenhaus Mainburg,Mainburg
+1681,35.0447404,-82.26571408,Skyland Elementary School,"Greer, SC"
+1682,34.98592273,-82.27566067,Lake Cunningham FD ,"Greer, SC"
+1683,37.43288625,-79.26925421,Randolph College Riding Center,"Lynchburg, VA"
+1684,41.95348217,-88.12097643,AmPm,"Bloomingdale, IL"
+1685,47.0128762,10.2905498,Hotel Stefanie Ischgl,Ischgl
+1686,46.84189148,7.625970841,Chrigu's Homebase,Oberdiessbach
+1687,43.8945394,-79.33526297,Angus Glen Library,Markham
+1688,42.73102932,-92.49251115,Eichhorn Haus,"Waverly, IA"
+1689,39.35372352,-84.2767716,Subway,"Mason, OH"
+1690,8.997030933,-79.53060202,Parroquia Nuestra Se\\u00f1ora De Los Angeles,Panama City
+1691,30.11565641,-81.74188614,Eagle Watch,"Orange Park, FL"
+1692,8.96476757,-79.52566188,Bennigan's,null
+1693,29.22505985,-81.04957135,Wing Zone,"Holly Hill, FL"
+1694,34.11761987,-117.596902,Mobil,"Rancho Cucamonga, CA"
+1695,37.78713965,-122.4033374,Hotel Diva,"San Francisco, CA"
+1696,36.12230946,-115.1712051,The Venetian ,"Las Vegas, NV"
+1697,28.36735812,-81.55785441,Jellyrolls,"Kissimmee, FL"
+1698,30.05868938,-115.7250935,Mama Espinoza's,Baja California
+1699,37.36621717,-122.0170278,Wolfe India Bazar,"Sunnyvale, CA"
+1700,37.36637537,-122.0164557,Satellite Guadalupe,"Sunnyvale, CA"
+1701,37.36653438,-122.0158961,Nice Nails,"Sunnyvale, CA"
+1702,18.19472609,-66.62151754,Casa de la Melaza,Jayuya
+1703,37.36623425,-122.0133082,Hair Design,"Sunnyvale, CA"
+1704,37.36695255,-122.0130501,MVD Registration Services,"Sunnyvale, CA"
+1705,37.2597565,127.0793422,\\uc6a9\\uad81\\uc794\\uce58 \\uc0dd\\uc120\\uad6c\\uc774\\uc804\\ubb38\\uc810-,Suwon-Si
+1706,51.01324235,3.88932025,Emilie's Parents Crib,Wetteren
+1707,14.99162995,74.03754773,Ruchi & Aditya's Wedding,"Canacona, Goa"
+1708,51.84593198,5.8636287,Expo,Nymegen
+1709,-22.94881115,-43.90552,Praia Grande,"Mangaratiba, Rio de Janeiro"
+1710,51.0364776,0.610811412,Cafe,Rolvenden
+1711,51.03716743,0.611205697,World Of Water,Rolvenden
+1712,50.60874336,-3.42727154,Royal Beacon Hotel,null
+1713,51.05353821,0.629948974,Motor Museum,Rolvenden
+1714,51.05346908,0.62993288,Falstaff Antiques,Rolvenden
+1715,51.06441513,0.674956441,West View,St. Michaels
+1716,51.06828179,0.675165653,Tenterden Cemetery,St. Michaels
+1717,51.08360367,0.647495985,Boundary Farm,St. Michaels
+1718,51.0867684,0.64174635,Shorts Farm,Biddenden
+1719,46.00507172,15.87204547,Ina ,null
+1720,51.09420738,0.634438992,Castletons Oak,Biddenden
+1721,40.94178236,-72.98847992,Supercuts,"Miller Place, NY"
+1722,30.19326609,-81.57774491,Tunnelz 'n Tumbles,"Jacksonville, FL"
+1723,51.10890433,0.54707408,Car Wash,Cranbrook
+1724,59.36065086,18.22814488,Arlbrandt,Stockholm
+1725,-26.1474903,28.1565141,Nandos Edenvale,Johannesburg
+1726,52.99054955,9.84565732,Hillside,Soltau
+1727,8.64313955,-80.01923623,Oficinas De Altos Del Mar\\u00eda,Panama City
+1728,33.45374498,-84.169172,Chase,"Mcdonough, GA"
+1729,35.13556236,-120.636543,Ocean Palms Motel,"Pismo Beach, CA"
+1730,18.15440029,-66.74031794,El Ataud,Adjuntas
+1731,45.81501096,15.90423709,Pizzeria Luna,Zagreb
+1732,29.87252027,-90.03107032,Oakdale Playground,"Gretna, LA"
+1733,35.09641868,-82.22675585,Gowansville FD ,"Landrum, SC"
+1734,59.30889442,18.0884178,Elin & Patrik,Stockholm
+1735,8.649762767,-80.02476263,Mary's Cafe,Panama City
+1736,52.99242485,-6.97636995,Athy Train Station,Athy
+1737,59.51225782,18.05762457,Anna & Daniel H,Vallentuna
+1738,-22.9020143,-43.27544127,Terminal Rodovi\\u00e1rio Am\\u00e9rico Ayres,"Rio de Janeiro, Rio de Janeiro"
+1739,33.30582068,-112.0531121,Quiznos,"Phoenix, AZ"
+1740,51.35913465,1.0243065,Caxton Contemporary,null
+1741,45.99097257,15.85228015,Lukoil,null
+1742,29.91162854,-90.01099449,Walmart,"New Orleans, LA"
+1743,53.44263738,-2.73880875,Frankie And Benny's,St. Helens
+1744,32.41379808,-93.73772245,Capital One Bank,"Shreveport, LA"
+1745,36.11735863,-80.31540186,Mr. Lu's,"Winston-Salem, NC"
+1746,47.04580427,-122.926195,Texaco,"Olympia, WA"
+1747,8.979730167,-79.52728557,Os Segredos Da Carne,Panama City
+1748,32.41280863,-93.72366687,Race Way,"Shreveport, LA"
+1749,-22.91320917,-43.1815052,Estrela da Lapa,"Rio de Janeiro, Rio de Janeiro"
+1750,-37.7432393,145.064434,Rosanna Fish'n'Chips,"Melbourne, Victoria"
+1751,2.19059,102.274515,Haji Isenin Restoran Kari Kepala Ikan,Melaka
+1752,19.89306777,102.1389636,Keomany,Louangphrabang
+1753,47.81905847,12.70106518,Apartment 19,Siegsdorf
+1754,53.04037585,8.6773014,Sun-Power,Delmenhorst
+1755,52.96049498,0.07814985,WW2 Pill Box,Freiston
+1756,52.96054395,0.078987283,Freiston Shore Nature Reserve,Freiston
+1757,52.971385,0.094551467,WW2 Pill Box,Freiston
+1758,47.41974197,9.3791358,M\\u00fchleggbahn,St. Gallen
+1759,47.42188717,9.386894617,Buebeweiher,St. Gallen
+1760,55.9094814,37.86639808,Yupiter,Moscow
+1761,47.4227218,9.388693783,Schillerlinde,St. Gallen
+1762,40.41242081,-74.03842961,Jaspans,"Atlantic Highlands, NJ"
+1763,18.21312723,-66.61642948,Tito's BBQ,Jayuya
+1764,47.42489302,9.399330017,Notkersegg,St. Gallen
+1765,35.04142182,-82.44562463,Slater-Marietta Fire Sta 2 ,"Travelers Rest, SC"
+1766,63.83225615,20.19182757,Steinwall Residence,Umea
+1767,52.24079627,10.2901125,Wei\\u00dfes Kreuz ,Lengede
+1768,52.25609518,10.2742616,Kirche ohne Namen,Lahstedt
+1769,42.4621019,-83.83355728,StoneHouse Coffee,"Brighton, MI"
+1770,43.41057413,-80.13686243,Ontario Steam Heritage Museum,Puslinch
+1771,45.50137697,-73.423433,A&W,St.-Hubert
+1772,37.15857697,-93.24106598,Fuddruckers,"Springfield, MO"
+1773,50.89010467,4.510107917,Smoke'em,Steenokkerzeel
+1774,29.11422215,-110.9530373,Burritos Mi Pueblito,"Jes\\u00fas Garc\\u00eda, Sonora"
+1775,31.92581803,-87.7396971,Mc Donald's,"Thomasville, AL"
+1776,48.743607,-122.514837,Village Books,"Bellingham, WA"
+1777,36.32703777,-115.2647007,Las Vegas State Tree Nursery,"Las Vegas, NV"
+1778,35.87614102,-78.74066163,Crazy Christmas House,null
+1779,11.50270028,99.60893405,Thap Sakae Post Office,Thap Sakae
+1780,48.629313,7.726173467,Anaveo,null
+1781,51.36781521,6.548538208,Test,Krefeld
+1782,19.90137842,75.3201624,Bibi Ka Maqbara,"Aurangabad, Maharashtra"
+1783,43.46417221,5.608799458,McDonald's,Fuveau
+1784,29.20238052,-81.07287884,U. S. Post Office,"Daytona Beach, FL"
+1785,40.36065142,-74.0434601,TD Bank,NJ
+1786,36.71780893,-4.429579908,Restaurants M\\u00f3dena,Malaga
+1787,53.09375493,-0.382701117,St Clements Church,Rowston
+1788,53.09302715,-0.382572283,Rowston Marker Stone,Rowston
+1789,53.09298438,-0.382662033,Red Telephone Box,Rowston
+1790,53.06623622,-0.395375867,St James & St John,Dorrington
+1791,43.29810419,-73.67522836,Cumberland Farms,"Queensbury, NY"
+1792,43.30535775,-73.65540147,Stewart's,"Glens Falls, NY"
+1793,59.66426191,9.647755623,c)optikk HQ,Kongsberg
+1794,45.37965058,-84.9436283,North Country Community Mental Health,"Petoskey, MI"
+1795,42.3029924,-83.23655647,Oakwood Muirhead Building,"Dearborn, MI"
+1796,53.3383826,-3.40025198,Chris Herd Dental Surgery,null
+1797,50.87627247,5.927306414,Wouters Banden,Voerendaal
+1798,40.81734945,-74.2173028,Slurve,"Montclair, NJ"
+1799,45.44506663,-73.43946093,Garage,Brossard
+1800,52.26411558,10.22057347,Sparkasse,Ilsede
+1801,43.29174782,5.4778862,Fnac La Valentine,null
+1802,29.09085511,-110.9717309,Bancomer Americas,"Hermosillo, Sonora"
+1803,43.29151354,5.477735996,Micromania La Valentine Sud,null
+1804,43.33020384,-73.66928458,Advance Auto Parts,"Queensbury, NY"
+1805,43.32717571,-73.66753578,Auto Zone,"Queensbury, NY"
+1806,43.10299047,-88.36629791,Subway,"Hartland, WI"
+1807,46.23042199,-119.0887284,Goodwill,"Pasco, WA"
+1808,51.17220473,0.611790419,Black Mill Cottage,Headcorn
+1809,41.8088613,-72.54531629,Master Cuts,"Manchester, CT"
+1810,41.85033907,-88.34109487,Chase,"Batavia, IL"
+1811,48.743607,-122.514837,Fairhaven Fish and Chips,"Bellingham, WA"
+1812,36.60216985,-4.5485811,Essencia,Benalm\\u00e1dena
+1813,56.19590357,-3.0033747,Co-Op ATM,Leven
+1814,36.16099602,-80.32618233,Vogler Studios Of Dance,"Winston-Salem, NC"
+1815,35.66199995,-88.85140793,Pizza Hut,"Jackson, TN"
+1816,59.7610606,10.04080233,Orionfeltet,Krokstadelva
+1817,29.28659447,-81.03788327,European Cafe & Schnitzel House,"Ormond Beach, FL"
+1818,34.082225,-117.4856668,Hawkeye Equipment Rental,"Fontana, CA"
+1819,64.8354544,-147.8022028,Blood Bank Of Alaska,"Fairbanks, AK"
+1820,40.87932288,-73.95168882,Grissini,"Englewood Cliffs, NJ"
+1821,32.42645132,-99.73778227,Austin And Ashley's,"Abilene, TX"
+1822,45.1622017,-93.05373996,Fantastic Sams,"Centerville, MN"
+1823,44.05227696,-122.9963814,Jalesco,"Springfield, OR"
+1824,44.05227696,-122.9963814,Jalesco,"Springfield, OR"
+1825,45.1622017,-93.05373996,Game Stop,"Centerville, MN"
+1826,47.8584288,-122.010732,Fryeland's Elementary School,"Monroe, WA"
+1827,34.1194399,-117.6039596,Liquor & Market,"Rancho Cucamonga, CA"
+1828,-37.90998658,145.0857326,Safeway South Oakleigh,"Melbourne, Victoria"
+1829,50.94774993,5.2267944,Dagbladhandel Johan,Hasselt
+1830,46.18338523,6.701449067,Le Tyrolien,Morzine
+1831,43.45428186,5.633132458,Le Mas,Peynier
+1832,53.19173682,8.55779005,Aktiv Discount Blumenthal,Bremen
+1833,53.45364745,-2.733059267,St Helens Bus Station,null
+1834,30.2031787,-97.66690129,Austin Java-ABIA,"Austin, TX"
+1835,51.51791179,9.95446658,Rathaus Goettingen,Gotinga
+1836,52.20712175,21.00578943,Kebab Dubaj,Warsaw
+1837,51.29031841,7.361526489,Familie MACerkopp HQ,Ennepetal
+1838,50.89683478,5.733039379,Rabobank,Bunde
+1839,43.79692603,-88.41298343,Lakeshore Annex,"Fond du Lac, WI"
+1840,42.0218527,-91.66512072,Wendy's,"Cedar Rapids, IA"
+1841,26.20524948,-81.80343902,Lacoste,"Naples, FL"
+1842,25.98724608,-80.13107595,Quiznos,"Hallandale, FL"
+1843,40.77014183,-96.6212368,Urgent Care Clinic of Lincoln,"Lincoln, NE"
+1844,-22.41357845,-42.96229076,Igreja Santa Tereza,"Teresopolis, Rio de Janeiro"
+1845,52.25620072,10.24790901,Volksbank,Lahstedt
+1846,36.60062819,-4.54349041,Farmacia Miramar,Benalm\\u00e1dena
+1847,45.76377438,4.775816367,La Suite,Tassin-la-Demi-Lune
+1848,37.73925232,-120.9188672,Soria's Produce,"Riverbank, CA"
+1849,36.0840252,-80.35066456,Calvary Baptist Day School,"Winston-Salem, NC"
+1850,36.60247682,-4.548625467,LIDL,Benalm\\u00e1dena
+1851,32.58214072,-97.12907553,Starbucks in Tom Thumb,"Mansfield, TX"
+1852,36.09806559,-80.250447,Centenary United Methodist Church,"Winston-Salem, NC"
+1853,36.10114162,-80.27258488,Saint Leo School,"Winston-Salem, NC"
+1854,43.24456578,-73.830598,Rite Aid Pharmacy,"Corinth, NY"
+1855,36.08873998,-79.89277212,Dr. Lane And Associates,"Greensboro, NC"
+1856,39.87882065,-93.18881368,"Linneus, Mo","Linneus, MO"
+1857,39.4873662,-119.7879881,King Buffet,"Reno, NV"
+1858,29.17814022,-81.06642496,HH Gregg,"Daytona Beach, FL"
+1859,40.76938617,-96.61765337,Pioneers Gymnastics,"Lincoln, NE"
+1860,23.45058272,-110.2240234,Fonda El Zaguan,Baja California Sur
+1861,41.17490808,-76.06151015,Sam's House,"Glen Lyon, PA"
+1862,33.97249976,-118.0375493,R&H Market,"Whittier, CA"
+1863,33.97296687,-118.0371416,Whittier Daily News,"Whittier, CA"
+1864,29.03125773,-95.42313757,Swagelok,TX
+1865,38.65958743,-121.130476,Walgreens,"Folsom, CA"
+1866,41.99410372,-87.69404286,Spinzer,"Chicago, IL"
+1867,37.39782069,-79.17030215,Exxon,"Lynchburg, VA"
+1868,50.96505295,5.030269233,TM Bouw Nv,Diest
+1869,43.46404845,5.6115756,Midi's Cafe,Rousset
+1870,36.5992759,-4.533029795,Carambuco,Benalm\\u00e1dena
+1871,48.29904943,17.89359909,S??pka,null
+1872,41.07565223,-85.14776912,Clark Gas Station,"Fort Wayne, IN"
+1873,59.30869907,18.07949483,Kungsho ,Stockholm
+1874,14.62504732,121.0066929,Lam Tin Teahouse,Quezon City
+1875,51.33937918,3.235838413,Kerk Heist,Knokkne
+1876,41.79421633,-72.47144192,Bolton Vet,"Bolton, CT"
+1877,42.02178495,-91.66601121,Kwik Shop,"Cedar Rapids, IA"
+1878,45.47616821,5.26529604,Quick,Ch\\u00e2tonnay
+1879,60.39141112,5.314657688,Kiwi N\\u00f8stet,Bergen
+1880,51.92438392,4.491562917,Due Torino,Rotterdam
+1881,-21.39523625,-51.904812,Camp Panorama,"Sao Paulo, Sao Paulo"
+1882,41.88477757,-73.4695711,Sharon Pharmacy,"Sharon, CT"
+1883,60.25743815,5.2452495,Familien Lund,null
+1884,43.32808256,-73.66753042,Wendy's,"Queensbury, NY"
+1885,29.08174523,-110.9724682,Control De Plagas,"Valle Grande, Sonora"
+1886,52.37935858,10.36420584,Telefonzelle,Wendeburg
+1887,50.84974737,4.372215271,Le The Au Harem D'Archi Ahmed,Bruxelles
+1888,43.33032489,-73.67405891,Radio Shack,"Queensbury, NY"
+1889,39.12461769,-84.60279065,Chipotle,"Cincinnati, OH"
+1890,47.32795215,8.489073515,Abfalldeponie Stallikon,Stallikon
+1891,33.938845,-84.01884293,Hometown BBQ,"Lawrenceville, GA"
+1892,40.19048515,-93.13584187,Milan Christian Church,"Milan, MO"
+1893,29.28156232,-81.06602463,Wendy's,"Ormond Beach, FL"
+1894,-21.37859882,-51.88849392,Pousada Aquario,Sao Paulo
+1895,50.94867402,5.32220006,Trescinski HQ,Hasselt
+1896,59.34116262,17.88346377,Casa Str\\u00e5berg Romero,Stockholm
+1897,40.20094972,-93.12629055,Schoene Ruschmeier Funeral Home,"Milan, MO"
+1898,36.11592273,-97.02001722,P&K Equipment,"Stillwater, OK"
+1899,46.0260198,15.90603813,Samoborska banka,null
+1900,46.02739995,15.90893338,Ljekarna Zubic,null
+1901,46.02906892,15.909811,St.  Jelena Church,null
+1902,46.0294529,15.91003937,Hrvatska Posta,null
+1903,34.9610208,-82.34402638,Peidmont Park FD Sta 2,"Taylors, SC"
+1904,40.19944365,-93.13353967,Milan Oakwood Cemetary,"Milan, MO"
+1905,43.79028922,-88.42105132,Lakeshore Elementary School,"Fond du Lac, WI"
+1906,22.88961207,-109.9078652,Es Tu Rollo,"San Lucas, Baja California Sur"
+1907,46.26749237,-119.2857635,Habitat For Humanity,"Richland, WA"
+1908,-36.89279848,174.7731758,"Muffin Break, Greenlane Clinic Centre",Auckland
+1909,39.00748703,-84.65720017,Quikstop Oilube,"Florence, KY"
+1910,19.42828587,-99.13322985,Hospital de Jes??s,null
+1911,43.333631,-73.684375,Walmart,"Queensbury, NY"
+1912,42.590955,-84.456396,secretary of state,"Mason, MI"
+1913,42.68952161,-81.95272988,Food Basics,Dawn-Euphemia
+1914,47.59225935,8.1315176,Albbruck Bahnhof,Albbruck
+1915,40.20259512,-93.12461672,Owl Pharmacy,"Milan, MO"
+1916,27.42854137,-82.53984423,Royal Auto Recycling,"Sarasota, FL"
+1917,45.30315085,-85.25883232,Espresso Hut,"Charlevoix, MI"
+1918,45.3034561,-85.2590517,Glen's,"Charlevoix, MI"
+1919,31.55392848,-110.2872937,Wendy's,"Sierra Vista, AZ"
+1920,25.93733692,-97.47714686,La Pampa,"Brownsville, TX"
+1921,47.89688055,-122.3218954,CombiMatrix,"Mukilteo, WA"
+1922,33.49551248,-111.9273325,P.F. Changs,"Scottsdale, AZ"
+1923,39.99985192,-75.30933512,SEPTA - Ardmore Station,"Haverford, PA"
+1924,39.9959502,-75.30294065,SEPTA - Ardmore Junction Station,"Ardmore, PA"
+1925,39.99329872,-75.29802308,SEPTA - Wynnewood Station,"Ardmore, PA"
+1926,33.00934015,-96.87157322,Griffin House,"Carrollton, TX"
+1927,25.37288378,49.43183623,Mosque,null
+1928,48.14722453,9.410445583,Gasthof Rotes Haus,Langenenslingen
+1929,59.42807126,24.68903869,Talleks,Tallinn
+1930,29.78972825,-95.81646073,Drexel Food Mart,"Katy, TX"
+1931,36.06938171,-80.34095001,Women's Wellness,"Winston-Salem, NC"
+1932,29.78418985,-95.82082038,La Michoacana,"Katy, TX"
+1933,51.47507172,-3.20995903,Chiquito Cardiff Bay,Canton
+1934,8.666289817,98.24433583,ChongFa,Khuekkhak
+1935,36.83944523,-119.8901395,Hope Animal Center,"Fresno, CA"
+1936,50.94163346,5.15305399,Hairpoint,Herck-la-Ville
+1937,43.03192113,-77.4399833,Rainbow Wok,"Victor, NY"
+1938,43.85693521,18.41743112,Cafe Priroda i Dru\\u0161tvo,Sarajevo
+1939,43.24936807,5.38847208,La Poste Bonneveine,Marseille
+1940,53.68351304,-0.36770683,Pizza Hut,null
+1941,43.25131389,5.389791727,Pharmacie Hermes Park,Marseille
+1942,41.03830081,-73.97262239,Richland Psychiatric Hospital,"Orangeburg, NY"
+1943,43.25093099,5.390435457,Commissariat 8eme,Marseille
+1944,43.64900226,-79.61345673,Hewlett-Packard (Canada) Co,Mississauga
+1945,59.29853058,17.99224091,SATS Telefonplan,Stockholm
+1946,40.72299636,-73.99583162,Torrisi Italian Specialties,"New York, NY"
+1947,33.81773738,-83.96562262,Rosebud Elementary School,"Loganville, GA"
+1948,43.24920397,5.389233828,Cin\\u00e9ma Bonneveine,Marseille
+1949,25.6561765,-100.3037736,El Diego Garza Sada,"Monterrey, Nuevo Leon"
+1950,37.38427684,-79.18572897,Club Myrtle,"Lynchburg, VA"
+1951,41.16508203,-73.55156898,West School,"Stamford, CT"
+1952,29.80146527,-95.80291736,Don Chepe,"Katy, TX"
+1953,29.80120042,-95.8229761,Don Chepe,"Katy, TX"
+1954,39.08489163,-84.3839235,Mt. Washington Rec Center,"Cincinnati, OH"
+1955,45.37026769,-84.97112632,Rite Aid,"Petoskey, MI"
+1956,37.02416317,-120.0580542,Berenda Elementary School,"Madera, CA"
+1957,42.294821,-85.61338283,Ziggys,"Kalamazoo, MI"
+1958,34.082803,-118.34522,l.a. Eyeworks,"Los Angeles, CA"
+1959,40.68379247,-80.17830884,Ichiban,"Freedom, PA"
+1960,45.54417845,-75.28505472,Rockland District High School,Clarence-Rockland
+1961,35.57901346,-81.24111938,Maiden Senior High School,NC
+1962,36.04094962,-80.26713447,Georgia Taylor Recreation Center,"Winston-Salem, NC"
+1963,36.14472886,-115.2582367,American Laser Centers,"Las Vegas, NV"
+1964,35.02055758,135.7729946,gojo-station,null
+1965,32.42391435,-99.77301378,The Manrage,"Abilene, TX"
+1966,36.91717145,-76.30882752,Golden City Chinese Restaurant,"Norfolk, VA"
+1967,-37.87716,144.69215,Mossfiel Reserve,"Melbourne, Victoria"
+1968,53.86725729,-1.66658031,LBA Gate 9,null
+1969,53.22416432,8.797193283,Rewe OHZ Bahnhof,Osterholz-Scharmbeck
+1970,43.99842567,18.16906929,Interex,Visoko
+1971,40.88256472,-72.93634694,Cathedral Pines Co. Park,"Middle Island, NY"
+1972,46.23037535,16.13851795,Ina,null
+1973,58.15546882,8.00584155,Galleri Sol Nodeland,Kristiansand
+1974,45.50293501,-73.61866862,Stone Castle,Montreal
+1975,33.85787056,-84.09856393,Gwinnett Fire Station #3,"Lilburn, GA"
+1976,50.8993343,4.0564354,Home,null
+1977,35.65605308,-88.85128668,West Tennessee Healthcare,"Jackson, TN"
+1978,59.76049547,10.03563178,Stenseth Skole,Krokstadelva
+1979,35.65853193,-88.8555163,The Mix Factory,"Jackson, TN"
+1980,40.88256472,-72.93634694,Chillspot4,"Middle Island, NY"
+1981,35.65837327,-88.85393328,Comics Universe,"Jackson, TN"
+1982,40.88256472,-72.93634694,Artist Lake,"Middle Island, NY"
+1983,54.76552673,11.86991165,Hua Xin,Nykobing F
+1984,34.09777749,-117.833652,Dr. Williams,CA
+1985,45.40707518,-122.7248595,Round Table Pizza,"Lake Oswego, OR"
+1986,29.8179268,-95.72083237,Kwik Kar Lube,"Katy, TX"
+1987,49.95944747,-119.4203164,Dump,Kelowna
+1988,43.56098738,-116.5646535,NNU Bookstore,"Nampa, ID"
+1989,45.52872372,-73.29056443,Couche-Tard,St.-Basile-le-Grand
+1990,37.5847407,127.0529394,\\uccad\\ub7c9\\ub9ac\\uc815\\uc2e0\\ubcd1\\uc6d0 ,Seoul
+1991,46.27824563,-119.2824912,Bomber's,"Richland, WA"
+1992,42.6068434,-83.15100695,Orchid Cafe,"Troy, MI"
+1993,36.76247295,-103.8363841,Phillips 66,"Des Moines, NM"
+1994,56.50334572,-2.72138506,Morton Pitmilly,null
+1995,42.71609613,-84.56332498,Elderly Instruments,"Lansing, MI"
+1996,18.36484062,-66.80296093,Subway,Hatillo
+1997,35.59529787,-78.77488663,Blockbuster Video,"Fuquay-Varina, NC"
+1998,18.40261625,-65.9725968,My Mommy's Crib,Carolina
+1999,34.8494139,-82.3885017,Soby's,"Greenville, SC"
+2000,-23.47079365,-46.53109263,Comfort Hotel Guarulhos,"Guarulhos, Sao Paulo"
+2001,35.57565777,-78.79478987,"marvel Internetworking, Inc.","Fuquay-Varina, NC"
+2002,43.14702636,-77.58158999,Prepps,"Rochester, NY"
+2003,40.78037649,-73.2444123,\\u00d5 Pinherinho,NY
+2004,14.65344774,121.0333982,Cafe Izzo,Quezon City
+2005,43.26237027,5.393428803,Vulco Central Pneus,Marseille
+2006,47.3456244,8.715354339,Coiffeur Salvatore,Uster
+2007,-26.18997031,28.10899716,Ofner Bakery & Coffee Shop,Johannesburg
+2008,50.9355517,5.13987851,Logopedie Lizenborghs,Herck-la-Ville
+2009,43.24909456,5.388380885,Biblioth\\u00e8que Bonneveine,Marseille
+2010,47.5380791,7.57501315,Binningen Oberdorf,null
+2011,43.24717993,5.390381813,Best Western Bonneveine,Marseille
+2012,47.26875712,8.264566617,Primarschule,Schongau
+2013,59.92241887,10.75595554,Sandvik & Stabell,Oslo
+2014,59.2451216,18.58484643,The Alberts Summer Residence,Stockholm
+2015,53.74458819,-0.41316986,Morrisons,Anlaby Common
+2016,40.78054143,-73.96682739,Central Park,"New York, NY"
+2017,59.85961717,17.63411372,Unico,Uppsala
+2018,57.70544272,11.9683814,Andrum,Gothenburg
+2019,42.46737724,-71.06197583,Erik's Barber Shop,MA
+2020,43.2937079,5.358785391,Palais du Pharo,Marseille
+2021,43.248683,5.390376033,Zara Bonneveine,Marseille
+2022,43.24725808,5.389931202,Ibis Bonneveine,Marseille
+2023,59.27448946,15.18710732,Hos Farmor,Orebro
+2024,44.63892328,-63.58562868,Life Sciences Centre,Halifax
+2025,41.34379793,-72.91270153,Sheas Service,"Hamden, CT"
+2026,4.292074983,73.55999653,Soneva Gili Villa #31,null
+2027,41.72998365,-71.47694381,Kidz Adventure Cuts,"Warwick, RI"
+2028,44.01833344,-73.16923523,Ramunto's Pizza,"Middlebury, VT"
+2029,43.65203571,-70.28009656,Goodwill,"Portland, ME"
+2030,41.79904115,-86.25035631,Hot-Dogs Plus,"Niles, MI"
+2031,29.20895748,-81.07335027,Chevron,"Daytona Beach, FL"
+2032,42.2498097,-83.65495147,Fish Doctors,"Ypsilanti, MI"
+2033,4.297738033,73.55761495,Soneva Gili,null
+2034,39.08274573,-77.56941664,A Click Above,"Leesburg, VA"
+2035,53.74472614,-0.398235623,Regent Chinese Takeaway,null
+2036,51.8741023,0.863763133,House,Colchester
+2037,32.2237429,-110.9567029,East Coast Super Subs,"Tucson, AZ"
+2038,45.4417416,-75.24030568,Mike's Place,Clarence-Rockland
+2039,8.9854846,-79.51464366,Cinepolis VIP,Panama City
+2040,53.71439653,-1.678114935,Taylor Towers,null
+2041,59.40920507,17.80546332,Tv??ttstugan,null
+2042,35.17320221,33.36131036,Blue,null
+2043,18.32503808,-66.88161939,La Casa del Lechon,Lares
+2044,48.8881801,2.1935739,Home,Nanterre
+2045,53.57819861,-2.64449238,Ashfield House,Shevington Moor
+2046,34.96120565,-89.87577045,The Gun Exchange,"Olive Branch, MS"
+2047,33.18996418,-117.3744527,K5 Paddle Board Shop,"Oceanside, CA"
+2048,45.78435223,-108.5269725,Billings Senior High School,"Billings, MT"
+2049,46.70643168,9.4350028,Potzlo's Palace,null
+2050,39.36286622,-82.16815543,Grandma Chapman's House,"Athens, OH"
+2051,40.73793208,-86.75489032,Twin lakes High School,"Monticello, IN"
+2052,47.85727685,-121.9871569,Monroe High School,"Monroe, WA"
+2053,31.55503315,-110.2770066,Blockbuster,"Sierra Vista, AZ"
+2054,44.77436362,-88.60952407,Luigis,"Shawano, WI"
+2055,41.82000513,-71.42853138,Julian's,"Providence, RI"
+2056,29.2745524,-81.03338867,Yellow Cab Co. 255-5555,"Ormond Beach, FL"
+2057,14.68135512,121.0840811,PS Bank Commonwealth,Quezon City
+2058,45.51712752,-122.5381705,Carquest Auto Parts,"Portland, OR"
+2059,48.14735567,7.079099617,Le Lac Blanc,Le Bonhomme
+2060,51.22009279,4.461893092,Dierenarts,Antwerp
+2061,53.79389095,-0.34873455,Matalan,null
+2062,18.74987735,98.97105733,Yosa Japanese Restaurant,Pa Daet
+2063,36.59746134,-4.531364662,Hai Wang,Benalm\\u00e1dena
+2064,40.41446002,-74.03753189,Atlantic Bagel Co.,"Atlantic Highlands, NJ"
+2065,32.4596649,-93.71435188,Broadmoor Presbyterian ,"Shreveport, LA"
+2066,35.55830072,-97.66230702,O'Connels,"Oklahoma City, OK"
+2067,47.42740077,9.38176025,Kunstmuseum,St. Gallen
+2068,47.42745742,9.380763617,"Richard Serra \Trunk\""""",St. Gallen
+2069,47.42640205,9.37637255,Calatravahalle,St. Gallen
+2070,51.22466095,4.917347583,Ali Baba,Casterle
+2071,35.01003152,135.7607806,"Starbucks, Karasumasanjo",Kyoto-shi
+2072,25.6271227,-100.2726605,Autolavado Syma (Revoluci\\u00f3n),"Monterrey, Nuevo Leon"
+2073,50.86827319,-3.074095845,Yarcombe Inn,Yarcombe
+2074,41.6702136,-72.64256027,Rocky Hill Pizza,"Rocky Hill, CT"
+2075,42.73087567,-84.46965479,Mumbai,"East Lansing, MI"
+2076,38.65686959,-90.3050974,Iron Age Studio's,"St. Louis, MO"
+2077,45.31822923,-85.2583909,Woolly Bugger,"Charlevoix, MI"
+2078,39.14300537,-84.61965942,Sears,"Cincinnati, OH"
+2079,37.05670605,-94.58847052,Wildwood Ranch,"Galena, MO"
+2080,38.99227265,-110.1401828,Motel 6,"Green River, UT"
+2081,35.048525,135.54819,Chiyokawa Station (\\u5343\\u4ee3\\u5ddd\\u99c5),Kameoka-shi
+2082,38.91862767,-94.40254645,A Flip Zone,"Lees Summit, MO"
+2083,34.77007758,-77.38354498,Fuddruckers,"Jacksonville, NC"
+2084,43.78058903,-79.44367692,Esso,Toronto
+2085,46.78828511,-71.26089692,R\\u00e9sidences Cot\\u00e9 Jardins,Ste.-Foy
+2086,28.36655567,-81.55608416,Disney's Boardwalk Resort,"Bay Lake, FL"
+2087,37.89859258,-122.0627191,McDonald's,"Walnut Creek, CA"
+2088,28.36692385,-81.55709267,Big River Bar & Grill,"Bay Lake, FL"
+2089,39.61598689,-105.0940239,Cost Plus World Market ,"Littleton, CO"
+2090,46.21091038,-119.2068207,Tri-Cities Adams Enterprise Conference Room,"Kennewick, WA"
+2091,18.39867854,-67.13236034,Jimmy's Pizza,null
+2092,41.01161667,-73.67902637,Port Chester High School,"Port Chester, NY"
+2093,41.0028646,-73.68190169,D'Agostino Supermarket,"Port Chester, NY"
+2094,41.00288889,-73.68165493,Chase Bank,"Port Chester, NY"
+2095,34.56548017,-98.13354222,Hansen Ranch #2,"Lawton, OK"
+2096,45.88353175,-72.48473793,Gare d'Autobus Drummondville,Drummondville
+2097,29.64682815,-95.22145982,Sellers Bros,"Houston, TX"
+2098,45.62705997,-72.94667487,Gate d'Autobus Saint-Hyacinthe,St.-Hyacinthe
+2099,46.20819413,-119.2689207,EvilPacket Security Research Labs,"Kennewick, WA"
+2100,-31.09596392,150.9365346,Mcdonald's East,"Tamworth, New South Wales"
+2101,41.55821963,-73.95895185,Zangerle North,"Wappingers Falls, NY"
+2102,35.53869564,139.4533601,Tampopo Club Flower Shop,null
+2103,29.1144881,-110.9528561,Todo En Globos,"Hermosillo, Sonora"
+2104,49.70627283,9.24892505,Der Brotmacher,Miltenberg
+2105,53.1127669,8.45677455,Aktiv Irma Hude,Oldenburg
+2106,57.6962555,11.96619002,Framtidens F\\u00f6retag Aff\\u00e4rsinkubator,Gothenburg
+2107,34.6708053,32.87635527,The Stadium,Limassol
+2108,36.59876618,-4.5404468,Cajamar,Benalm\\u00e1dena
+2109,34.6726784,32.86399218,Sanctuary Of Apollo,Limassol
+2110,41.00417627,-73.6817193,Valero,"Port Chester, NY"
+2111,41.00283222,-73.68208408,Cerbone's Bakery,"Port Chester, NY"
+2112,41.00275935,-73.68247032,Finch's Drug Store,"Port Chester, NY"
+2113,-6.119218867,106.7832879,Hay Thien,Jakarta
+2114,19.21860045,72.84052062,Link Road,"Mumbai, Maharashtra"
+2115,41.96784473,-87.72967562,Dunkin' Donuts ,"Chicago, IL"
+2116,46.01625013,11.90692095,Al Cavallino,Feltre
+2117,37.5129556,127.0552153,Coex Natural Internet Cafe lolz,Seoul
+2118,-23.63743799,-46.69107949,Plaza Sul,"Sao Paulo, Sao Paulo"
+2119,33.88114967,-84.47092538,Costco Wholesale,"Atlanta, GA"
+2120,41.00461349,-73.67811441,Manchu Garden,"Port Chester, NY"
+2121,48.02559589,11.59510374,B\\u00fcrgersaal im Forstner,Oberhaching
+2122,-23.5924586,-46.6332156,Residencial Pantanal,"Vila Mariana, Sao Paulo"
+2123,46.02579845,15.90400533,Privredna Banka Zegreb,null
+2124,50.73537515,4.88134395,Low Profile,Geldenaken
+2125,36.59742123,-4.558652667,Xanit,Benalm\\u00e1dena
+2126,42.72606456,-84.47206157,MSU Epply Center,"East Lansing, MI"
+2127,34.97697628,33.91792633,Aiga Thekla,null
+2128,36.59943094,-4.557577372,Hospital de Alta Resoluci\\u00f3n de Benalm\\u00e1dena,Benalm\\u00e1dena
+2129,37.73927097,-97.23174605,PMA Northeast Family Physicians,"Wichita, KS"
+2130,39.5568806,-119.7040968,Subway,"Sparks, NV"
+2131,40.99960151,-73.67605448,J.J. Cassone's Bakery,"Port Chester, NY"
+2132,41.00112377,-73.67512107,Nayong Filipino,"Port Chester, NY"
+2133,41.71390773,-72.22222772,Clothes-Pin Laundromat,"Willimantic, CT"
+2134,35.17096347,-85.23963565,Chateau Kelly,"Chattanooga, TN"
+2135,39.6337154,-79.95382613,422 270 NMR,"Morgantown, WV"
+2136,40.82927567,-73.01731302,UPS,"Farmingville, NY"
+2137,45.52837518,-73.29142815,Subway,St.-Basile-le-Grand
+2138,45.52831765,-73.29239747,Tim Hortons,St.-Basile-le-Grand
+2139,45.52850078,-73.29221073,Concept Cardio Plus,St.-Basile-le-Grand
+2140,45.52887115,-73.29068598,Couche-Tard,St.-Basile-le-Grand
+2141,25.66461512,-80.40710682,Blockbuster,"Miami, FL"
+2142,33.80248815,-84.44199268,SuziQ Crib,"Atlanta, GA"
+2143,41.00444346,-73.67431641,Hostaria Mazzei,"Port Chester, NY"
+2144,29.87943979,-90.03520231,TJ Maxx,"Gretna, LA"
+2145,40.99393323,-73.67433786,Bank of America,"Port Chester, NY"
+2146,41.00065414,-73.68009925,Wachovia,"Port Chester, NY"
+2147,35.73621213,139.747824,Steak Hanamasa Komagome,Tokyo
+2148,34.06207828,-118.11021,Lam Hong Garden,"Monterey Park, CA"
+2149,38.69543892,-121.2712736,Alonzo's Pizza Depot,"Citrus Heights, CA"
+2150,37.64194369,-118.9839941,The Ghetto,"Mammoth Lakes, CA"
+2151,-36.84885591,174.7497793,Belgian Bar,Auckland
+2152,42.3242641,-7.87959325,Linebreak Office,Ourense
+2153,35.03881197,33.70707023,Pergamos Border Crossing,null
+2154,51.04317814,3.73459309,Home Office,Ghent
+2155,53.80758753,-1.53507409,ICS Ltd,null
+2156,35.12729473,33.94356945,Orthellos Tower,null
+2157,48.91377341,13.36352533,Ziviwohnheim,Spiegelau
+2158,-33.90035061,151.2534571,Charing Cross Hotel,"Sydney, New South Wales"
+2159,43.46253691,5.609411001,L'olivier,null
+2160,35.12514243,33.94190733,St Nicholas,null
+2161,49.47638213,9.771373272,Esso,null
+2162,40.99561757,-73.67288947,Sunoco,"Port Chester, NY"
+2163,35.1842449,33.89448725,Salamis,null
+2164,53.25186682,7.939921417,Markant Westerstede,Westerstede
+2165,43.9991923,18.16859788,Mekom Office,Visoko
+2166,38.87459208,-92.90717695,Pilot Grove School,"Pilot Grove, MO"
+2167,41.00144765,-73.67484212,Ruvo's Barber Shop,"Port Chester, NY"
+2168,35.05353355,-79.04479538,E. E. Miller Elementary School,"Fayetteville, NC"
+2169,35.70040946,34.59668756,Cape Apostolos Andreas,null
+2170,41.91802082,-88.31939455,BSA Three Fires Council,"St. Charles, IL"
+2171,32.53884631,-92.10612946,Monroe Surgical Hospital,"Monroe, LA"
+2172,29.40858186,-95.26114225,Valero,"Alvin, TX"
+2173,29.40907721,-95.24383664,POWER MART,"Alvin, TX"
+2174,48.11569825,11.47740217,Stadtsparkasse,Munich
+2175,52.38849215,-0.710883167,Tresham Institute,Kettering
+2176,43.05458069,-76.09619141,The Secret Garden,"Syracuse, NY"
+2177,41.61376699,-73.91385718,HKT Toys,"Poughkeepsie, NY"
+2178,35.40496722,-80.85938872,Huntersville OB-GYN,"Huntersville, NC"
+2179,39.00702363,-84.65607705,Second Glance,"Florence, KY"
+2180,46.29063891,-119.2770946,Progressive Sales,"Richland, WA"
+2181,-34.60958557,-58.3833038,El Imparcial,Buenos Aires
+2182,37.63706663,-97.41686075,Cessna Employees Credit Union,"Wichita, KS"
+2183,34.15653812,-118.2723375,Roman's Express,"Glendale, CA"
+2184,45.37631224,-84.94566679,Winter Sports Park,"Petoskey, MI"
+2185,45.30603317,-85.25839997,Burger King,"Charlevoix, MI"
+2186,33.90607587,-117.8439909,Telegraph Barbers,"Placentia, CA"
+2187,40.47884135,-104.9197118,Kung Food,"Windsor, CO"
+2188,46.90693487,-71.1055339,VW Langlois,null
+2189,46.91194207,-71.094314,Ultramar,null
+2190,42.0881194,-87.98443794,Nathaniel Moore Banta House,"Arlington Heights, IL"
+2191,41.00349615,-73.67467046,Piero's Restaurant,"Port Chester, NY"
+2192,57.78125074,14.17894006,Akademia J\\u00f6nk\\u00f6ping Home,Jonkoping
+2193,38.25614339,-85.50799,YMCA (Berrytown),"Middletown, KY"
+2194,46.81639822,-96.86338663,GOIN' POSTAL,"Fargo, ND"
+2195,18.20665495,-65.90166572,"???mi Casa???,/spots/372855""",
+2196,40.82034011,-73.97759663,Sushi ,NJ
+2197,40.82034011,-73.97759663,Lux Hairsalon,NJ
+2198,51.64568351,-0.08127898,Texaco,London
+2199,14.58235824,121.0769105,Metrobank Valle Verde,Pasig
+2200,35.17448815,33.36134668,Border Crossing,null
+2201,38.92250152,-77.50574285,Sonoco,"Chantilly, VA"
+2202,35.17763798,33.36596013,St Catherine,null
+2203,35.037153,135.759291,Kuramaguchi Station (????????????),null
+2204,34.97262565,135.8148336,Nagitsuji Station (\\u6925\\u8fbb\\u99c5),Kyoto-shi
+2205,34.961218,135.812733,Ono Station (?????????,null
+2206,54.91208737,-1.374083622,Media Room 234,null
+2207,45.24461977,-75.64793685,St. Mark High School,Ottawa
+2208,47.37323375,8.544793725,Musikhaus Thurnheer,Zurich
+2209,46.13967894,7.991030216,Hohsaas,Saas Grund
+2210,43.153871,-77.505912,Ethan Aranov DDS Family Dentistry,"Rochester, NY"
+2211,49.82189797,-97.20365248,Tan & Travel,Winnipeg
+2212,43.43135651,5.397988558,Decathlon,null
+2213,60.20033624,10.13952255,Oppen??sen,null
+2214,25.7900769,-80.23988983,Taqueria Mexicana Orale,"Miami, FL"
+2215,50.85434365,4.42907905,Frituur Anita,Bruxelles
+2216,31.27266885,30.00240857,\\u0639\\u0643\\u0646\\u0634 \\u0627\\u0644\\u0627\\u0645\\u064a\\u0631,Al Iskandariyah
+2217,45.37536705,-84.95489557,Tracy Lee Salon,"Petoskey, MI"
+2218,33.59130088,-91.80042207,Bellalise Books,"Monticello, AR"
+2219,29.81799397,-95.72085825,Tae Kwon Do,"Katy, TX"
+2220,41.77075977,-72.75098252,Montessori School Of Greater Hartford,"West Hartford, CT"
+2221,40.77795184,-73.03396314,Pep Boys,"Patchogue, NY"
+2222,33.79796595,-111.9798623,Mojito Cigar Lounge,"Cave Creek, AZ"
+2223,41.05662505,-85.22538162,TowerBank,"Fort Wayne, IN"
+2224,38.87874502,-77.47956347,Honey House,"Centreville, VA"
+2225,45.32650245,-85.23723273,Esperance,"Charlevoix, MI"
+2226,46.33481212,-72.57600055,Tim Hortons des R\\u00e9collets,Trois-Rivi\\u00e8res
+2227,45.30820422,-85.25895317,Pizza Hut,"Charlevoix, MI"
+2228,45.30632887,-85.25838803,Holiday,"Charlevoix, MI"
+2229,42.64357974,-86.20364428,Saugatuck - Douglas Library,null
+2230,32.84012778,-79.86790727,Lowcountry Crossfit,"Mount Pleasant, SC"
+2231,20.52975729,-100.8035302,D' Casa,"Celaya, Guanajuato"
+2232,45.42156637,-75.20804522,Legault Ju Jitsu,Clarence-Rockland
+2233,26.00892762,-80.39470423,Pizza Hut,"Hollywood, FL"
+2234,46.4324437,6.925087933,La Mancha,null
+2235,44.54437714,-123.3663034,Dance With Me ,"Philomath, OR"
+2236,35.73654903,139.7497755,Mugiwara Spaghetti,Tokyo
+2237,35.54857569,-87.54435223,SanAntonio Grill,"Hohenwald, TN"
+2238,34.51067153,-117.3303848,La Mirage Apartments,"Victorville, CA"
+2239,19.38033945,-99.26875015,Instituto Rosedal Vista Hermosa,null
+2240,53.06237332,8.194585683,Aktiv Irma Wardenburg,Wardenburg
+2241,53.05698793,8.255430233,Markant Sandkrug,Hatten
+2242,-33.90182112,151.1437509,House Of Awesome,"Sydney, New South Wales"
+2243,-38.43658238,145.496807,Cowes Beach,"Glen Forbes, Victoria"
+2244,59.82566562,10.2775383,HQ,Tranby
+2245,33.2484143,-87.54883647,Alabama\\u00a0Dermatology,"Northport, AL"
+2246,46.01317759,11.91106796,Stazione Trenitalia,null
+2247,59.33120347,18.05613057,Centralen Sp\\u00e5r 15-16,Stockholm
+2248,57.70455181,11.96930962,Brunnsparken,Gothenburg
+2249,53.01849743,8.57024415,Esso ,Ganderkesee
+2250,53.0390328,8.66790375,Uwe H. Heider GmbH,Delmenhorst
+2251,37.30590548,-89.52027927,1st Pres Church,"Cape Girardeau, MO"
+2252,51.76216843,-0.743633217,Time,Wendover
+2253,8.45847231,-13.27203106,Syl's Internet Cafe,Freetown
+2254,51.77378482,-0.728784717,Trinity Community Centre,Halton
+2255,43.29534776,5.479667187,Feu Vert,null
+2256,43.29587875,5.478937626,Planet Saturn,null
+2257,34.82463968,-82.4127716,Wing Zone,"Greenville, SC"
+2258,52.93547638,-1.07593515,Gamston,Holme Pierrepont
+2259,29.21798683,-81.04739967,Taco Bell,"Daytona Beach, FL"
+2260,38.851369,-84.380611,Grants Lick Vet Hospital ,"Alexandria, KY"
+2261,40.76850107,-96.62486527,Popeye's,"Lincoln, NE"
+2262,33.9825266,-118.0443945,Whittier High School ,"Whittier, CA"
+2263,29.11743548,-110.9529616,Jo-Wah,"Hermosillo, Sonora"
+2264,41.84632725,-70.95035207,Lakeville Public Library,"Lakeville, MA"
+2265,40.85915808,-73.07891856,Burger King,"Centereach, NY"
+2266,51.05775644,3.278667927,Apropos,Wynghene
+2267,41.07441228,-85.24575829,QuikStop Oilube,"Fort Wayne, IN"
+2268,34.93163548,-120.4365083,Del Taco,"Santa Maria, CA"
+2269,43.1084714,-77.544626,Hess,"Rochester, NY"
+2270,45.58457898,-73.462298,TelcoBridges Inc  ,De la Broquerie
+2271,47.05518385,-122.8416912,Emily's House,"Olympia, WA"
+2272,38.80231906,-104.8190227,Veda,"Colorado Springs, CO"
+2273,18.31760158,-64.85560457,Nazareth Bay,null
+2274,19.16402887,-99.16309918,Caba\\u00f1a Gallo de Oro,Mexico City
+2275,-38.4486307,145.2390455,Euphoria Gallery Cafe,"Cowes, Victoria"
+2276,21.30172974,-157.850908,Honolulu Club,"Honolulu, HI"
+2277,42.60714418,-82.97216823,Kelly's Irish Pub on the Eastside,"Clinton, MI"
+2278,29.11336482,-110.9531862,Never\\u00eda El Patio,"Jes\\u00fas Garc\\u00eda, Sonora"
+2279,48.28894664,-122.6489044,Frasiers,"Oak Harbor, WA"
+2280,-38.44799127,145.2390667,Kristos Chicken Shop,"Cowes, Victoria"
+2281,33.960539,-98.51323067,Food Barn,"Wichita Falls, TX"
+2282,14.67807073,121.0837877,Mercury Drug,Quezon City
+2283,47.16539861,8.29028964,Coop Pronto,Hochdorf
+2284,53.06837652,8.610172767,Dr. med. vet. L\\u00fchrs,Ganderkesee
+2285,46.02383164,15.89985609,Pekarnica Katarina,null
+2286,51.45269023,-1.997779483,ExceptionVAR,null
+2287,54.23276516,-1.34194203,Wetherspoons,Thirsk
+2288,52.53894858,13.41473579,Berlin on Bike ,Berlin
+2289,35.64101877,-91.18943397,ASU-Newport Walton Hall,"Newport, AR"
+2290,33.23600889,-87.57787406,"William M Colburn, PC","Northport, AL"
+2291,46.14372291,7.978069782,"Schatzibar, Weissmiesh\\u00fctten",Saas Grund
+2292,36.60326379,-4.541634321,Carrefour Market,Benalm\\u00e1dena
+2293,45.36341265,-84.95518648,Sheridan Elementary   ,"Petoskey, MI"
+2294,64.75198992,20.9522903,Pompei,Skelleftea
+2295,45.7346954,16.01055622,Odra,Zagreb
+2296,45.73480024,16.01101756,Odra - \\u017deljezni\\u010dka stanica,Zagreb
+2297,50.90421232,6.948836119,Me1ster's Home,Cologne
+2298,46.0194562,7.74958068,Valtournache,Zermatt
+2299,41.05762076,-74.14370298,Tawara Japanese Restaurant,"Ramsey, NJ"
+2300,34.30296692,-83.84599332,Centennial Elementary School,"Gainesville, GA"
+2301,43.25741664,5.394641161,Le palais d'Asie,Marseille
+2302,43.25877228,5.394034982,O'Brady's,Marseille
+2303,45.22213762,-75.69538354,Subway,Ottawa
+2304,34.985033,-82.27350248,Lake Cunningham,"Greer, SC"
+2305,53.57158902,9.701253622,Hotel Senator Marina,Wedel
+2306,29.23607072,-81.06692223,Neighbor's Pizza,"Daytona Beach, FL"
+2307,50.96066405,3.627380017,Apotheek Vandekerckhove,Nazareth
+2308,44.50822986,-73.13337819,Pizza Hut,"Essex Junction, VT"
+2309,55.5931307,13.01485058,Sofie Karlssons apartment,Malmo
+2310,31.44133637,-100.4669454,ASU University Center,"San Angelo, TX"
+2311,50.94119369,5.13033908,Frituur - 't Frituurtje,Herck-la-Ville
+2312,50.45117717,-104.6039704,Bushwakker Brewing Company,Regina
+2313,39.98270572,-74.8085574,Classic Cars Nissan,"Lumberton, NJ"
+2314,29.49044907,-98.71643108,Genghis Grill,"San Antonio, TX"
+2315,35.17439669,33.36730664,Hamam Omerye,null
+2316,42.32721894,-85.24348735,Goodrich W Columbia 7,"Springfield, MI"
+2317,35.41068605,-80.58436275,Old Courthouse Theater,"Concord, NC"
+2318,60.26578698,5.358405833,Thomas Nesses Place,Fana
+2319,32.89442072,-117.1342048,That's Amore Pizza,"San Diego, CA"
+2320,37.53962627,-75.82196116,Fresh Pride,"Exmore, VA"
+2321,36.23048938,-115.1615311,Family Friendly Medical Care,"Las Vegas, NV"
+2322,38.2987765,-85.55509695,US Bank (in Meijer),"Louisville, KY"
+2323,36.79435405,-76.16967201,Koi Sushi,"Virginia Beach, VA"
+2324,39.446911,-119.7734014,Audi Reno,"Reno, NV"
+2325,43.86920667,-79.36215302,CIBC,Markham
+2326,35.14641535,-85.19513565,Holiday Bowl,"Chattanooga, TN"
+2327,33.97379433,-118.0324745,Wellness Center,"Whittier, CA"
+2328,44.56523895,-123.2576447,Terzo,"Corvallis, OR"
+2329,30.50418813,-97.73059637,Five Cat House,"Round Rock, TX"
+2330,47.59768345,-122.2037808,Gramps and Mamie's,"Bellevue, WA"
+2331,25.66256099,-100.3579444,George,"Garza Garc\\u00eda, Nuevo Leon"
+2332,39.22236448,-120.0717759,6615 Catalpa Cabin,CA
+2333,40.77824348,21.2564606,Chale Tottis,Dytiki Makedonia
+2334,43.2565962,5.405777693,CNRS,Marseille
+2335,43.27220602,5.40063858,McDonald's Schloesing,Marseille
+2336,43.30590427,5.391089916,Lyc\\u00e9e Staint Charles,Marseille
+2337,51.54811368,6.573501517,Ballkontakt,Rheinberg
+2338,43.2656907,5.393879414,Renault Michelet,Marseille
+2339,43.26514382,5.391803384,B\\u00e9b\\u00e9 9,Marseille
+2340,43.26157334,5.386304855,Lyc\\u00e9e Daumier,Marseille
+2341,36.5991287,-4.533408621,Lorca,Benalm\\u00e1dena
+2342,53.27284693,-9.05272382,McDonald's,Galway
+2343,50.96180409,7.98206412,China Imbiss Wok,Kreuzthal
+2344,3.40573415,101.5561198,?????????Chinese Restaurant,null
+2345,60.14259928,16.17133408,M\\u00e5rtas @ K\\u00f6pmangatan,Avesta
+2346,52.23521164,-0.898888707,Home Bargains,null
+2347,47.85756658,11.52749027,Skilift Peretshofen,Dietramszell
+2348,35.30834525,-80.5142858,Concord Speedway,"Concord, NC"
+2349,54.64673942,-5.6584506,Subway Bloomfields,Six Road Ends
+2350,36.79474066,-76.16670012,Rite Aid,"Virginia Beach, VA"
+2351,32.78460677,-80.00438957,Baker Motors,"Charleston, SC"
+2352,35.90525178,-79.95565922,Hampton Inn,"Archdale, NC"
+2353,50.59263396,-1.21320915,Ocean View House,Ventnor
+2354,40.74350166,-96.70502901,Swanson's TaeKwonDo,"Lincoln, NE"
+2355,43.08979862,-77.52001652,Pittsford Rec,"Pittsford, NY"
+2356,43.08979862,-77.52001652,Pittsford Nautilus,"Pittsford, NY"
+2357,43.0898101,-77.52003602,Spiegel Community Center,"Pittsford, NY"
+2358,43.08843918,-77.52272982,Sutherland High School,"Pittsford, NY"
+2359,43.2540098,5.394544601,??ric Maurin,null
+2360,43.08874532,-77.53601783,Pittsford Park -- South Lodge,"Pittsford, NY"
+2361,43.08941615,-77.53575835,Pittsford Park -- North Lodge,"Pittsford, NY"
+2362,43.08983133,-77.54101982,Pittsford Rowing Center,"Pittsford, NY"
+2363,43.08983133,-77.54101982,Warren Boathouse--Pittsford Crew,"Pittsford, NY"
+2364,43.08699762,-77.54514303,Pittsford Federal Credit Union,"Pittsford, NY"
+2365,25.79532307,-80.2390339,Neat Stuff,"Miami, FL"
+2366,25.79532307,-80.2390339,Neat Stuff,"Miami, FL"
+2367,43.08624518,-77.54393227,Crystal Barn Restaraunt,"Pittsford, NY"
+2368,56.84545746,15.7611537,Orrefors,null
+2369,43.08658715,-77.54201108,West Brook Building,"Pittsford, NY"
+2370,43.08506537,-77.53934272,Pittsford Ambulance,"Pittsford, NY"
+2371,41.93711168,-88.11992397,Aldi,"Carol Stream, IL"
+2372,43.08446802,-77.50865918,Bob Ford Fields,"Pittsford, NY"
+2373,43.08540175,-77.50958178,Bob Ford -- Field A,"Pittsford, NY"
+2374,36.5086035,-4.886464477,Cibercafe,Marbella
+2375,38.27583997,-85.59996238,Westport Middle School / Library,"Lyndon, KY"
+2376,36.79472348,-76.16508007,Food Lion,"Virginia Beach, VA"
+2377,28.7082451,-81.27171535,Central Florida Scottish Games,"Winter Springs, FL"
+2378,36.79485235,-76.16452217,GameStop,"Virginia Beach, VA"
+2379,36.79466334,-76.16563797,GNC,"Virginia Beach, VA"
+2380,36.79467193,-76.16586328,Kempsville Florist,"Virginia Beach, VA"
+2381,36.79421658,-76.16652846,AAAA Self Storage,"Virginia Beach, VA"
+2382,36.79691428,-76.17356658,Firehouse Subs,"Virginia Beach, VA"
+2383,36.80110671,-76.17547631,Tasty Korean BBQ,"Virginia Beach, VA"
+2384,36.80114107,-76.17559433,Hair Cuttery,"Virginia Beach, VA"
+2385,36.80094348,-76.1753583,17th Street Surf Shop,"Virginia Beach, VA"
+2386,49.4865834,9.81987834,Kaufland,Igersheim
+2387,36.80124416,-76.1756587,Payless ShoeSource,"Virginia Beach, VA"
+2388,36.8000758,-76.17533684,Fashion Bug Plus,"Virginia Beach, VA"
+2389,36.80078885,-76.17520809,Pulcinella,"Virginia Beach, VA"
+2390,36.80068576,-76.17520809,Best Cuts,"Virginia Beach, VA"
+2391,36.79984385,-76.17574453,Ciao Bella Hair Designs,"Virginia Beach, VA"
+2392,42.98833466,-88.23740387,Murf's Frozen Custard,"Waukesha, WI"
+2393,36.79992976,-76.17560506,Quiznos,"Virginia Beach, VA"
+2394,36.79974935,-76.17589474,Rite Aid,"Virginia Beach, VA"
+2395,36.09176108,-80.22766772,"Kenneth R. Williams Auditorium, WSSU","Winston-Salem, NC"
+2396,36.80048817,-76.17920995,Subway,"Virginia Beach, VA"
+2397,41.4967809,-82.06389441,Spevock's Nautical Lanes,OH
+2398,39.05237597,-94.68064293,Phillips 66,"Kansas City, KS"
+2399,38.982586,-84.620194,Chipotle,"Florence, KY"
+2400,43.03363903,-77.44068503,Michaels,"Victor, NY"
+2401,48.23123528,16.35738227,Homebase,Vienna
+2402,45.55960217,-122.8632818,Fifth & Main Studio HQ,"Portland, OR"
+2403,43.42400222,-70.76257582,Magnolias,"Sanford, ME"
+2404,38.99517415,-110.1537887,Shady Acres Laundromat,"Green River, UT"
+2405,32.51866808,-92.10436542,Popeyes Chicken,"Monroe, LA"
+2406,32.53797638,-92.10403918,RiteAid,"Monroe, LA"
+2407,42.50190846,-70.85643053,Flagship Travel,"Marblehead, MA"
+2408,44.29456535,-94.45939535,flandrau state park,"New Ulm, MN"
+2409,46.70689916,6.52221184,Le Gaulois,Agiez
+2410,38.87618541,-77.35447913,Vans,"Oakton, VA"
+2411,38.74383485,-93.56522423,Knob Noster Middle School,"Knob Noster, MO"
+2412,42.59638384,-83.90110731,Los Tres Amigos,"Howell, MI"
+2413,53.74263542,9.643953983,Samos,Elmshorn
+2414,43.89538427,-79.26369863,No Frills,Markham
+2415,34.0861092,-118.3439314,Chop Chop,"Los Angeles, CA"
+2416,42.02478173,-91.69635773,Twin Pines,"Cedar Rapids, IA"
+2417,38.81413048,-90.34397835,St. Sabina Church & School,"Florissant, MO"
+2418,42.6035991,-71.60606657,Bob's Tavern,"Groton, MA"
+2419,42.03430918,-91.69797077,Hills Bank and Trust,"Hiawatha, IA"
+2420,47.83771055,16.55257499,Cebu,Stadt Eisenstadt
+2421,46.43265708,6.93661825,SHMS,null
+2422,46.43357088,6.940565067,A Capell' Art,null
+2423,32.10289934,-110.7751615,Checker Auto Parts,"Tucson, AZ"
+2424,32.10233952,-110.7749868,Sports Buzz Haircuts,"Tucson, AZ"
+2425,32.1038236,-110.7745362,Brueggers Bagels,"Tucson, AZ"
+2426,42.03256791,-91.6685164,European Motors,"Cedar Rapids, IA"
+2427,32.1038236,-110.7745362,Baskin Robbins,"Tucson, AZ"
+2428,29.64009653,-82.61176078,Dave & Jessi's House,"Newberry, FL"
+2429,-38.44876819,145.2396101,Anything Goes,"Cowes, Victoria"
+2430,47.86979932,-122.0097332,The Chocolate Moose,"Monroe, WA"
+2431,-38.44811235,145.2392302,Onebyone Wakeboarding Shop,"Cowes, Victoria"
+2432,-38.44811357,145.2397136,Isle Of Wight Pub,"Cowes, Victoria"
+2433,-38.44810253,145.2404796,The Continental Motel,"Cowes, Victoria"
+2434,-38.44808977,145.241935,Erehwon Park ,"Cowes, Victoria"
+2435,24.04734638,-109.9883081,"Baja Joe's, La Ventana, Mexico",Baja California Sur
+2436,1.28834021,103.8640034,Boon Tong Kee,null
+2437,43.10354537,-77.48593232,Speedy Lube,"East Rochester, NY"
+2438,43.10346145,-77.48537955,Papa John's Pizza,"East Rochester, NY"
+2439,43.10265618,-77.48180998,The Lobster Trap,"East Rochester, NY"
+2440,-37.89859009,145.225563,Caribbean Rollerama,"Melbourne, Victoria"
+2441,41.68655586,-85.97348989,Brownstone,"Elkhart, IN"
+2442,29.12551995,-110.9613235,Asadero Taco Real,"Hermosillo, Sonora"
+2443,-33.90383213,151.1431078,Gladstone Hotel,"Sydney, New South Wales"
+2444,48.11512715,11.48065462,Esso,Munich
+2445,-31.09311927,150.9311076,The Vault,"Tamworth, New South Wales"
+2446,64.75036072,20.95606685,Optiker Burman,Skelleftea
+2447,48.61231402,7.7298162,Centre Nautique,Schiltigheim
+2448,47.31335884,8.11463552,Family Base,Kulm
+2449,14.58899215,121.0418293,Max's Restaurant - Liberty Center,Mandayulong
+2450,55.4298911,13.83168745,Casa Wullf,Ystao
+2451,34.19138188,-118.5892933,Americana Warner,"Los Angeles, CA"
+2452,53.2770555,-6.20744782,Barista's,Dun Laoghaire
+2453,64.75097855,20.95191479,Gallerix,null
+2454,43.1096317,-77.49540293,East Rochester Police Dept.,"East Rochester, NY"
+2455,43.1114678,-77.48589263,East Rochester Fire Dept.,"East Rochester, NY"
+2456,43.1155923,-77.49212415,Take A Break Restaurant,"East Rochester, NY"
+2457,43.11575355,-77.49208587,Time Warner Cable,"East Rochester, NY"
+2458,43.12080872,-77.47904975,The Country House,"East Rochester, NY"
+2459,52.0228179,4.872710109,CoreMundi HQ,Oudewater
+2460,53.69011748,-1.624888667,Next,null
+2461,43.13051583,-77.4779466,Mud About You,"Penfield, NY"
+2462,43.13035868,-77.47485692,Penfield Fire Hall,"Penfield, NY"
+2463,43.13067788,-77.48748398,Michael's Valley Grill,"Rochester, NY"
+2464,43.13119392,-77.48915085,Charley Brown's,"Rochester, NY"
+2465,43.13136508,-77.48969638,The Mac Shack,"Rochester, NY"
+2466,50.67923103,-1.214908383,The Garlic Farm,Newchurch
+2467,34.93168107,-82.28747963,Buncombe Antiques Mall,"Taylors, SC"
+2468,22.282038,114.1787088,SPCA (\\u611b\\u8b77\\u52d5\\u7269\\u5354\\u6703),Hong Kong
+2469,53.29159432,-6.24678188,Dundrum House,Dublin
+2470,42.524944,-83.67002475,Kinsington Metro Park (West Boat Launch),"Brighton, MI"
+2471,33.48542797,-84.18351933,Henry Baptist,"Mcdonough, GA"
+2472,32.383813,-86.209772,IHOP,"Montgomery, AL"
+2473,35.02821347,-82.31452965,Lake Robinson,"Greer, SC"
+2474,58.15991565,8.0629207,Kvivik HQ,Kosvik
+2475,32.1610759,-110.7142937,Tanque Verde Trail Saguaro Park East,"Vail, AZ"
+2476,42.9189941,-73.23752482,Bennington College,"North Bennington, VT"
+2477,42.88542938,-77.41243744,Bloomfield Antique Market,"Bloomfield, NY"
+2478,41.84667975,-72.56255247,Country Store,"South Windsor, CT"
+2479,41.03862863,-73.86521355,Romeos Pizzaria,"Irvington, NY"
+2480,36.06982452,-80.25845897,Burger King,"Winston-Salem, NC"
+2481,35.36699658,-120.8538926,Harbor Center,"Morro Bay, CA"
+2482,45.58454795,-122.7083347,Mt Olivet Baptist Church,"Portland, OR"
+2483,42.85910034,-77.11088562,Carriage Factory Antiques,"Stanley, NY"
+2484,51.20107872,7.580162717,Yellow River,L\\u00fcdenscheid
+2485,40.15052702,-83.09323653,Fire Station 322,"Powell, OH"
+2486,43.75665,-71.39327,Skelleys Market,"Moultonborough, NH"
+2487,33.86732095,-84.3363232,City Dog Market,"Atlanta, GA"
+2488,42.83327686,-77.40004551,One Potato Two,"Canandaigua, NY"
+2489,52.20745546,6.859502792,Hoff Vogelsanck,Enschede
+2490,43.15012293,-77.47179545,Shadow Lake Paddle Courts,"Penfield, NY"
+2491,43.11890733,-77.44166853,Eagle Vale Golf,"Fairport, NY"
+2492,43.11042888,-77.49671062,A Plus,"East Rochester, NY"
+2493,35.84969464,-78.64068311,The Wood,"Raleigh, NC"
+2494,36.60083189,-4.545386784,E.S. BP Tivoli,Benalm\\u00e1dena
+2495,34.1118918,-118.1878141,Taco Bell,"Los Angeles, CA"
+2496,39.13667905,-84.61781883,TJ Maxx,"Cincinnati, OH"
+2497,-34.56784402,-58.46403405,Maru Botana,Buenos Aires
+2498,42.8078567,-87.8071876,Typical Surb,"Racine, WI"
+2499,51.44219971,-3.174292798,Golden Lion,Penarth
+2500,39.08725661,-108.6003689,Liquor Barn,"Grand Junction, CO"
+2501,45.20918052,-76.02911395,Tim Hortons,null
+2502,33.9866793,-118.0559642,Hezaa's Place,"Whittier, CA"
+2503,38.74647498,-121.2634611,Macaroni Grill,"Roseville, CA"
+2504,41.92486748,-88.13315302,Roberts Roost,"Carol Stream, IL"
+2505,48.23958003,-122.3359972,Team Fitness,"Stanwood, WA"
+2506,33.31950892,-111.9918935,Valero,"Phoenix, AZ"
+2507,-38.4556177,145.2389029,Shell (Cowes),"Cowes, Victoria"
+2508,48.24294692,-122.3546221,Veracruz ,"Stanwood, WA"
+2509,64.75185263,20.95496178,Thomson Interactive Media,Skelleftea
+2510,64.75190297,20.9548223,Fl\\u00fcgger F\\u00e4rg,Skelleftea
+2511,24.66009992,46.71026021,SABB \\u0627\\u0644\\u0628\\u0646\\u0643 \\u0627\\u0644\\u0633\\u0639\\u0648\\u062f\\u064a \\u0627\\u0644\\u0628\\u0631\\u064a\\u0637\\u0627\\u0646\\u064a,Riyadh
+2512,50.90866517,7.1956175,Netempire Wald,R\\u00f6srath
+2513,56.9639162,24.12361122,My Spot 2,Riga
+2514,52.92548895,-1.216607094,St Johns Parish Church,Beeston
+2515,46.658523,6.517459467,Gare De La Sarraz,null
+2516,60.39919531,5.31023681,Thommessen,Bergen
+2517,51.142057,5.58972114,Het Elfde Gebod,Bree
+2518,60.36376262,5.3534922,Fridalen Studentbolig,Bergen
+2519,64.75171076,20.95703244,Attityd,null
+2520,22.2790123,114.1827249,\\u5409\\u5409,Hong Kong
+2521,55.6061227,12.98566338,LEO Pharma,Malmo
+2522,22.27969193,114.1836969,Sweet Jane,Hong Kong
+2523,45.36949889,-84.97244596,Fletch's Fast Track,"Petoskey, MI"
+2524,42.55028811,-83.11684699,1650 Research Drive,"Troy, MI"
+2525,45.31115234,-85.25855184,Eye Health Of Charlevoix,null
+2526,22.27867162,114.1831256,\\u674f\\u82b1\\u6a13,Hong Kong
+2527,30.27064037,-81.55960407,Tires Plus,"Jacksonville, FL"
+2528,41.9681155,-87.73836527,Salih Dental Centers,"Chicago, IL"
+2529,33.97117845,-118.0374034,Firestation #18,"Whittier, CA"
+2530,29.0890274,-110.9800529,Instituto Vanguardia,"Hermosillo, Sonora"
+2531,38.93131343,-77.17862203,Fairfax Cleaners,"Mclean, VA"
+2532,35.68996932,-88.85171957,"McLemore & McLemore, DDS","Jackson, TN"
+2533,43.25324402,5.394665301,Le pain d'Orly,Marseille
+2534,63.10860455,21.59487437,Kotipizza,Vaasa
+2535,40.74301542,-74.00365711,New China Restaurant,"New York, NY"
+2536,52.02814102,-1.15003341,Dhan Shiri,null
+2537,43.15892508,-77.56674648,Lorraine's Lunch Basket,"Rochester, NY"
+2538,43.15892508,-77.56674648,East High School,"Rochester, NY"
+2539,38.97489533,-84.66090413,Taco Bell,"Florence, KY"
+2540,33.61953327,-91.80179,Hunter's Spee-D Lube,"Monticello, AR"
+2541,43.15317787,-77.59438035,Genesee Valley Club,"Rochester, NY"
+2542,43.1530579,-77.59440818,GVC Paddle Courts,"Rochester, NY"
+2543,43.1462659,-77.59374158,Country Sweet Wings,"Rochester, NY"
+2544,43.14556733,-77.59162673,Monroe Theatre,"Rochester, NY"
+2545,34.77540807,-77.39225685,Liberty Auto Spa,"Jacksonville, NC"
+2546,43.14929613,-77.53573182,Brighton Fire Station 3,"Rochester, NY"
+2547,43.14767953,-77.53652673,Mercy High School,"Rochester, NY"
+2548,43.13012565,-77.5321735,CCR Paddle Tennis Courts,"Rochester, NY"
+2549,43.12979103,-77.53332732,CCR Skating Rink,"Rochester, NY"
+2550,38.97120692,-95.2891581,First State Bank & Trust,"Lawrence, KS"
+2551,34.91878253,-82.24558732,Southern Eye Doctor,"Greer, SC"
+2552,43.12074135,-77.54966448,Harley School - Fieldhouse,"Rochester, NY"
+2553,29.68963747,-82.35257178,Mom and Dads ,"Gainesville, FL"
+2554,42.12504128,-87.82185642,McGovern Pad,"Northbrook, IL"
+2555,19.49723597,-99.19145172,Ingram Micro Warehouse Mexico,San Miguel Amantla
+2556,43.11570153,-77.4801251,Colonial Business Systems,"East Rochester, NY"
+2557,43.11532538,-77.47955518,Frozen Ropes,"East Rochester, NY"
+2558,45.57727522,-73.44752782,Des Fleurs Et Des Choses,De la Broquerie
+2559,45.57727657,-73.44768325,La Grande Europe,De la Broquerie
+2560,45.57724807,-73.44720392,RBC Royal Bank,De la Broquerie
+2561,42.8064166,-71.5662431,A&E Roastery Cafe,"Amherst, NH"
+2562,27.78656068,-97.65716577,Taquieria Jalisco,"Robstown, TX"
+2563,40.00965312,-105.2765563,Color The World,"Boulder, CO"
+2564,1.31574205,103.7534594,Cherie Hearts,Singapore
+2565,59.48629428,18.30648422,The Isaksson Resident,Akersberga
+2566,38.98834609,-110.1736538,EPIcenter Temporary Office,"Green River, UT"
+2567,37.08789588,-94.52130987,American Red Cross,"Joplin, MO"
+2568,41.31773753,-81.44128392,Subway,"Twinsburg, OH"
+2569,33.94080112,-117.9571474,Carlton Family,"La Habra, CA"
+2570,39.15361646,-86.49148907,Covenanter Hills Apartments,"Bloomington, IN"
+2571,-37.90226711,145.2378417,Bordo International,"Melbourne, Victoria"
+2572,51.2606819,4.5551483,Tandarts Buysse,Schilde
+2573,53.7280485,-1.6626054,Kwik-Fit,null
+2574,47.22314587,5.962700844,Etablissement Fran\\u00e7ais du Sang,Besancon
+2575,43.0986065,-77.44074323,Fairport Fire Dept,"Fairport, NY"
+2576,35.96222031,139.3958402,Sakado Library,null
+2577,34.01096577,-84.31825338,Esther Jackson Elementary School,"Roswell, GA"
+2578,50.81707984,7.160897255,Strahlentherapie Troisdorf,Troisdorf
+2579,51.56137144,6.84816104,Hirschkamp,Oberhausen
+2580,54.51761448,9.567742067,Reuter's,Schleswig
+2581,38.94501492,-94.60630268,Little Rascals,"Kansas City, MO"
+2582,41.5328336,-72.63974025,Pieper-Olson Veterinary Hospital,"Middletown, CT"
+2583,41.47755703,-81.81502715,The Foxhole,OH
+2584,35.31762332,-80.85109322,Recall Recycling,"Charlotte, NC"
+2585,46.0276962,15.90241367,Dentist,null
+2586,60.37673514,5.303456783,Familien Helgesen,Fyllingsdalen
+2587,39.1057663,-84.50556946,The Grand Baldwin Building,"Cincinnati, OH"
+2588,36.1623652,-80.32833423,Old Town Family Eye Care,"Winston-Salem, NC"
+2589,50.95960934,3.599975109,Kind&Gezin,Nazareth
+2590,46.03046577,15.91356363,Veterinary station Zabok,null
+2591,45.39034901,-84.91919607,Payless Shoe Source,"Petoskey, MI"
+2592,34.70276103,-82.22254397,Cannon Memorial Gardens,"Fountain Inn, SC"
+2593,43.0404025,-77.102252,Perkins Elementary School,"Newark, NY"
+2594,43.04599762,-77.09381497,Newark Police Department,"Newark, NY"
+2595,23.68181949,-109.7006541,"Deli's Caf\\u00e9, Los Barilles, Mexico",Baja California Sur
+2596,43.0463014,-77.09334353,Town Of Arcadia Offices,"Newark, NY"
+2597,43.04575813,-77.09318837,Newark Fire Department,"Newark, NY"
+2598,43.04402795,-77.09263902,Demay Skate Park,"Newark, NY"
+2599,43.04413955,-77.09316232,Alex Eligh Community Center,"Newark, NY"
+2600,50.83825095,4.308700562,??,Bruxelles
+2601,39.00923073,-84.62915795,Tri state Women's Health,"Florence, KY"
+2602,32.79645608,-117.1937253,Cotija's Mex Grill,"San Diego, CA"
+2603,39.11733403,-94.9334382,Wolf Creek Marketplace,"Basehor, KS"
+2604,39.09677868,-84.6402692,TriHealth,"Cincinnati, OH"
+2605,32.4745665,-99.73420385,Abilene Endoscopy,"Abilene, TX"
+2606,42.02176104,-91.65216565,Collins Community Credit Union,"Cedar Rapids, IA"
+2607,40.01692737,-105.2852789,West End Wine Shop,"Boulder, CO"
+2608,-37.82948345,145.0528303,At Work,"Melbourne, Victoria"
+2609,43.10935876,-77.54573583,The Bird House,"Rochester, NY"
+2610,43.03627925,-77.11758,Newark CSD Bus Garage,"Newark, NY"
+2611,34.82918025,-82.40723282,Robert M. Rogers Dermatology,"Greenville, SC"
+2612,34.77535357,-82.30824528,Tractor Supply,"Mauldin, SC"
+2613,43.06445177,-77.339975,ExxonMobil,"Macedon, NY"
+2614,43.07052518,-77.43791843,Tops,"Fairport, NY"
+2615,35.43490388,-80.65455079,Exxon,"Concord, NC"
+2616,51.03730302,-114.10066,Little Ceasers,Calgary
+2617,33.313166,-112.0564508,Kyrene Altade\\u00f1a,"Phoenix, AZ"
+2618,-31.75278367,115.8007636,Kidzbiz,"Perth, Western Australia"
+2619,37.9728827,-122.5689268,Robson Harrington,"San Anselmo, CA"
+2620,33.95935892,-118.0454266,Pk's House,"Whittier, CA"
+2621,38.6087109,-121.4767563,La\\u00a0Flor\\u00a0De\\u00a0Michoacan,"Sacramento, CA"
+2622,14.55764478,121.0192966,Kooky & Luscious,Makati City
+2623,37.51958178,140.397261,SoftBank??????,null
+2624,33.86244175,-118.3999259,Cold Stone Creamery,"Hermosa Beach, CA"
+2625,37.51572135,140.402728,????????€???????????????,null
+2626,49.44229164,9.633153677,Norge Textilreinigung,Krautheim
+2627,51.1976121,4.77010822,Delta Lloyd Bank Vorselaar,Vorsselaer
+2628,34.32320142,132.3142676,"?????????????????????,/spots/417728""",
+2629,53.20273553,7.884950633,Edeka Aktiv Ocholt,Westerstede
+2630,50.64219826,5.57561552,Het Domein,Liege
+2631,50.81499881,3.244292736,IndieGroup,Kortrijk
+2632,18.38847309,-66.09396445,Sonumet,San Juan
+2633,51.29162182,4.442670733,Muziekacademie Mariaburg,null
+2634,37.68556705,-97.3257805,Alta Mere,"Wichita, KS"
+2635,53.05652922,8.62663763,tedox,Delmenhorst
+2636,34.11456006,-118.157102,Great Harvest Bread Co.,"South Pasadena, CA"
+2637,50.04235587,8.976731307,Eiscaf\\u00e8 Capri,Seligenstadt
+2638,43.2950276,5.385757685,La Poste,Marseille
+2639,43.29425452,5.385425091,CIC,Marseille
+2640,45.59221423,-73.43039945,Lulu Bistro,De la Broquerie
+2641,44.45769515,-93.15924984,Sweet Pea's Loft,"Northfield, MN"
+2642,44.45803236,-93.16008647,Rooms By Tagg 2,"Northfield, MN"
+2643,60.39979063,5.327596664,Miss JP castle,Bergen
+2644,54.21550452,10.1454268,K\\u00f6pman's am See,Kirchbarkau
+2645,40.87998053,-74.04542009,Social Security Office,"Hackensack, NJ"
+2646,29.66618517,-82.34197983,Gestalt Center,"Gainesville, FL"
+2647,40.72193352,-73.98141649,US Post Office - Tompkins Square Station,"New York, NY"
+2648,51.23393088,-0.20557373,The Bell,null
+2649,39.15964092,-84.45480402,Radio Shack,"Norwood, OH"
+2650,31.55568227,-110.3065968,Garden Place Suites,"Sierra Vista, AZ"
+2651,42.97408027,-77.37545627,Mark's Pizza,"Victor, NY"
+2652,42.97408027,-77.37545627,Finger Lakes Dialysis Center,"Victor, NY"
+2653,42.97415205,-77.37643725,Health And Harmony,"Victor, NY"
+2654,42.97410012,-77.37639402,Victor Chiropractic,"Victor, NY"
+2655,42.97407395,-77.37649243,Health And Harmony,"Victor, NY"
+2656,42.97406988,-77.3772989,Posella's Pizzeria,"Victor, NY"
+2657,51.89108097,-8.48200124,Bradleys,Cork
+2658,42.96398003,-77.39779457,Victor Hills,"Victor, NY"
+2659,42.19244878,-88.11045152,Fitness 19,"Lake Zurich, IL"
+2660,42.67039497,-86.18955615,Caravanserai,"Saugatuck, MI"
+2661,42.67040095,-86.1896018,Pizza Mambo,"Saugatuck, MI"
+2662,42.64324039,-86.20645523,DeMond's Foods,"Saugatuck, MI"
+2663,45.3074519,-85.25842572,Family Video,"Charlevoix, MI"
+2664,48.44052905,-123.5081813,Lotto Centre,Victoria
+2665,35.95755688,139.3914413,Ito Yokado,null
+2666,35.95780004,139.3938929,Mini Stop,null
+2667,-41.29356558,174.7762316,Customs Brew Bar,Wellington
+2668,33.45838864,-84.17625085,A Cut Beyond,"Mcdonough, GA"
+2669,39.18463534,-106.8172944,Banana Botique,"Aspen, CO"
+2670,-35.35849618,150.4729528,Ulladulla Coles,"Ulladulla, New South Wales"
+2671,41.52469593,-81.58692586,Grandmas ,"Cleveland, OH"
+2672,24.05383648,-109.9899108,"Vientos Del Norte, La Ventana, Mexico",Baja California Sur
+2673,44.6361621,-123.1068331,The Infallible Collective Studio,"Albany, OR"
+2674,36.69110462,-119.7701756,Kraft Foods,"Fresno, CA"
+2675,35.29439171,-120.6703198,Imagination Shoppe,"San Luis Obispo, CA"
+2676,37.4917236,140.3827376,???????????? ??????,null
+2677,35.66068456,139.7064414,\\u9421\\u7384\\u8089\\u5320 \\u6e0b\\u8c37\\u5e97,Tokyo
+2678,50.81226977,3.233977,ACVK,Kortrijk
+2679,49.14188922,9.1151951,Kindergarten L\\u00fctzelfeld,Leingarten
+2680,14.62771787,121.0043836,Jollibee (Banawe),Quezon City
+2681,14.6273182,121.0042119,KFC (Maria Clara),Quezon City
+2682,14.62722996,121.0045874,Razons (Banawe),Quezon City
+2683,46.01799079,11.90330029,Spazio Giovani,Feltre
+2684,42.0100834,-91.63548231,Hardee's,"Cedar Rapids, IA"
+2685,32.3935783,-99.76172037,Bourland Family Dentistry,"Abilene, TX"
+2686,53.18349278,8.6206822,Rewe Bremen Vegesack,Bremen
+2687,53.05090428,8.636731317,Tattoo Shop (Del Ink),Delmenhorst
+2688,48.89085373,2.290486767,My Hotel Levallois,Levallois-Perret
+2689,46.01636475,11.90591514,Soho23,Feltre
+2690,45.52074128,-123.0597334,Chevron,OR
+2691,33.90627932,-117.5017451,Starbucks,"Riverside, CA"
+2692,50.5495636,3.732490583,WooConcept HQ,Beloeil
+2693,41.90247383,-87.71517147,CVS Pharmacy,"Chicago, IL"
+2694,48.71162567,9.6487909,Total,Goppingen
+2695,-37.89365137,144.7411469,Jason's Home,"Point Cook, Victoria"
+2696,42.48194885,-83.28604889,Kirby's Coney Island,"Southfield, MI"
+2697,53.65140613,10.09257262,Hanseb\\u00e4cker Junge,Hamburg
+2698,43.26522194,5.390446186,Caf\\u00e9 des Sports,Marseille
+2699,42.29514242,-87.9951083,Physicians Interactive,"Libertyville, IL"
+2700,47.1774293,8.2092663,F\\u00fc\\u00fcr & Flamme,Neudorf
+2701,29.27157683,-81.08227525,Attitudes Hair Salon,"Ormond Beach, FL"
+2702,37.72241232,-122.4789418,Jessie's Hot House,"San Francisco, CA"
+2703,42.39268245,-72.53489858,UMass Parking Services,"Hadley, MA"
+2704,39.06623921,-120.1473695,The Shred Shed,"Homewood, CA"
+2705,29.88661034,-90.05530781,Alligator Pear,"Harvey, LA"
+2706,42.78081091,-86.11713767,Friends Of Wool,"Holland, MI"
+2707,42.64674433,-86.20110154,Ox-Bow At Work,"Saugatuck, MI"
+2708,35.40529519,-99.40022283,Bella Capelli,"Elk City, OK"
+2709,50.93047778,3.628595483,Q8 Asper,Gavere
+2710,42.66109525,-86.20894903,Mount Baldy Head,"Saugatuck, MI"
+2711,33.96804645,-118.0409074,Remedy Auto Body,"Whittier, CA"
+2712,40.00899365,-105.2761003,K & K Piercing,"Boulder, CO"
+2713,42.64397434,-86.203655,The Old School House,null
+2714,31.29511857,-86.50121927,Old\\u00a0Mexico,"Andalusia, AL"
+2715,35.79135333,-86.40051747,Whitt's Barbecue,"Murfreesboro, TN"
+2716,43.10499095,-77.53918205,Joseph A. Bank,"Rochester, NY"
+2717,31.76557698,-106.285207,Super Elotes Richy's,"El Paso, TX"
+2718,37.41743471,140.3627738,SoftBank??????,null
+2719,37.37474477,140.3491782,SoftBank??????????????????????????????,null
+2720,29.39626266,-95.27145267,Alvin Volunteer Fire Department Station 3,"Alvin, TX"
+2721,48.60795048,7.744518264,Il Ristorante,Schiltigheim
+2722,61.06172031,28.18911004,Wild Sport,Lappeenranta
+2723,45.01527652,6.129198867,Club Med,Mont-de-Lans
+2724,48.48098442,8.877818367,netcare Business Solutions GmbH,Neustetten
+2725,46.49230285,7.419511317,Tcs Kurs,null
+2726,47.32743549,12.77693986,Hochzelleralm,Zell am See
+2727,50.04306988,8.959838283,Britta Sch\\u00e4fer Logop\\u00e4din,Seligenstadt
+2728,16.2195928,120.5038345,Caltex Rosario,Rosario
+2729,51.90162932,-2.079245083,Michael & Son,null
+2730,40.6365059,-74.09940892,Dungeon,"New York, NY"
+2731,26.85681233,70.55274088,Desert Camp,Rajasthan
+2732,50.71023755,-1.283812083,The Tone Zone,Newport
+2733,26.21406644,127.683422,?????? Ryu-ya,null
+2734,53.31106857,8.826624583,Neukauf Hambergen,Hambergen
+2735,45.78831,15.93242884,Vrtic,Zagreb
+2736,40.57814823,22.97472954,"Lezamies Cafe Bar, Macedonia Center","Thessaloniki, Kentriki Makedonia"
+2737,35.65916061,139.57407,\\u307fya,Chofu-shi
+2738,60.18750737,10.19768465,Mr. H\\u00e6tt,Honefoss
+2739,34.21902263,-83.46882263,BJC Medical Center,"Commerce, GA"
+2740,51.93926476,1.256711483,The Mayflower,null
+2741,32.28391703,-106.7434624,NMSU Graduate Students Services,"Las Cruces, NM"
+2742,29.53760054,-95.14313579,Soundwaves,TX
+2743,47.27003073,8.32841241,Hotel Ochsen,Muri
+2744,55.79720603,37.64001375,LUKoil,Moscow
+2745,54.17308622,-1.303682327,Sessay Village Hall,Sessay
+2746,53.74486443,-0.414455167,Dominics Takeaway,Anlaby Common
+2747,42.60737572,-83.1304644,Once Upon A Child,"Troy, MI"
+2748,51.36185702,1.025487267,The Quayside,null
+2749,30.36236619,-88.54412585,Pascagoula High School,"Pascagoula, MS"
+2750,43.06462805,-77.4136233,Golden Phoenix,"Fairport, NY"
+2751,20.71051033,-103.4074569,La Playa,"Zapopan, Jalisco"
+2752,45.54874612,-73.5743773,Chez Baptiste,Montreal
+2753,42.91313417,-85.72029948,Park Center Lanes,"Wyoming, MI"
+2754,41.95651108,-88.72251238,Papa Murphy's Pizza,"De Kalb, IL"
+2755,48.7710362,-122.4462951,Washington Federal,"Bellingham, WA"
+2756,-37.86385344,145.0102387,Blue Fin Seafood,"Melbourne, Victoria"
+2757,34.2552618,-118.578793,Honshu Sushi,null
+2758,44.51871651,-73.1565777,Spanked Puppy,"Colchester, VT"
+2759,-41.13973563,175.0392052,Trentham Race Course,Upper Hutt
+2760,37.4087128,140.3655553,????????????????????????,null
+2761,3.006159322,101.5367711,Restaurant Yun Hai,null
+2762,35.6502632,139.4489613,Kettledrum,Hachinohe-shi
+2763,47.9422865,7.754148245,Kaiser's Gute Backstube,Pfaffenweiler
+2764,47.94248774,7.754609585,Schneckent\\u00e4ler Roller Shop,Pfaffenweiler
+2765,51.93648347,1.277293217,Salons 2,Bath Side
+2766,51.93734003,1.281319333,Hughes Electrical,Bath Side
+2767,53.05024235,8.625087981,B\\u00fcrgerb\\u00fcro Delmenhorst,Delmenhorst
+2768,53.28174203,6.14084732,Kruidvat,Kollum
+2769,37.41160388,140.3618136,Cannery Row,null
+2770,37.4130121,140.361878,ama terrasse,null
+2771,46.5684,7.482548017,Spillgerten,null
+2772,37.41128105,140.3614225,"FamilyMart??????????????€?????????,/spots/435949""",
+2773,36.50945383,-4.879025494,CERAM,Marbella
+2774,63.82275048,20.35531782,K\\u00e4rleksudden,Umea
+2775,52.92470148,-1.217510998,Beeston Police Station,Beeston
+2776,52.92618748,-1.216765344,Post Office,Beeston
+2777,43.1264206,-77.52617967,Allen's Creek Elementary School,"Rochester, NY"
+2778,43.26327657,5.395671129,Peugeot Michelet,Marseille
+2779,43.25152488,5.39842844,Weldom,Marseille
+2780,43.24778949,5.390558839,Starlight,Marseille
+2781,50.81100595,3.336281776,Piranno,Sweveghem
+2782,48.06595705,9.607402933,Adelindis-Therme,Bad Buchau
+2783,53.7188192,-1.63998,ARC Car Wash,null
+2784,36.50709617,-4.886964533,Hong Kong,Marbella
+2785,45.0158742,6.164925567,La F\\u00e9e,Mont-de-Lans
+2786,59.18613892,8.087806933,Gimle Skole,Fyresdal
+2787,53.68071695,-1.580564117,Co-Operative,null
+2788,52.05927455,-1.3393677,Carter Farm Deli,null
+2789,42.90431725,-77.2961247,Citizens Bank,"Canandaigua, NY"
+2790,29.51087635,-95.08999985,Avo's Cafe,"League City, TX"
+2791,46.77073818,8.279681504,Distelboden Melchsee-Frutt,null
+2792,42.96416423,-77.34656096,Farmington CountryMax,"Victor, NY"
+2793,38.97153473,-95.3062973,Indoor Aquatic Center,"Lawrence, KS"
+2794,51.9333975,1.25646472,Dovercourt Grill,null
+2795,29.39560834,-95.2724719,TRCK9,"Alvin, TX"
+2796,56.10612752,8.978887783,Lind Hotel,Herning
+2797,32.528969,-86.223759,Taco Bell,"Wetumpka, AL"
+2798,42.45734957,-83.93377915,Pinckney Auto Wash,"Pinckney, MI"
+2799,42.64369358,-86.20217795,Douglas Post Office,null
+2800,29.51869843,-98.63633693,Valvoline Instant Oil Change,"San Antonio, TX"
+2801,42.64391909,-86.20274305,Douglas Village Hall,null
+2802,39.51561603,-8.368105767,Retiro Da Aguia (falaguerio) ,null
+2803,45.12227096,18.43730092,Sve??ana Dvorana Vukovi?? Centar,null
+2804,37.79543215,-122.393564,Lulu Petite ,"San Francisco, CA"
+2805,60.39529669,5.32950925,Missmuffin,Bergen
+2806,41.51043151,-82.01184065,Avon Lake Public Library,OH
+2807,35.55789243,-80.86148177,ABC Liquor Store,"Mooresville, NC"
+2808,33.94023753,-117.9640807,Kragen Auto Parts,"La Habra, CA"
+2809,48.770223,-122.4436426,Cuts Plus,"Bellingham, WA"
+2810,45.50843525,-122.9137634,Schnoor's House,"Hillsboro, OR"
+2811,60.38810729,5.31023597,Heines Habitat,Bergen
+2812,35.78484344,-86.40092468,Hair Five-O,"Murfreesboro, TN"
+2813,42.0327512,-91.70061708,U.S. Cellular,"Cedar Rapids, IA"
+2814,42.03261732,-91.70061708,Verizon,"Cedar Rapids, IA"
+2815,29.27791838,-81.08363233,Yellow Cab Co. 255-5555,"Ormond Beach, FL"
+2816,39.92530079,-105.482161,Shoshoni Yoga Center,"Nederland, CO"
+2817,26.22174243,127.674222,Carenex ?????? SS,null
+2818,26.26042985,127.7176416,TangTang,null
+2819,41.90894907,-87.67190754,Beachwood Inn,"Chicago, IL"
+2820,31.55634052,-110.3069401,Sun Canyon Inn,"Sierra Vista, AZ"
+2821,14.56725532,121.1189514,Alexis Carwash & Detailing,Taytay
+2822,27.19685414,-81.84651375,The Gantzer Grotto,"Arcadia, FL"
+2823,37.40883368,140.3640551,"?????????????????????????????????????€???????,/spots/443821""",
+2824,26.25427912,127.7736032,????€????,null
+2825,-38.2129244,145.3806827,Pelican Cafe,"Tooradin, Victoria"
+2826,-38.21294743,145.3806486,Tooradin River,"Tooradin, Victoria"
+2827,14.24809597,121.0644096,Izakaya Takeshi Takeshi,null
+2828,37.40862545,140.3536811,Drug ????????????,null
+2829,64.7447539,20.93981266,Sunnan\\u00e5 Kyrkog\\u00e5rd,Skelleftea
+2830,-16.9233499,145.7736255,Cactus Jacks ,"Cairns, Queensland"
+2831,50.94752208,5.23550785,Pluimveecentrale Pluveco,Hasselt
+2832,14.56195426,121.0275471,Bel Air Square,Makati City
+2833,51.28729231,4.44550395,Tennis For Kids,null
+2834,51.0099527,3.887300033,Emilie's Grandmothers' Place,Wetteren
+2835,36.51041908,-4.8928084,Farmacia Mingorance,Marbella
+2836,14.57823606,121.0820603,Pixie's Sinugba,Pasig
+2837,22.30461728,114.1903241,Kanoka Kamaage Udon,Hung Hom
+2838,60.1830167,24.7931344,Pohjantori,Espoo
+2839,14.5538215,121.014313,Nodasho,Makati City
+2840,21.01990663,105.8437094,Veg Food,Hanoi
+2841,48.86266794,2.109847069,Les Coteaux de Louveciennes,Louveciennes
+2842,45.76012122,11.7519719,Ca' Baroncello / Bassano Rugby Clubhouse,Bassano
+2843,47.07262825,8.81645506,Langlaufzentrum Studen,Unteriberg
+2844,47.96136585,11.53560905,Bei Kr\\u00fcgls,Stra\\u00dflach
+2845,52.4386938,8.289613724,Knostmann,Bohmte
+2846,53.39518317,-1.42786875,Fara's,Norton
+2847,48.15164755,11.5475137,Spielplatz,Munich
+2848,59.29582562,18.09034507,Sk\\u00e4rmarbronx,Stockholm
+2849,52.02584958,-1.15036261,Tesco Petrol Station,null
+2850,50.99627292,3.7120741,My Great Aunts' Place,Ghent
+2851,30.38909258,-91.18680893,First Baptist Deaf Church,"Baton Rouge, LA"
+2852,-22.96812307,-43.18497836,Galeto & cia,"Rio de Janeiro, Rio de Janeiro"
+2853,30.395782,-88.7596742,Wesley Church,"Ocean Springs, MS"
+2854,42.9160004,-77.30306197,Tractor Supply Co.,"Canandaigua, NY"
+2855,29.95272707,-81.31384086,Peking Chinese Restaurant,"St. Augustine, FL"
+2856,50.94559913,3.96353828,Maxence's Crib,null
+2857,41.50904753,-82.02035297,Avon Lake United Church Of Christ,OH
+2858,42.69692823,-86.19376083,Felt Mansion,"Holland, MI"
+2859,31.55479408,-110.3015023,Jackson's Deli,"Sierra Vista, AZ"
+2860,44.01733847,-88.53652407,The Exclusive Company,"Oshkosh, WI"
+2861,31.5304007,-110.2620794,The Home Depot,"Sierra Vista, AZ"
+2862,33.27528645,-111.7039416,The Church of Jesus Christ of Latter-Day Saints,"Gilbert, AZ"
+2863,30.41835328,-86.65266022,Payless ShoeSource,"Mary Esther, FL"
+2864,42.40752515,-86.27711025,Outpost Sports,"South Haven, MI"
+2865,42.4077575,-86.27738357,North Side Memories Party Store & Deli,"South Haven, MI"
+2866,27.18309276,-81.92366481,Owen's Cemetary,"Arcadia, FL"
+2867,33.98575917,-118.0572885,Mobile Gas,"Whittier, CA"
+2868,38.02605304,-84.53888297,Staples,"Lexington, KY"
+2869,49.16397422,-122.642212,Dragon Palace,Langley
+2870,34.15980702,-118.6048134,Vista Lexus,"Los Angeles, CA"
+2871,35.8601564,-88.74752803,Milan First Baptist Church,"Milan, TN"
+2872,-37.884287,145.0811373,Sugar Station - Chadstone,"Melbourne, Victoria"
+2873,32.11880265,-110.7985509,Blockbuster,"Tucson, AZ"
+2874,32.11878673,-110.7988025,Subway,"Tucson, AZ"
+2875,37.75494885,140.6876745,\\u970a\\u5c71\\u30d1\\u30fc\\u30ad\\u30f3\\u30b0,Tokyo
+2876,25.04438513,121.5151594,Gos,Taipei City
+2877,45.43693243,-122.8290094,Mark's Video,"Beaverton, OR"
+2878,34.10033142,-118.3606372,Selworth Apartments,"Los Angeles, CA"
+2879,37.80228415,140.9282586,SoftBank??????,null
+2880,8.6667424,98.25303438,Mama's,Khuekkhak
+2881,48.72633008,9.64111775,Aldi Rechberghausen,Rechberghausen
+2882,47.06321158,15.45040153,Steyrer 48,Graz
+2883,37.20884973,-93.29276562,The Coffee Ethic,"Springfield, MO"
+2884,35.48089082,-80.85810637,Rite Aid,"Cornelius, NC"
+2885,42.60355079,-83.28793287,Square Lake Deli,"Bloomfield Hills, MI"
+2886,40.15962037,-104.9383817,Jacks,"Longmont, CO"
+2887,38.71149823,-95.07557642,Phillips 66,"Wellsville, KS"
+2888,51.220694,4.397749369,Praem Pochana,Antwerp
+2889,36.1630558,-80.3284166,BP/Family Fare,"Winston-Salem, NC"
+2890,36.1154052,-80.3149074,Spangler & Rohlfing,"Winston-Salem, NC"
+2891,33.952616,-118.0448878,Sierra Education Center,"Whittier, CA"
+2892,45.52867124,-122.6826905,Piazza Italia,"Portland, OR"
+2893,60.61268827,15.62438147,In the soffa,Fahlun
+2894,60.61280648,15.62486529,In the Soffa,Fahlun
+2895,49.73786345,6.613533497,Netto Marken-Discount,Trier
+2896,48.20288307,-114.3124899,The Pita Pit,"Kalispell, MT"
+2897,42.66085052,-84.07196046,Maria's School Of Dance,"Fowlerville, MI"
+2898,42.66147608,-86.19958878,Mildred A. Peterson Nature Preserve,"Saugatuck, MI"
+2899,42.65494309,-86.20300055,Reed's Livery,"Saugatuck, MI"
+2900,42.65615822,-86.20395541,Oostings East,"Saugatuck, MI"
+2901,45.45470881,-73.56080591,Strom Spa Nordique,Montreal
+2902,42.97401663,-77.35609889,King's Wok,"Farmington, NY"
+2903,43.1025137,-77.48474783,Erwin's Dry Cleaner's,"East Rochester, NY"
+2904,-38.44863342,145.2452388,Koloha Caravan Camp Sight,"Cowes, Victoria"
+2905,-37.8632981,145.0096599,Guang Hua,"Melbourne, Victoria"
+2906,-38.21363262,145.3800759,Tooradin Bakery,"Tooradin, Victoria"
+2907,45.52279174,-122.6583508,Printers Row,"Portland, OR"
+2908,39.96101183,116.4414204,hljhb,Beijing
+2909,64.75200364,20.957762,INFRA IT System,Skelleftea
+2910,64.75253906,20.95757961,\\u00d6hrlings PriceWaterhouseCoopers,Skelleftea
+2911,64.75271753,20.95665693,Office IT-Partner,Skelleftea
+2912,48.01892352,11.5882593,HypoVereinsbank,Oberhaching
+2913,51.93391087,1.260795517,Fryatt Memorial Hospital,null
+2914,46.76047335,7.503522635,Gmeis Wattenwil,null
+2915,14.57554674,121.0857725,LG Collins Main Office,Pasig
+2916,58.8984844,17.9287861,Kvarteret Doppingen,Nynashamn
+2917,13.04373592,-86.90079772,SunnySide Ranch,"Somotillo, Chinandega"
+2918,49.0578661,8.927413167,Evangelische Kirche Zaberfeld,Zaberfeld
+2919,39.63096109,-79.95441914,Nuru Office,"Morgantown, WV"
+2920,36.50873017,-4.89582473,Gorki,Marbella
+2921,51.57665758,-0.770640433,Costa Coffee At Esso Service Station,Bisham
+2922,43.48876795,-80.49211942,New Orleans Pizza,Waterloo
+2923,49.15447488,-122.8456503,Bear Creek Skate Park,Surrey
+2924,64.75078634,20.95106721,Se & Synas,null
+2925,51.34218318,1.021279517,Kwik-Fit,Seasalter
+2926,27.429131,-82.54512843,Vintage Vagabond,"Bradenton, FL"
+2927,41.85627918,-72.63974293,Barts,"Windsor, CT"
+2928,45.8656172,-119.2909719,Bruce Heating and A/C,"Hermiston, OR"
+2929,29.71376545,-95.76529437,$1.49 Cleaners,"Katy, TX"
+2930,48.58078436,7.747418582,Foreign,Strasbourg
+2931,45.84084938,-119.3015735,Goodwill,"Hermiston, OR"
+2932,36.3278412,-119.6562526,Port O' Subs,"Hanford, CA"
+2933,45.85395715,-119.2905551,Taco Bell,"Hermiston, OR"
+2934,39.57401732,-104.8835586,Southmoor Pediatric Dentists,"Englewood, CO"
+2935,36.65667991,-4.478634596,Bocatta,Malaga
+2936,38.92792048,-77.37532915,Images Salon,"Herndon, VA"
+2937,34.18273329,-94.00317239,Umpire Baketball Gym,"Rogers, AR"
+2938,29.8676508,-95.53667682,Rudy's Country Store Bar-b-q,"Houston, TX"
+2939,43.59803733,-72.97079105,No 1 Chinese Restaurant,"Rutland, VT"
+2940,49.885232,-97.14310602,The Poplab,Winnipeg
+2941,32.39514648,-99.76220255,CVS Pharmacy,"Abilene, TX"
+2942,-33.90418242,151.1432803,Swan Chinese Restaurant,"Sydney, New South Wales"
+2943,34.17769862,-118.8708616,Beverly Radiology,"Thousand Oaks, CA"
+2944,35.45660631,139.6010828,"???????????????,/spots/459359""",
+2945,47.42460471,9.37288862,Rhiners Kiosk,St. Gallen
+2946,37.41154927,140.3865148,????????????????????????????????????,null
+2947,53.71702832,-2.473983765,Premier Inn Darwen,null
+2948,35.67294307,139.7083902,\\u30dc\\u30fc\\u30cd\\u30eb\\u30f3\\u30c9,Tokyo
+2949,52.58204888,13.88124927,avado Projects,Strausberg
+2950,51.68941208,4.579389095,BMC Moerdijk BV,Moerdijk
+2951,51.04667391,0.51548034,Hawkhurst Recycling Centre,Hawkhurst
+2952,52.74538831,-2.735527743,Evans Easyspace Shrewsbury,null
+2953,-26.01714393,28.01101467,BootLeggers,Johannesburg
+2954,50.9015742,5.32101945,CMB,Hasselt
+2955,34.44239807,-119.7691879,Chris's Crib,"Santa Barbara, CA"
+2956,54.74818693,-5.995009233,Dennison Volvo Trucks,Ballyclare
+2957,48.89507774,2.278670975,Nendomatt's Office,Levallois-Perret
+2958,45.59201798,-73.43110085,Boutique Stadium,De la Broquerie
+2959,45.59218207,-73.4313151,Uniprix,De la Broquerie
+2960,36.32730197,-119.6755649,Kings Eye Center,"Hanford, CA"
+2961,45.59235234,-73.43045471,Le Comptoir,De la Broquerie
+2962,38.88041138,-77.17642307,Fairfax Auto Parts,"Falls Church, VA"
+2963,43.28571881,5.349880457,L'\\u00e9puisette,Marseille
+2964,43.28556261,5.35123229,Chez Fonfon,Marseille
+2965,43.28601558,5.350416899,Monument aux morts de l'arm\\u00e9e d'orient et des terres lointaines,Marseille
+2966,33.9107345,-118.3845002,E07-Raytheon,CA
+2967,59.69378121,17.60586977,Dammenv\\u00e4gen,Balsta
+2968,49.88717043,-97.14455083,The Way of the Sub,Winnipeg
+2969,43.06114018,-77.47230595,Thomas J. DeStefano DMD,"Pittsford, NY"
+2970,32.98844027,-96.52344337,Braddock Place Model,"Wylie, TX"
+2971,33.40976228,-86.62954738,Double Oak Mtn Church,"Sterrett, AL"
+2972,44.83604063,-93.80439877,Valley GMC,"Waconia, MN"
+2973,46.59462814,14.27553177,Davy Jones\\u00b4 Locker,Celovec
+2974,36.90431749,-119.738413,Childrens Hospital Central Califonia,"Fresno, CA"
+2975,42.53584104,-83.18775302,Sears/KMart Royal Oak Office,"Birmingham, MI"
+2976,36.83581362,-119.8104088,By The Sea,"Fresno, CA"
+2977,49.88006865,-119.443225,Rubys,Kelowna
+2978,41.64086573,-70.9993238,Stoneforge,"Dartmouth, MA"
+2979,37.68748587,-120.9450736,Raleys,"Modesto, CA"
+2980,46.01781943,11.90340757,Piazza Silvio Guarnieri,Feltre
+2981,43.09010532,-77.51019358,Top Notch Monogramming,"Pittsford, NY"
+2982,39.88501515,-82.75505026,Romeo's Pizza,"Pickerington, OH"
+2983,30.47959313,-91.12657738,Cracker Barrel,"Baton Rouge, LA"
+2984,40.0282631,-83.11478033,United Art and Education,"Hilliard, OH"
+2985,30.29649613,-81.5496622,Jaykay's Upholstery,"Jacksonville, FL"
+2986,33.66451213,-112.180087,Midwestern University Housing,"Glendale, AZ"
+2987,14.58209866,121.0768139,Isuzu Pasig,Pasig
+2988,26.45323188,-80.14562405,Wendy's,"Delray Beach, FL"
+2989,26.21700696,127.6692599,rakuchin hotel,null
+2990,46.4953879,11.33647113,Tachezy Sanit,Botzen
+2991,50.98813307,8.738256383,Edoras,Burgwald
+2992,54.23246153,-1.34222645,Arabica,Thirsk
+2993,14.55488408,121.0464744,CATS Motors,Taguig
+2994,50.83787153,4.369168282,UPC,Bruxelles
+2995,14.63372868,121.0335987,Cafe Romulo,Quezon City
+2996,52.12532532,7.39822113,Imbiss-Tro,Steinfurt
+2997,-26.10599617,28.0525805,Maraschino's,Johannesburg
+2998,50.83347321,4.365257263,Phidias Training Center - Electrabel GDF SUEZ,Bruxelles
+2999,49.86722828,8.659267304,Praxis Dr. von Heu\\u00dfen,Darmstadt
+3000,47.96481572,11.18859817,Andechser Molkerei,Andechs
